@@ -1,5 +1,5 @@
 ---
-'default':
+default:
   links:
   policies:
   buttons:
@@ -9,13 +9,14 @@
     phone:
     email:
   body:
+  image:
 '29686':
   title: Global Center (238 Thoms) 261
   capacity: 36
   links:
     software:
     instructions:
-  image: GlobalCenter261.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter261.jpg
   departments:
   floor:
   buttons:
@@ -34,7 +35,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter265.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter265.jpg
   departments:
   floor:
   buttons:
@@ -53,7 +54,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter269.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter269.jpg
   departments:
   floor:
   buttons:
@@ -72,7 +73,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer201.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer201.jpg
   departments:
   floor:
   buttons:
@@ -91,7 +92,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer202.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer202.jpg
   departments:
   floor:
   buttons:
@@ -110,7 +111,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer203.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer203.jpg
   departments:
   floor:
   buttons:
@@ -129,7 +130,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer204.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer204.jpg
   departments:
   floor:
   buttons:
@@ -148,7 +149,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer205.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer205.jpg
   departments:
   floor:
   buttons:
@@ -167,7 +168,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer206.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer206.jpg
   departments:
   floor:
   buttons:
@@ -186,7 +187,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer207.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer207.jpg
   departments:
   floor:
   buttons:
@@ -205,7 +206,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer208.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer208.jpg
   departments:
   floor:
   buttons:
@@ -224,7 +225,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer209.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer209.jpg
   departments:
   floor:
   buttons:
@@ -243,7 +244,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer210.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer210.jpg
   departments:
   floor:
   buttons:
@@ -262,7 +263,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer301.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer301.jpg
   departments:
   floor:
   buttons:
@@ -281,7 +282,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer303.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer303.jpg
   departments:
   floor:
   buttons:
@@ -319,7 +320,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer305.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer305.jpg
   departments:
   floor:
   buttons:
@@ -338,7 +339,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer306.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer306.jpg
   departments:
   floor:
   buttons:
@@ -357,7 +358,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer307.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer307.jpg
   departments:
   floor:
   buttons:
@@ -376,7 +377,7 @@
   links:
     software:
     instructions: 194_Mercer_Instructions.pdf
-  image: 194Mercer308.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer308.jpg
   departments:
   floor:
   buttons:
@@ -414,7 +415,7 @@
   links:
     software:
     instructions: 19UP_102_Instructions.pdf
-  image: 19 University 102.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19+University+102.jpg
   departments:
   floor:
   buttons:
@@ -661,7 +662,7 @@
   links:
     software:
     instructions: 19w4_101_Instructions.pdf
-  image: 19W4th101.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th101.jpg
   departments:
   floor:
   buttons:
@@ -680,7 +681,7 @@
   links:
     software:
     instructions: 19w4_102_Instructions.pdf
-  image: 19W4th102.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th102.jpg
   departments:
   floor:
   buttons:
@@ -699,7 +700,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-01.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-01.jpg
   departments:
   floor:
   buttons:
@@ -718,7 +719,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-02.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-02.jpg
   departments:
   floor:
   buttons:
@@ -737,7 +738,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-03.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-03.jpg
   departments:
   floor:
   buttons:
@@ -756,7 +757,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-04.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-04.jpg
   departments:
   floor:
   buttons:
@@ -775,7 +776,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-05.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-05.jpg
   departments:
   floor:
   buttons:
@@ -794,7 +795,7 @@
   links:
     software:
     instructions: 25W4_C6_Instructions.pdf
-  image: 25W4StC-06.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-06.jpg
   departments:
   floor:
   buttons:
@@ -813,7 +814,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-07.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-07.jpg
   departments:
   floor:
   buttons:
@@ -832,7 +833,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-08.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-08.jpg
   departments:
   floor:
   buttons:
@@ -851,7 +852,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-09.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-09.jpg
   departments:
   floor:
   buttons:
@@ -870,7 +871,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-10.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-10.jpg
   departments:
   floor:
   buttons:
@@ -889,7 +890,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-11.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-11.jpg
   departments:
   floor:
   buttons:
@@ -908,7 +909,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-12.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-12.jpg
   departments:
   floor:
   buttons:
@@ -927,7 +928,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-13.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-13.jpg
   departments:
   floor:
   buttons:
@@ -946,7 +947,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-14.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-14.jpg
   departments:
   floor:
   buttons:
@@ -965,7 +966,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-15.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-15.jpg
   departments:
   floor:
   buttons:
@@ -984,7 +985,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-16.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-16.jpg
   departments:
   floor:
   buttons:
@@ -1003,7 +1004,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-17.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-17.jpg
   departments:
   floor:
   buttons:
@@ -1022,7 +1023,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-18.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-18.jpg
   departments:
   floor:
   buttons:
@@ -1041,7 +1042,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-19.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-19.jpg
   departments:
   floor:
   buttons:
@@ -1060,7 +1061,7 @@
   links:
     software:
     instructions: 25W4_Instructions.pdf
-  image: 25W4StC-20.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-20.jpg
   departments:
   floor:
   buttons:
@@ -1079,7 +1080,7 @@
   links:
     software:
     instructions: 5WP_Instructions.pdf
-  image: 5WP101.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/5WP101.jpg
   departments:
   floor:
   buttons:
@@ -1250,7 +1251,7 @@
   links:
     software:
     instructions: ARCLL01_02_03Classrooms_Instructions.pdf
-  image: ARC-LL1.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL1.jpg
   departments:
   floor:
   buttons:
@@ -1269,7 +1270,7 @@
   links:
     software:
     instructions: ARCLL01_02_03Classrooms_Instructions.pdf
-  image: ARC-LL2.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL2.jpg
   departments:
   floor:
   buttons:
@@ -1288,7 +1289,7 @@
   links:
     software:
     instructions: ARCLL01_02_03Classrooms_Instructions.pdf
-  image: ARC-LL3.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL3.jpg
   departments:
   floor:
   buttons:
@@ -1307,7 +1308,7 @@
   links:
     software:
     instructions: VC_Instructions_ARCLL04.pdf
-  image: ARC-LL4.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL4.jpg
   departments:
   floor:
   buttons:
@@ -1326,7 +1327,7 @@
   links:
     software:
     instructions: ARCLL05.pdf
-  image: ARC-LL5.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL5.jpg
   departments:
   floor:
   buttons:
@@ -1345,7 +1346,7 @@
   links:
     software:
     instructions:
-  image: ARC-LL16.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
   departments:
   floor:
   buttons:
@@ -1364,7 +1365,7 @@
   links:
     software:
     instructions:
-  image: ARC-LL16.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
   departments:
   floor:
   buttons:
@@ -1383,7 +1384,7 @@
   links:
     software:
     instructions: Instructions_Bobst_836_837.pdf
-  image: Bobst836.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst836.jpg
   departments:
   floor:
   buttons:
@@ -1402,7 +1403,7 @@
   links:
     software:
     instructions: Instructions_Bobst_836_837.pdf
-  image: Bobst837.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst837.jpg
   departments:
   floor:
   buttons:
@@ -1421,7 +1422,7 @@
   links:
     software:
     instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
-  image: BobstLL38.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL38.jpg
   departments:
   floor:
   buttons:
@@ -1440,7 +1441,7 @@
   links:
     software:
     instructions: Bobst_LL_Instructions.pdf
-  image: BobstLL39.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL39.jpg
   departments:
   floor:
   buttons:
@@ -1459,7 +1460,7 @@
   links:
     software:
     instructions: Bobst_LL_Instructions.pdf
-  image: BobstLL40.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL40.jpg
   departments:
   floor:
   buttons:
@@ -1478,7 +1479,7 @@
   links:
     software:
     instructions: Bobst LL1-41,LL1-43_Instructions.pdf
-  image: Bobst_LL141_43.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
   departments:
   floor:
   buttons:
@@ -1497,7 +1498,7 @@
   links:
     software:
     instructions: Bobst_LL_Instructions.pdf
-  image: BobstLL42.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL42.jpg
   departments:
   floor:
   buttons:
@@ -1516,7 +1517,7 @@
   links:
     software:
     instructions: Bobst LL1-41,LL1-43_Instructions.pdf
-  image: Bobst_LL141_43.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
   departments:
   floor:
   buttons:
@@ -1535,7 +1536,7 @@
   links:
     software:
     instructions: Bobst_LL_Instructions.pdf
-  image: BobstLL45.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL45.jpg
   departments:
   floor:
   buttons:
@@ -1554,7 +1555,7 @@
   links:
     software:
     instructions: Bobst_LL_Instructions.pdf
-  image: BobstLL46.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL46.jpg
   departments:
   floor:
   buttons:
@@ -1573,7 +1574,7 @@
   links:
     software:
     instructions: Bobst_LL_Instructions.pdf
-  image: BobstLL47.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL47.jpg
   departments:
   floor:
   buttons:
@@ -1592,7 +1593,7 @@
   links:
     software:
     instructions: Bobst_LL_Instructions.pdf
-  image: BobstLL48.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL48.jpg
   departments:
   floor:
   buttons:
@@ -1611,7 +1612,7 @@
   links:
     software:
     instructions: Bobst_LL_Instructions.pdf
-  image: BobstLL49.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL49.jpg
   departments:
   floor:
   buttons:
@@ -1630,7 +1631,7 @@
   links:
     software:
     instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
-  image: BobstLL50.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL50.jpg
   departments:
   floor:
   buttons:
@@ -1649,7 +1650,7 @@
   links:
     software:
     instructions: Bobst_LL_Instructions.pdf
-  image: BobstLL51.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL51.jpg
   departments:
   floor:
   buttons:
@@ -1934,7 +1935,7 @@
   links:
     software:
     instructions:
-  image: Educ176.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ176.jpg
   departments:
   floor:
   buttons:
@@ -1953,7 +1954,7 @@
   links:
     software:
     instructions:
-  image: Educ303.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ303.jpg
   departments:
   floor:
   buttons:
@@ -1972,7 +1973,7 @@
   links:
     software:
     instructions:
-  image: Educ306.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ306.jpg
   departments:
   floor:
   buttons:
@@ -1991,7 +1992,7 @@
   links:
     software:
     instructions:
-  image: Educ307.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ307.jpg
   departments:
   floor:
   buttons:
@@ -2010,7 +2011,7 @@
   links:
     software:
     instructions: Genomics_Auditorium_Instructions.pdf
-  image: GenomicsAud-108.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GenomicsAud-108.jpg
   departments:
   floor:
   buttons:
@@ -2029,7 +2030,7 @@
   links:
     software:
     instructions: Genomics_L111_Instructions.pdf
-  image: Genomics-111.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-111.jpg
   departments:
   floor:
   buttons:
@@ -2048,7 +2049,7 @@
   links:
     software:
     instructions: Genomics_L113-L114_Instructions.pdf
-  image: Genomics-L113.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L113.jpg
   departments:
   floor:
   buttons:
@@ -2067,7 +2068,7 @@
   links:
     software:
     instructions: Genomics_L113-L114_Instructions.pdf
-  image: Genomics-L114.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L114.jpg
   departments:
   floor:
   buttons:
@@ -2086,7 +2087,7 @@
   links:
     software:
     instructions: Genomics_L120_Instructions.pdf
-  image: Genomics-L120.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L120.jpg
   departments:
   floor:
   buttons:
@@ -2105,7 +2106,7 @@
   links:
     software:
     instructions:
-  image: SCPS_121.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_121.jpg
   departments:
   floor:
   buttons:
@@ -2124,7 +2125,7 @@
   links:
     software:
     instructions:
-  image: SCPS_123.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_123.jpg
   departments:
   floor:
   buttons:
@@ -2143,7 +2144,7 @@
   links:
     software:
     instructions:
-  image: SCPS_124.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_124.jpg
   departments:
   floor:
   buttons:
@@ -2162,7 +2163,7 @@
   links:
     software:
     instructions:
-  image: SCPS_125.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_125.jpg
   departments:
   floor:
   buttons:
@@ -2181,7 +2182,7 @@
   links:
     software:
     instructions:
-  image: SCPS_127.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_127.jpg
   departments:
   floor:
   buttons:
@@ -2200,7 +2201,7 @@
   links:
     software:
     instructions:
-  image: SCPS_129.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_129.jpg
   departments:
   floor:
   buttons:
@@ -2219,7 +2220,7 @@
   links:
     software:
     instructions:
-  image: SCPS_131.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_131.jpg
   departments:
   floor:
   buttons:
@@ -2238,7 +2239,7 @@
   links:
     software:
     instructions:
-  image: SCPS_134.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_134.jpg
   departments:
   floor:
   buttons:
@@ -2257,7 +2258,7 @@
   links:
     software:
     instructions:
-  image: SCPS_LL21.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL21.jpg
   departments:
   floor:
   buttons:
@@ -2276,7 +2277,7 @@
   links:
     software:
     instructions:
-  image: SCPS_LL23.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL23.jpg
   departments:
   floor:
   buttons:
@@ -2295,7 +2296,7 @@
   links:
     software:
     instructions:
-  image: SCPS_LL25.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL25.jpg
   departments:
   floor:
   buttons:
@@ -2314,7 +2315,7 @@
   links:
     software:
     instructions:
-  image: SCPS_LL27.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL27.jpg
   departments:
   floor:
   buttons:
@@ -2333,7 +2334,7 @@
   links:
     software:
     instructions:
-  image: SCPS_LL31.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL31.jpg
   departments:
   floor:
   buttons:
@@ -2352,7 +2353,7 @@
   links:
     software:
     instructions:
-  image: SCPS_LL33.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL33.jpg
   departments:
   floor:
   buttons:
@@ -2371,7 +2372,7 @@
   links:
     software:
     instructions: Goddard_Instructions.pdf
-  image: Goddard B-01.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-01.jpg
   departments:
   floor:
   buttons:
@@ -2390,7 +2391,7 @@
   links:
     software:
     instructions: Goddard_Instructions.pdf
-  image: Goddard B-02.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-02.jpg
   departments:
   floor:
   buttons:
@@ -2409,7 +2410,7 @@
   links:
     software:
     instructions: Goddard_Instructions.pdf
-  image: Goddard B-04.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-04.jpg
   departments:
   floor:
   buttons:
@@ -2428,7 +2429,7 @@
   links:
     software:
     instructions: Goddard_Instructions.pdf
-  image: Goddard B-06.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-06.jpg
   departments:
   floor:
   buttons:
@@ -2447,7 +2448,7 @@
   links:
     software:
     instructions: Goddard_Instructions.pdf
-  image: Goddard B-07.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-07.jpg
   departments:
   floor:
   buttons:
@@ -2523,7 +2524,7 @@
   links:
     software:
     instructions: Meyer102_Instructions.pdf
-  image: Meyer102.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer102.jpg
   departments:
   floor:
   buttons:
@@ -2542,7 +2543,7 @@
   links:
     software:
     instructions: Meyer121_Instructions.pdf
-  image: Meyer121.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer121.jpg
   departments:
   floor:
   buttons:
@@ -2561,7 +2562,7 @@
   links:
     software:
     instructions: Meyer122_Instructions.pdf
-  image: Meyer122.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer122.jpg
   departments:
   floor:
   buttons:
@@ -2580,7 +2581,7 @@
   links:
     software:
     instructions: Meyer261_Instructions.pdf
-  image: Meyer261.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer261.jpg
   departments:
   floor:
   buttons:
@@ -2713,7 +2714,7 @@
   links:
     software:
     instructions: Silver_101A.pdf
-  image: Silver101A.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver101A.jpg
   departments:
   floor:
   buttons:
@@ -2770,7 +2771,7 @@
   links:
     software:
     instructions: Silver 206,208 new instructions.pdf
-  image: Silver206.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver206.jpg
   departments:
   floor:
   buttons:
@@ -2789,7 +2790,7 @@
   links:
     software:
     instructions: Silver 207 new instructions.pdf
-  image: Silver207.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver207.jpg
   departments:
   floor:
   buttons:
@@ -2808,7 +2809,7 @@
   links:
     software:
     instructions: Silver 206,208 new instructions.pdf
-  image: Silver208.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver208.jpg
   departments:
   floor:
   buttons:
@@ -2827,7 +2828,7 @@
   links:
     software:
     instructions: Silver 401 new 2013 instructions.pdf
-  image: Silver401.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver401.jpg
   departments:
   floor:
   buttons:
@@ -2846,7 +2847,7 @@
   links:
     software:
     instructions: Silver 402 406 409 new 2013 instructions.pdf
-  image: Silver402.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver402.jpg
   departments:
   floor:
   buttons:
@@ -2865,7 +2866,7 @@
   links:
     software:
     instructions: Silver 403 404 407 410 new 2013 instructions.pdf
-  image: Silver403.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver403.jpg
   departments:
   floor:
   buttons:
@@ -2884,7 +2885,7 @@
   links:
     software:
     instructions: Silver 403 404 407 410 new 2013 instructions.pdf
-  image: Silver404.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver404.jpg
   departments:
   floor:
   buttons:
@@ -2903,7 +2904,7 @@
   links:
     software:
     instructions: Silver405_instructions.pdf
-  image: Silver405.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver405.jpg
   departments:
   floor:
   buttons:
@@ -2922,7 +2923,7 @@
   links:
     software:
     instructions: Silver 402 406 409 new 2013 instructions.pdf
-  image: Silver406.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver406.jpg
   departments:
   floor:
   buttons:
@@ -2941,7 +2942,7 @@
   links:
     software:
     instructions: Silver 403 404 407 410 new 2013 instructions.pdf
-  image: Silver407.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver407.jpg
   departments:
   floor:
   buttons:
@@ -2960,7 +2961,7 @@
   links:
     software:
     instructions: Silver 408 new 2013 instructions.pdf
-  image: Silver408.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver408.jpg
   departments:
   floor:
   buttons:
@@ -2979,7 +2980,7 @@
   links:
     software:
     instructions: Silver 402 406 409 new 2013 instructions.pdf
-  image: Silver409.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver409.jpg
   departments:
   floor:
   buttons:
@@ -2998,7 +2999,7 @@
   links:
     software:
     instructions: Silver 403 404 407 410 new 2013 instructions.pdf
-  image: Silver410.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver410.jpg
   departments:
   floor:
   buttons:
@@ -3017,7 +3018,7 @@
   links:
     software:
     instructions: Silver 411 new 2013 instructions.pdf
-  image: Silver411.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver411.jpg
   departments:
   floor:
   buttons:
@@ -3036,7 +3037,7 @@
   links:
     software:
     instructions: Silver_412.pdf
-  image: Silver412.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver412.jpg
   departments:
   floor:
   buttons:
@@ -3055,7 +3056,7 @@
   links:
     software:
     instructions: Silver 413 new 2013 instructions.pdf
-  image: Silver413.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver413.jpg
   departments:
   floor:
   buttons:
@@ -3074,7 +3075,7 @@
   links:
     software:
     instructions: Silver 414 new 2013 instructions.pdf
-  image: Silver414.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver414.jpg
   departments:
   floor:
   buttons:
@@ -3093,7 +3094,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver500.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver500.jpg
   departments:
   floor:
   buttons:
@@ -3112,7 +3113,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver501.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver501.jpg
   departments:
   floor:
   buttons:
@@ -3131,7 +3132,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver504.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver504.jpg
   departments:
   floor:
   buttons:
@@ -3150,7 +3151,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver506.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver506.jpg
   departments:
   floor:
   buttons:
@@ -3169,7 +3170,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver507.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver507.jpg
   departments:
   floor:
   buttons:
@@ -3188,7 +3189,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver508.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver508.jpg
   departments:
   floor:
   buttons:
@@ -3207,7 +3208,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver509.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver509.jpg
   departments:
   floor:
   buttons:
@@ -3226,7 +3227,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver510.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver510.jpg
   departments:
   floor:
   buttons:
@@ -3245,7 +3246,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver512.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver512.jpg
   departments:
   floor:
   buttons:
@@ -3264,7 +3265,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver514.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver514.jpg
   departments:
   floor:
   buttons:
@@ -3283,7 +3284,7 @@
   links:
     software:
     instructions: Silver 5th Floor Instructions.pdf
-  image: Silver515.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver515.jpg
   departments:
   floor:
   buttons:
@@ -3302,7 +3303,7 @@
   links:
     software:
     instructions: Silver_518_Instructions.pdf
-  image: Silver518.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver518.jpg
   departments:
   floor:
   buttons:
@@ -3321,7 +3322,7 @@
   links:
     software:
     instructions: Silver_520_Instructions.pdf
-  image: Silver520.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver520.jpg
   departments:
   floor:
   buttons:
@@ -3435,7 +3436,7 @@
   links:
     software:
     instructions: Silver 620-Digital.pdf
-  image: Silver620.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver620.jpg
   departments:
   floor:
   buttons:
@@ -3454,7 +3455,7 @@
   links:
     software:
     instructions: Silver 621-Digital.pdf
-  image: Silver621.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver621.jpg
   departments:
   floor:
   buttons:
@@ -3511,7 +3512,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC01.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC01.jpg
   departments:
   floor:
   buttons:
@@ -3530,7 +3531,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC02.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC02.jpg
   departments:
   floor:
   buttons:
@@ -3549,7 +3550,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC03.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC03.jpg
   departments:
   floor:
   buttons:
@@ -3568,7 +3569,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC04.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC04.jpg
   departments:
   floor:
   buttons:
@@ -3587,7 +3588,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC05.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC05.jpg
   departments:
   floor:
   buttons:
@@ -3606,7 +3607,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC06.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC06.jpg
   departments:
   floor:
   buttons:
@@ -3625,7 +3626,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC07.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC07.jpg
   departments:
   floor:
   buttons:
@@ -3644,7 +3645,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC09.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC09.jpg
   departments:
   floor:
   buttons:
@@ -3663,7 +3664,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC11.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC11.jpg
   departments:
   floor:
   buttons:
@@ -3682,7 +3683,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC13.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC13.jpg
   departments:
   floor:
   buttons:
@@ -3701,7 +3702,7 @@
   links:
     software:
     instructions: Tisch_Hall_Instructions_CD.pdf
-  image: TischLC15.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC15.jpg
   departments:
   floor:
   buttons:
@@ -3720,7 +3721,7 @@
   links:
     software:
     instructions: TISCH HALL LC-19 PODIUM.pdf
-  image: TISCH HALL LC-19.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TISCH+HALL+LC-19.jpg
   departments:
   floor:
   buttons:
@@ -3758,7 +3759,7 @@
   links:
     software:
     instructions: Waverly 3rd floor.pdf
-  image: Waverly366.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly366.jpg
   departments:
   floor:
   buttons:
@@ -3777,7 +3778,7 @@
   links:
     software:
     instructions: Waverly 3rd floor.pdf
-  image: Waverly367.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly367.jpg
   departments:
   floor:
   buttons:
@@ -3796,7 +3797,7 @@
   links:
     software:
     instructions: Waverly 3rd floor.pdf
-  image: Waverly369.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly369.jpg
   departments:
   floor:
   buttons:
@@ -3815,7 +3816,7 @@
   links:
     software:
     instructions: Waverly 3rd floor.pdf
-  image: Waverly370.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly370.jpg
   departments:
   floor:
   buttons:
@@ -3834,7 +3835,7 @@
   links:
     software:
     instructions: Waverly 4th floor.pdf
-  image: Waverly_429.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_429.jpg
   departments:
   floor:
   buttons:
@@ -3853,7 +3854,7 @@
   links:
     software:
     instructions: Waverly 4th floor.pdf
-  image: waverly_431.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/waverly_431.jpg
   departments:
   floor:
   buttons:
@@ -3872,7 +3873,7 @@
   links:
     software:
     instructions: Waverly 4th floor.pdf
-  image: Waverly_433.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_433.jpg
   departments:
   floor:
   buttons:
@@ -3891,7 +3892,7 @@
   links:
     software:
     instructions: Waverly 4th floor.pdf
-  image: Waverly_435.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_435.jpg
   departments:
   floor:
   buttons:
@@ -3910,7 +3911,7 @@
   links:
     software:
     instructions: Waverly 5th floor.pdf
-  image: Waverly 566A.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566A.jpg
   departments:
   floor:
   buttons:
@@ -3929,7 +3930,7 @@
   links:
     software:
     instructions: Waverly 5th floor.pdf
-  image: Waverly 566B.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566B.jpg
   departments:
   floor:
   buttons:
@@ -3948,7 +3949,7 @@
   links:
     software:
     instructions: Waverly 5th floor.pdf
-  image: Waverly 567.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+567.jpg
   departments:
   floor:
   buttons:
@@ -3967,7 +3968,7 @@
   links:
     software:
     instructions: Waverly 5th floor.pdf
-  image: Waverly 569.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+569.jpg
   departments:
   floor:
   buttons:
@@ -3986,7 +3987,7 @@
   links:
     software:
     instructions: Waverly 5th floor.pdf
-  image: Waverly 570.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+570.jpg
   departments:
   floor:
   buttons:
@@ -4005,7 +4006,7 @@
   links:
     software:
     instructions: Waverly667-digital.pdf
-  image: Waverly667.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly667.jpg
   departments:
   floor:
   buttons:
@@ -4024,7 +4025,7 @@
   links:
     software:
     instructions: Waverly 6th floor.pdf
-  image: Waverly_668.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_668.jpg
   departments:
   floor:
   buttons:
@@ -4043,7 +4044,7 @@
   links:
     software:
     instructions: Waverly 669-digital.pdf
-  image: Waverly669.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly669.jpg
   departments:
   floor:
   buttons:
@@ -4081,7 +4082,7 @@
   links:
     software:
     instructions: UHALL C02A- Digital.pdf
-  image: Univ_Hall C02A.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Univ_Hall+C02A.jpg
   departments:
   floor:
   buttons:
@@ -4100,7 +4101,7 @@
   links:
     software:
     instructions: Weinstein SB-20, SB-35 Instructions.pdf
-  image: WeinsteinSB-20.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-20.jpg
   departments:
   floor:
   buttons:
@@ -4119,7 +4120,7 @@
   links:
     software:
     instructions: Weinstein SB-20, SB-35 Instructions.pdf
-  image: WeinsteinSB-35.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-35.jpg
   departments:
   floor:
   buttons:
@@ -4138,7 +4139,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter274.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter274.jpg
   departments:
   floor:
   buttons:
@@ -4157,7 +4158,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter275.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter275.jpg
   departments:
   floor:
   buttons:
@@ -4176,7 +4177,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter279.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter279.jpg
   departments:
   floor:
   buttons:
@@ -4195,7 +4196,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter288.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter288.jpg
   departments:
   floor:
   buttons:
@@ -4214,7 +4215,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter361.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter361.jpg
   departments:
   floor:
   buttons:
@@ -4233,7 +4234,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter365.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter365.jpg
   departments:
   floor:
   buttons:
@@ -4252,7 +4253,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter369.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter369.jpg
   departments:
   floor:
   buttons:
@@ -4271,7 +4272,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter374.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter374.jpg
   departments:
   floor:
   buttons:
@@ -4290,7 +4291,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter375.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter375.jpg
   departments:
   floor:
   buttons:
@@ -4309,7 +4310,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter379.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter379.jpg
   departments:
   floor:
   buttons:
@@ -4328,7 +4329,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter383.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter383.jpg
   departments:
   floor:
   buttons:
@@ -4347,7 +4348,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter388.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter388.jpg
   departments:
   floor:
   buttons:
@@ -4366,7 +4367,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter461.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter461.jpg
   departments:
   floor:
   buttons:
@@ -4385,7 +4386,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter475.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter475.jpg
   departments:
   floor:
   buttons:
@@ -4404,7 +4405,7 @@
   links:
     software:
     instructions: GCASL_C95_Instructions.pdf
-  image: GlobalCenterC95.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenterC95.jpg
   departments:
   floor:
   buttons:
@@ -4423,7 +4424,7 @@
   links:
     software:
     instructions:
-  image: GlobalCenter384.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter384.jpg
   departments:
   floor:
   buttons:
@@ -4442,7 +4443,7 @@
   links:
     software:
     instructions:
-  image: GCASL_284.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GCASL_284.jpg
   departments:
   floor:
   buttons:
@@ -4461,7 +4462,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin101.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin101.jpg
   departments:
   floor:
   buttons:
@@ -4480,7 +4481,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin102.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin102.jpg
   departments:
   floor:
   buttons:
@@ -4499,7 +4500,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin103.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin103.jpg
   departments:
   floor:
   buttons:
@@ -4518,7 +4519,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin104.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin104.jpg
   departments:
   floor:
   buttons:
@@ -4537,7 +4538,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin105.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin105.jpg
   departments:
   floor:
   buttons:
@@ -4556,7 +4557,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin106.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin106.jpg
   departments:
   floor:
   buttons:
@@ -4575,7 +4576,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin107.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin107.jpg
   departments:
   floor:
   buttons:
@@ -4594,7 +4595,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin108.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin108.jpg
   departments:
   floor:
   buttons:
@@ -4613,7 +4614,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin109.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin109.jpg
   departments:
   floor:
   buttons:
@@ -4632,7 +4633,7 @@
   links:
     software:
     instructions: Rubin_Hall_Instructions.pdf
-  image: Rubin110.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin110.jpg
   departments:
   floor:
   buttons:
@@ -4651,7 +4652,7 @@
   links:
     software:
     instructions:
-  image: 60FA_110.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_110.jpg
   departments:
   floor:
   buttons:
@@ -4670,7 +4671,7 @@
   links:
     software:
     instructions:
-  image: 60FA_125.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_125.jpg
   departments:
   floor:
   buttons:
@@ -4689,7 +4690,7 @@
   links:
     software:
     instructions:
-  image: 60FA_150.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_150.jpg
   departments:
   floor:
   buttons:
@@ -4708,7 +4709,7 @@
   links:
     software:
     instructions:
-  image: 60FA_161.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_161.jpg
   departments:
   floor:
   buttons:
@@ -4727,7 +4728,7 @@
   links:
     software:
     instructions:
-  image: 60FA_165.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_165.jpg
   departments:
   floor:
   buttons:
@@ -4746,7 +4747,7 @@
   links:
     software:
     instructions:
-  image: 60FA_202.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_202.jpg
   departments:
   floor:
   buttons:
@@ -4765,7 +4766,7 @@
   links:
     software:
     instructions:
-  image: 60FA_250.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_250.jpg
   departments:
   floor:
   buttons:
@@ -4784,7 +4785,7 @@
   links:
     software:
     instructions:
-  image: 60FA_261.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_261.jpg
   departments:
   floor:
   buttons:
@@ -4803,7 +4804,7 @@
   links:
     software:
     instructions:
-  image: 60FA_265.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_265.jpg
   departments:
   floor:
   buttons:
@@ -4822,7 +4823,7 @@
   links:
     software:
     instructions:
-  image: 60FA_C03.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C03.jpg
   departments:
   floor:
   buttons:
@@ -4841,7 +4842,7 @@
   links:
     software:
     instructions:
-  image: 60FA_C04.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C04.jpg
   departments:
   floor:
   buttons:
@@ -4860,7 +4861,7 @@
   links:
     software:
     instructions:
-  image: 60FA_C10.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C10.jpg
   departments:
   floor:
   buttons:
@@ -4879,7 +4880,7 @@
   links:
     software:
     instructions:
-  image: 60FA_C12.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C12.jpg
   departments:
   floor:
   buttons:
@@ -4898,7 +4899,7 @@
   links:
     software:
     instructions:
-  image: 60FA_C14.jpg
+  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C14.jpg
   departments:
   floor:
   buttons:
