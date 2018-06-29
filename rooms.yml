@@ -14,6 +14,9 @@ default:
     text: Placeholder help text
     phone: 212 222 2222
     email: campusmedia-help@nyu.edu
+  libanswers:
+    topic_ids: 29679
+    link: http://library.answers.nyu.edu/
   body:
     Some information about rooms here.
 '29686':
