@@ -1,21 +1,26 @@
 ---
 default:
   links:
+    Troubleshooting: https://www.nyu.edu/campusmedia/help/troubleshooting.html
+    FAQs: https://www.nyu.edu/campusmedia/help/faqs.html
   policies:
+    Rates: https://www.nyu.edu/campusmedia/events/rates.html
+    Policies: https://www.nyu.edu/campusmedia/classrooms/policies.html
   buttons:
+    Reserve Equipment for this Room: https://www.nyu.edu/campusmedia/forms/event.html
   keywords:
+  type: classroom
   help:
-    text:
-    phone:
-    email:
+    text: Placeholder help text
+    phone: 212 222 2222
+    email: campusmedia-help@nyu.edu
   body:
+    Some information about rooms here.
 '29686':
   title: Global Center (238 Thoms) 261
   published: false
   capacity: 36
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter261.jpg
   departments:
   floor:
@@ -29,13 +34,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29687':
   title: Global Center (238 Thoms) 265
   published: false
   capacity: 32
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter265.jpg
   departments:
   floor:
@@ -49,13 +53,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29690':
   title: Global Center (238 Thoms) 269
   published: false
   capacity: 40
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter269.jpg
   departments:
   floor:
@@ -69,13 +72,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5547':
   title: 194 Mercer 201
   published: false
   capacity: 24
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer201.jpg
   departments:
   floor:
@@ -89,13 +92,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5548':
   title: 194 Mercer 202
   published: false
   capacity: 29
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer202.jpg
   departments:
   floor:
@@ -109,13 +112,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5549':
   title: 194 Mercer 203
   published: false
   capacity: 56
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer203.jpg
   departments:
   floor:
@@ -129,13 +132,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5550':
   title: 194 Mercer 204
   published: false
   capacity: 26
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer204.jpg
   departments:
   floor:
@@ -149,13 +152,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5551':
   title: 194 Mercer 205
   published: false
   capacity: 26
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer205.jpg
   departments:
   floor:
@@ -169,13 +172,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5552':
   title: 194 Mercer 206
   published: false
   capacity: 26
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer206.jpg
   departments:
   floor:
@@ -189,13 +192,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5553':
   title: 194 Mercer 207
   published: false
   capacity: 24
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer207.jpg
   departments:
   floor:
@@ -209,13 +212,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5554':
   title: 194 Mercer 208
   published: false
   capacity: 26
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer208.jpg
   departments:
   floor:
@@ -229,13 +232,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5555':
   title: 194 Mercer 209
   published: false
   capacity: 26
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer209.jpg
   departments:
   floor:
@@ -249,13 +252,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5556':
   title: 194 Mercer 210
   published: false
   capacity: 25
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer210.jpg
   departments:
   floor:
@@ -269,13 +272,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5557':
   title: 194 Mercer 301
   published: false
   capacity: 25
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer301.jpg
   departments:
   floor:
@@ -289,13 +292,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5558':
   title: 194 Mercer 303
   published: false
   capacity: 17
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer303.jpg
   departments:
   floor:
@@ -309,13 +312,12 @@ default:
     phone:
     email:
   access:
+  body:
 '6768':
   title: 194 Mercer 304
   published: false
   capacity: 30
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -329,13 +331,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5559':
   title: 194 Mercer 305
   published: false
   capacity: 47
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer305.jpg
   departments:
   floor:
@@ -349,13 +351,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5560':
   title: 194 Mercer 306
   published: false
   capacity: 93
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer306.jpg
   departments:
   floor:
@@ -369,13 +371,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5561':
   title: 194 Mercer 307
   published: false
   capacity: 47
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer307.jpg
   departments:
   floor:
@@ -389,13 +391,13 @@ default:
     phone:
     email:
   access:
+  body:
 '5562':
   title: 194 Mercer 308
   published: false
   capacity: 25
   links:
-    software:
-    instructions: 194_Mercer_Instructions.pdf
+    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer308.jpg
   departments:
   floor:
@@ -409,13 +411,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5563':
   title: 194 Mercer Office
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -429,13 +430,13 @@ default:
     phone:
     email:
   access:
+  body:
 '20195':
   title: 19 University Place Hall)
   published: false
   capacity: 120
   links:
-    software:
-    instructions: 19UP_102_Instructions.pdf
+    Instructions: 19UP_102_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19+University+102.jpg
   departments:
   floor:
@@ -449,13 +450,12 @@ default:
     phone:
     email:
   access:
+  body:
 '4336':
   title: 19 University Place 222
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -469,13 +469,12 @@ default:
     phone:
     email:
   access:
+  body:
 '4568':
   title: 19 University Place 223
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -489,13 +488,12 @@ default:
     phone:
     email:
   access:
+  body:
 '9068':
   title: 19 University Place 224
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -509,13 +507,12 @@ default:
     phone:
     email:
   access:
+  body:
 '18862':
   title: 19 University Place 228
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -529,13 +526,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2696':
   title: 19 University Place 229
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -549,13 +545,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5320':
   title: 19 University Place 305
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -569,13 +564,12 @@ default:
     phone:
     email:
   access:
+  body:
 '21994':
   title: 19 University Place 327
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -589,13 +583,12 @@ default:
     phone:
     email:
   access:
+  body:
 '3937':
   title: 19 University Place 337
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -609,13 +602,12 @@ default:
     phone:
     email:
   access:
+  body:
 '19623':
   title: 19 University Place 402
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -629,13 +621,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5347':
   title: 19 University Place 405
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -649,13 +640,12 @@ default:
     phone:
     email:
   access:
+  body:
 '19621':
   title: 19 University Place 435
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -669,13 +659,12 @@ default:
     phone:
     email:
   access:
+  body:
 '21752':
   title: 19 University Place 505
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -689,13 +678,13 @@ default:
     phone:
     email:
   access:
+  body:
 '21550':
   title: 19W4 101
   published: false
   capacity: 188
   links:
-    software:
-    instructions: 19w4_101_Instructions.pdf
+    Instructions: 19w4_101_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th101.jpg
   departments:
   floor:
@@ -709,13 +698,13 @@ default:
     phone:
     email:
   access:
+  body:
 '24527':
   title: 19W4 102
   published: false
   capacity: 46
   links:
-    software:
-    instructions: 19w4_102_Instructions.pdf
+    Instructions: 19w4_102_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th102.jpg
   departments:
   floor:
@@ -729,13 +718,13 @@ default:
     phone:
     email:
   access:
+  body:
 '237':
   title: 25W4 C-01
   published: false
   capacity: 27
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-01.jpg
   departments:
   floor:
@@ -749,13 +738,13 @@ default:
     phone:
     email:
   access:
+  body:
 '260':
   title: 25W4 C-02
   published: false
   capacity: 28
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-02.jpg
   departments:
   floor:
@@ -769,13 +758,13 @@ default:
     phone:
     email:
   access:
+  body:
 '261':
   title: 25W4 C-03
   published: false
   capacity: 24
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-03.jpg
   departments:
   floor:
@@ -789,13 +778,13 @@ default:
     phone:
     email:
   access:
+  body:
 '262':
   title: 25W4 C-04
   published: false
   capacity: 25
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-04.jpg
   departments:
   floor:
@@ -809,13 +798,13 @@ default:
     phone:
     email:
   access:
+  body:
 '263':
   title: 25W4 C-05
   published: false
   capacity: 22
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-05.jpg
   departments:
   floor:
@@ -829,13 +818,13 @@ default:
     phone:
     email:
   access:
+  body:
 '264':
   title: 25W4 C-06
   published: false
   capacity: 24
   links:
-    software:
-    instructions: 25W4_C6_Instructions.pdf
+    Instructions: 25W4_C6_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-06.jpg
   departments:
   floor:
@@ -849,13 +838,13 @@ default:
     phone:
     email:
   access:
+  body:
 '265':
   title: 25W4 C-07
   published: false
   capacity: 18
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-07.jpg
   departments:
   floor:
@@ -869,13 +858,13 @@ default:
     phone:
     email:
   access:
+  body:
 '266':
   title: 25W4 C-08
   published: false
   capacity: 30
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-08.jpg
   departments:
   floor:
@@ -889,13 +878,13 @@ default:
     phone:
     email:
   access:
+  body:
 '267':
   title: 25W4 C-09
   published: false
   capacity: 25
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-09.jpg
   departments:
   floor:
@@ -909,13 +898,13 @@ default:
     phone:
     email:
   access:
+  body:
 '268':
   title: 25W4 C-10
   published: false
   capacity: 25
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-10.jpg
   departments:
   floor:
@@ -929,13 +918,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1145':
   title: 25W4 C-11
   published: false
   capacity: 25
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-11.jpg
   departments:
   floor:
@@ -949,13 +938,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1146':
   title: 25W4 C-12
   published: false
   capacity: 24
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-12.jpg
   departments:
   floor:
@@ -969,13 +958,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1147':
   title: 25W4 C-13
   published: false
   capacity: 30
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-13.jpg
   departments:
   floor:
@@ -989,13 +978,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1149':
   title: 25W4 C-14
   published: false
   capacity: 24
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-14.jpg
   departments:
   floor:
@@ -1009,13 +998,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1151':
   title: 25W4 C-15
   published: false
   capacity: 24
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-15.jpg
   departments:
   floor:
@@ -1029,13 +1018,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1152':
   title: 25W4 C-16
   published: false
   capacity: 18
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-16.jpg
   departments:
   floor:
@@ -1049,13 +1038,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1153':
   title: 25W4 C-17
   published: false
   capacity: 25
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-17.jpg
   departments:
   floor:
@@ -1069,13 +1058,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1155':
   title: 25W4 C-18
   published: false
   capacity: 20
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-18.jpg
   departments:
   floor:
@@ -1089,13 +1078,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1156':
   title: 25W4 C-19
   published: false
   capacity: 20
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-19.jpg
   departments:
   floor:
@@ -1109,13 +1098,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1157':
   title: 25W4 C-20
   published: false
   capacity: 40
   links:
-    software:
-    instructions: 25W4_Instructions.pdf
+    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-20.jpg
   departments:
   floor:
@@ -1129,13 +1118,13 @@ default:
     phone:
     email:
   access:
+  body:
 '26004':
   title: 5 Washington Place Place-101
   published: false
   capacity: 120
   links:
-    software:
-    instructions: 5WP_Instructions.pdf
+    Instructions: 5WP_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/5WP101.jpg
   departments:
   floor:
@@ -1149,13 +1138,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1128':
   title: Gallatin 1 Wash Pl 315
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1169,13 +1157,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1130':
   title: Gallatin 1 Wash Pl 316
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1189,13 +1176,12 @@ default:
     phone:
     email:
   access:
+  body:
 '20365':
   title: Gallatin 1 Wash Pl 512
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1209,13 +1195,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2821':
   title: Gallatin 1 Wash Pl 518
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1229,13 +1214,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2829':
   title: Gallatin 1 Wash Pl 519
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1249,13 +1233,12 @@ default:
     phone:
     email:
   access:
+  body:
 '9067':
   title: 721 Broadway Lounge)
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1269,13 +1252,12 @@ default:
     phone:
     email:
   access:
+  body:
 '3833':
   title: 721 Broadway Lab
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1289,13 +1271,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2080':
   title: 726 Broadway 542
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1309,13 +1290,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29365':
   title: Academic Resource Center LL-01
   published: false
   capacity: 28
   links:
-    software:
-    instructions: ARCLL01_02_03Classrooms_Instructions.pdf
+    Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL1.jpg
   departments:
   floor:
@@ -1329,13 +1310,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29366':
   title: Academic Resource Center LL-02
   published: false
   capacity: 28
   links:
-    software:
-    instructions: ARCLL01_02_03Classrooms_Instructions.pdf
+    Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL2.jpg
   departments:
   floor:
@@ -1349,13 +1330,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29369':
   title: Academic Resource Center LL-03
   published: false
   capacity: 21
   links:
-    software:
-    instructions: ARCLL01_02_03Classrooms_Instructions.pdf
+    Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL3.jpg
   departments:
   floor:
@@ -1369,13 +1350,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29370':
   title: Academic Resource Center LL-04
   published: false
   capacity: 25
   links:
-    software:
-    instructions: VC_Instructions_ARCLL04.pdf
+    Instructions: VC_Instructions_ARCLL04.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL4.jpg
   departments:
   floor:
@@ -1389,13 +1370,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29371':
   title: Academic Resource Center LL-05
   published: false
   capacity: 24
   links:
-    software:
-    instructions: ARCLL05.pdf
+    Instructions: ARCLL05.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL5.jpg
   departments:
   floor:
@@ -1409,13 +1390,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29372':
   title: Academic Resource Center LL-16
   published: false
   capacity: 6
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
   departments:
   floor:
@@ -1429,13 +1409,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29373':
   title: Academic Resource Center LL-18
   published: false
   capacity: 6
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
   departments:
   floor:
@@ -1449,13 +1428,13 @@ default:
     phone:
     email:
   access:
+  body:
 '2082':
   title: Bobst 836
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Instructions_Bobst_836_837.pdf
+    Instructions: Instructions_Bobst_836_837.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst836.jpg
   departments:
   floor:
@@ -1469,13 +1448,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1166':
   title: Bobst 837
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Instructions_Bobst_836_837.pdf
+    Instructions: Instructions_Bobst_836_837.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst837.jpg
   departments:
   floor:
@@ -1489,13 +1468,13 @@ default:
     phone:
     email:
   access:
+  body:
 '27999':
   title: Bobst LL1.38
   published: false
   capacity: 48
   links:
-    software:
-    instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
+    Instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL38.jpg
   departments:
   floor:
@@ -1509,13 +1488,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28000':
   title: Bobst LL1.39
   published: false
   capacity: 30
   links:
-    software:
-    instructions: Bobst_LL_Instructions.pdf
+    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL39.jpg
   departments:
   floor:
@@ -1529,13 +1508,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28001':
   title: Bobst LL1.40
   published: false
   capacity: 16
   links:
-    software:
-    instructions: Bobst_LL_Instructions.pdf
+    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL40.jpg
   departments:
   floor:
@@ -1549,13 +1528,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28002':
   title: Bobst LL1.41
   published: false
   capacity: 24
   links:
-    software:
-    instructions: Bobst LL1-41,LL1-43_Instructions.pdf
+    Instructions: Bobst LL1-41,LL1-43_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
   departments:
   floor:
@@ -1569,13 +1548,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28003':
   title: Bobst LL1.42
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Bobst_LL_Instructions.pdf
+    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL42.jpg
   departments:
   floor:
@@ -1589,13 +1568,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28004':
   title: Bobst LL1.43
   published: false
   capacity: 24
   links:
-    software:
-    instructions: Bobst LL1-41,LL1-43_Instructions.pdf
+    Instructions: Bobst LL1-41,LL1-43_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
   departments:
   floor:
@@ -1609,13 +1588,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28006':
   title: Bobst LL1.45
   published: false
   capacity: 24
   links:
-    software:
-    instructions: Bobst_LL_Instructions.pdf
+    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL45.jpg
   departments:
   floor:
@@ -1629,13 +1608,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28007':
   title: Bobst LL1.46
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Bobst_LL_Instructions.pdf
+    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL46.jpg
   departments:
   floor:
@@ -1649,13 +1628,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28008':
   title: Bobst LL1.47
   published: false
   capacity: 24
   links:
-    software:
-    instructions: Bobst_LL_Instructions.pdf
+    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL47.jpg
   departments:
   floor:
@@ -1669,13 +1648,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28009':
   title: Bobst LL1.48
   published: false
   capacity: 16
   links:
-    software:
-    instructions: Bobst_LL_Instructions.pdf
+    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL48.jpg
   departments:
   floor:
@@ -1689,13 +1668,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28010':
   title: Bobst LL1.49
   published: false
   capacity: 30
   links:
-    software:
-    instructions: Bobst_LL_Instructions.pdf
+    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL49.jpg
   departments:
   floor:
@@ -1709,13 +1688,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28011':
   title: Bobst LL1.50
   published: false
   capacity: 48
   links:
-    software:
-    instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
+    Instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL50.jpg
   departments:
   floor:
@@ -1729,13 +1708,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28111':
   title: Bobst LL1.51
   published: false
   capacity: 30
   links:
-    software:
-    instructions: Bobst_LL_Instructions.pdf
+    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL51.jpg
   departments:
   floor:
@@ -1749,13 +1728,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2822':
   title: Cantor 101
   published: false
   capacity: 184
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1769,13 +1747,12 @@ default:
     phone:
     email:
   access:
+  body:
 '4570':
   title: Cantor 102
   published: false
   capacity: 177
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1789,13 +1766,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2823':
   title: Cantor 200
   published: false
   capacity: 319
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1809,13 +1785,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5322':
   title: East Building 221
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1829,13 +1804,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5321':
   title: East Building 233
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1849,13 +1823,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5768':
   title: East Building 322
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1869,13 +1842,12 @@ default:
     phone:
     email:
   access:
+  body:
 '9069':
   title: East Building 539
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1889,13 +1861,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1211':
   title: East Building 640
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1909,13 +1880,12 @@ default:
     phone:
     email:
   access:
+  body:
 '13968':
   title: East Building 709
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1929,13 +1899,12 @@ default:
     phone:
     email:
   access:
+  body:
 '8706':
   title: East Building 716
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1949,13 +1918,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5002':
   title: East Building 718
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1969,13 +1937,12 @@ default:
     phone:
     email:
   access:
+  body:
 '8353':
   title: East Building 735
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -1989,13 +1956,12 @@ default:
     phone:
     email:
   access:
+  body:
 '4335':
   title: East Building Floor
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2009,13 +1975,12 @@ default:
     phone:
     email:
   access:
+  body:
 '3167':
   title: Education Building 1231
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2029,13 +1994,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1213':
   title: Education Building Theater
   published: false
   capacity: 330
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ176.jpg
   departments:
   floor:
@@ -2049,13 +2013,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1216':
   title: Education Building 303
   published: false
   capacity: 74
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ303.jpg
   departments:
   floor:
@@ -2069,13 +2032,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1217':
   title: Education Building 306
   published: false
   capacity: 25
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ306.jpg
   departments:
   floor:
@@ -2089,13 +2051,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1219':
   title: Education Building 307
   published: false
   capacity: 25
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ307.jpg
   departments:
   floor:
@@ -2109,13 +2070,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29014':
   title: Genomics - 12 Waverly G08
   published: false
   capacity: 138
   links:
-    software:
-    instructions: Genomics_Auditorium_Instructions.pdf
+    Instructions: Genomics_Auditorium_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GenomicsAud-108.jpg
   departments:
   floor:
@@ -2129,13 +2090,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29010':
   title: Genomics - 12 Waverly L111
   published: false
   capacity: 22
   links:
-    software:
-    instructions: Genomics_L111_Instructions.pdf
+    Instructions: Genomics_L111_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-111.jpg
   departments:
   floor:
@@ -2149,13 +2110,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29011':
   title: Genomics - 12 Waverly L113
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Genomics_L113-L114_Instructions.pdf
+    Instructions: Genomics_L113-L114_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L113.jpg
   departments:
   floor:
@@ -2169,13 +2130,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29012':
   title: Genomics - 12 Waverly L114
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Genomics_L113-L114_Instructions.pdf
+    Instructions: Genomics_L113-L114_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L114.jpg
   departments:
   floor:
@@ -2189,13 +2150,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29013':
   title: Genomics - 12 Waverly L120
   published: false
   capacity: 69
   links:
-    software:
-    instructions: Genomics_L120_Instructions.pdf
+    Instructions: Genomics_L120_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L120.jpg
   departments:
   floor:
@@ -2209,13 +2170,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29382':
   title: 7 East 12th Street (NYU-SCPS) 121
   published: false
   capacity: 34
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_121.jpg
   departments:
   floor:
@@ -2229,13 +2189,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29383':
   title: 7 East 12th Street (NYU-SCPS) 123
   published: false
   capacity: 30
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_123.jpg
   departments:
   floor:
@@ -2249,13 +2208,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29384':
   title: 7 East 12th Street (NYU-SCPS) 124
   published: false
   capacity: 28
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_124.jpg
   departments:
   floor:
@@ -2269,13 +2227,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29385':
   title: 7 East 12th Street (NYU-SCPS) 125
   published: false
   capacity: 35
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_125.jpg
   departments:
   floor:
@@ -2289,13 +2246,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29386':
   title: 7 East 12th Street (NYU-SCPS) 127
   published: false
   capacity: 24
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_127.jpg
   departments:
   floor:
@@ -2309,13 +2265,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29387':
   title: 7 East 12th Street (NYU-SCPS) 129
   published: false
   capacity: 30
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_129.jpg
   departments:
   floor:
@@ -2329,13 +2284,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29388':
   title: 7 East 12th Street (NYU-SCPS) 131
   published: false
   capacity: 20
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_131.jpg
   departments:
   floor:
@@ -2349,13 +2303,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29389':
   title: 7 East 12th Street (NYU-SCPS) 134
   published: false
   capacity: 27
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_134.jpg
   departments:
   floor:
@@ -2369,13 +2322,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29374':
   title: 7 East 12th Street (NYU-SCPS) LL21
   published: false
   capacity: 28
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL21.jpg
   departments:
   floor:
@@ -2389,13 +2341,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29376':
   title: 7 East 12th Street (NYU-SCPS) LL23
   published: false
   capacity: 50
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL23.jpg
   departments:
   floor:
@@ -2409,13 +2360,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29377':
   title: 7 East 12th Street (NYU-SCPS) LL25
   published: false
   capacity: 32
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL25.jpg
   departments:
   floor:
@@ -2429,13 +2379,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29378':
   title: 7 East 12th Street (NYU-SCPS) LL27
   published: false
   capacity: 30
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL27.jpg
   departments:
   floor:
@@ -2449,13 +2398,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29379':
   title: 7 East 12th Street (NYU-SCPS) LL31
   published: false
   capacity: 24
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL31.jpg
   departments:
   floor:
@@ -2469,13 +2417,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29380':
   title: 7 East 12th Street (NYU-SCPS) LL33
   published: false
   capacity: 30
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL33.jpg
   departments:
   floor:
@@ -2489,13 +2436,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1233':
   title: Goddard B-01
   published: false
   capacity: 24
   links:
-    software:
-    instructions: Goddard_Instructions.pdf
+    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-01.jpg
   departments:
   floor:
@@ -2509,13 +2456,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1234':
   title: Goddard B-02
   published: false
   capacity: 35
   links:
-    software:
-    instructions: Goddard_Instructions.pdf
+    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-02.jpg
   departments:
   floor:
@@ -2529,13 +2476,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1235':
   title: Goddard B-04
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Goddard_Instructions.pdf
+    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-04.jpg
   departments:
   floor:
@@ -2549,13 +2496,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1237':
   title: Goddard B-06
   published: false
   capacity: 35
   links:
-    software:
-    instructions: Goddard_Instructions.pdf
+    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-06.jpg
   departments:
   floor:
@@ -2569,13 +2516,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1239':
   title: Goddard B-07
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Goddard_Instructions.pdf
+    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-07.jpg
   departments:
   floor:
@@ -2589,13 +2536,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5206':
   title: King Juan Carlos 404W
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2609,13 +2555,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2164':
   title: King Juan Carlos 527
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2629,13 +2574,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2723':
   title: Kimball Hall Lounge
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2649,13 +2593,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1350':
   title: Meyer Building 102
   published: false
   capacity: 73
   links:
-    software:
-    instructions: Meyer102_Instructions.pdf
+    Instructions: Meyer102_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer102.jpg
   departments:
   floor:
@@ -2669,13 +2613,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1354':
   title: Meyer Building 121
   published: false
   capacity: 185
   links:
-    software:
-    instructions: Meyer121_Instructions.pdf
+    Instructions: Meyer121_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer121.jpg
   departments:
   floor:
@@ -2689,13 +2633,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1356':
   title: Meyer Building 122
   published: false
   capacity: 93
   links:
-    software:
-    instructions: Meyer122_Instructions.pdf
+    Instructions: Meyer122_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer122.jpg
   departments:
   floor:
@@ -2709,13 +2653,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1362':
   title: Meyer Building 261
   published: false
   capacity: 30
   links:
-    software:
-    instructions: Meyer261_Instructions.pdf
+    Instructions: Meyer261_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer261.jpg
   departments:
   floor:
@@ -2729,13 +2673,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1365':
   title: Meyer Building 307
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2749,13 +2692,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2918':
   title: Pless Building Lounge
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2769,13 +2711,12 @@ default:
     phone:
     email:
   access:
+  body:
 '3927':
   title: Pless Building Lounge
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2789,13 +2730,12 @@ default:
     phone:
     email:
   access:
+  body:
 '21819':
   title: Pless Building Sears
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2809,13 +2749,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5275':
   title: Pless Building Floor
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2829,13 +2768,12 @@ default:
     phone:
     email:
   access:
+  body:
 '2935':
   title: Pless Building Room
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2849,13 +2787,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1247':
   title: Silver 1st Floor Jurow
   published: false
   capacity: 80
   links:
-    software:
-    instructions: Silver_101A.pdf
+    Instructions: Silver_101A.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver101A.jpg
   departments:
   floor:
@@ -2869,13 +2807,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1253':
   title: Silver 2nd Floor 202
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2889,13 +2826,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1254':
   title: Silver 2nd Floor 203
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -2909,13 +2845,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1255':
   title: Silver 2nd Floor 206
   published: false
   capacity: 88
   links:
-    software:
-    instructions: Silver 206,208 new instructions.pdf
+    Instructions: Silver 206,208 new instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver206.jpg
   departments:
   floor:
@@ -2929,13 +2865,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1257':
   title: Silver 2nd Floor 207
   published: false
   capacity: 128
   links:
-    software:
-    instructions: Silver 207 new instructions.pdf
+    Instructions: Silver 207 new instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver207.jpg
   departments:
   floor:
@@ -2949,13 +2885,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1260':
   title: Silver 2nd Floor 208
   published: false
   capacity: 61
   links:
-    software:
-    instructions: Silver 206,208 new instructions.pdf
+    Instructions: Silver 206,208 new instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver208.jpg
   departments:
   floor:
@@ -2969,13 +2905,13 @@ default:
     phone:
     email:
   access:
+  body:
 '236':
   title: Silver 4th Floor 401
   published: false
   capacity: 70
   links:
-    software:
-    instructions: Silver 401 new 2013 instructions.pdf
+    Instructions: Silver 401 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver401.jpg
   departments:
   floor:
@@ -2989,13 +2925,13 @@ default:
     phone:
     email:
   access:
+  body:
 '238':
   title: Silver 4th Floor 402
   published: false
   capacity: 18
   links:
-    software:
-    instructions: Silver 402 406 409 new 2013 instructions.pdf
+    Instructions: Silver 402 406 409 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver402.jpg
   departments:
   floor:
@@ -3009,13 +2945,13 @@ default:
     phone:
     email:
   access:
+  body:
 '257':
   title: Silver 4th Floor 403
   published: false
   capacity: 33
   links:
-    software:
-    instructions: Silver 403 404 407 410 new 2013 instructions.pdf
+    Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver403.jpg
   departments:
   floor:
@@ -3029,13 +2965,13 @@ default:
     phone:
     email:
   access:
+  body:
 '258':
   title: Silver 4th Floor 404
   published: false
   capacity: 27
   links:
-    software:
-    instructions: Silver 403 404 407 410 new 2013 instructions.pdf
+    Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver404.jpg
   departments:
   floor:
@@ -3049,13 +2985,13 @@ default:
     phone:
     email:
   access:
+  body:
 '259':
   title: Silver 4th Floor 405
   published: false
   capacity: 108
   links:
-    software:
-    instructions: Silver405_instructions.pdf
+    Instructions: Silver405_instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver405.jpg
   departments:
   floor:
@@ -3069,13 +3005,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1265':
   title: Silver 4th Floor 406
   published: false
   capacity: 22
   links:
-    software:
-    instructions: Silver 402 406 409 new 2013 instructions.pdf
+    Instructions: Silver 402 406 409 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver406.jpg
   departments:
   floor:
@@ -3089,13 +3025,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1266':
   title: Silver 4th Floor 407
   published: false
   capacity: 32
   links:
-    software:
-    instructions: Silver 403 404 407 410 new 2013 instructions.pdf
+    Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver407.jpg
   departments:
   floor:
@@ -3109,13 +3045,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1268':
   title: Silver 4th Floor 408
   published: false
   capacity: 108
   links:
-    software:
-    instructions: Silver 408 new 2013 instructions.pdf
+    Instructions: Silver 408 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver408.jpg
   departments:
   floor:
@@ -3129,13 +3065,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1269':
   title: Silver 4th Floor 409
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Silver 402 406 409 new 2013 instructions.pdf
+    Instructions: Silver 402 406 409 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver409.jpg
   departments:
   floor:
@@ -3149,13 +3085,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1271':
   title: Silver 4th Floor 410
   published: false
   capacity: 37
   links:
-    software:
-    instructions: Silver 403 404 407 410 new 2013 instructions.pdf
+    Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver410.jpg
   departments:
   floor:
@@ -3169,13 +3105,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1272':
   title: Silver 4th Floor 411
   published: false
   capacity: 71
   links:
-    software:
-    instructions: Silver 411 new 2013 instructions.pdf
+    Instructions: Silver 411 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver411.jpg
   departments:
   floor:
@@ -3189,13 +3125,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1274':
   title: Silver 4th Floor 412
   published: false
   capacity: 25
   links:
-    software:
-    instructions: Silver_412.pdf
+    Instructions: Silver_412.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver412.jpg
   departments:
   floor:
@@ -3209,13 +3145,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1275':
   title: Silver 4th Floor 413
   published: false
   capacity: 8
   links:
-    software:
-    instructions: Silver 413 new 2013 instructions.pdf
+    Instructions: Silver 413 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver413.jpg
   departments:
   floor:
@@ -3229,13 +3165,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1277':
   title: Silver 4th Floor 414
   published: false
   capacity: 68
   links:
-    software:
-    instructions: Silver 414 new 2013 instructions.pdf
+    Instructions: Silver 414 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver414.jpg
   departments:
   floor:
@@ -3249,13 +3185,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1280':
   title: Silver 5th Floor 500
   published: false
   capacity: 25
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver500.jpg
   departments:
   floor:
@@ -3269,13 +3205,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1282':
   title: Silver 5th Floor 501
   published: false
   capacity: 28
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver501.jpg
   departments:
   floor:
@@ -3289,13 +3225,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1284':
   title: Silver 5th Floor 504
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver504.jpg
   departments:
   floor:
@@ -3309,13 +3245,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1287':
   title: Silver 5th Floor 506
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver506.jpg
   departments:
   floor:
@@ -3329,13 +3265,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1289':
   title: Silver 5th Floor 507
   published: false
   capacity: 30
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver507.jpg
   departments:
   floor:
@@ -3349,13 +3285,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1291':
   title: Silver 5th Floor 508
   published: false
   capacity: 25
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver508.jpg
   departments:
   floor:
@@ -3369,13 +3305,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1292':
   title: Silver 5th Floor 509
   published: false
   capacity: 36
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver509.jpg
   departments:
   floor:
@@ -3389,13 +3325,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1293':
   title: Silver 5th Floor 510
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver510.jpg
   departments:
   floor:
@@ -3409,13 +3345,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1296':
   title: Silver 5th Floor 512
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver512.jpg
   departments:
   floor:
@@ -3429,13 +3365,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1297':
   title: Silver 5th Floor 514
   published: false
   capacity: 28
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver514.jpg
   departments:
   floor:
@@ -3449,13 +3385,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1298':
   title: Silver 5th Floor 515
   published: false
   capacity: 25
   links:
-    software:
-    instructions: Silver 5th Floor Instructions.pdf
+    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver515.jpg
   departments:
   floor:
@@ -3469,13 +3405,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1299':
   title: Silver 5th Floor 518
   published: false
   capacity: 26
   links:
-    software:
-    instructions: Silver_518_Instructions.pdf
+    Instructions: Silver_518_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver518.jpg
   departments:
   floor:
@@ -3489,13 +3425,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1300':
   title: Silver 5th Floor 520
   published: false
   capacity: 90
   links:
-    software:
-    instructions: Silver_520_Instructions.pdf
+    Instructions: Silver_520_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver520.jpg
   departments:
   floor:
@@ -3509,13 +3445,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5200':
   title: Silver 6th Floor 603
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -3529,13 +3464,12 @@ default:
     phone:
     email:
   access:
+  body:
 '18913':
   title: Silver 6th Floor 604
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -3549,13 +3483,12 @@ default:
     phone:
     email:
   access:
+  body:
 '18914':
   title: Silver 6th Floor 606
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -3569,13 +3502,12 @@ default:
     phone:
     email:
   access:
+  body:
 '18971':
   title: Silver 6th Floor 610
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -3589,13 +3521,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1306':
   title: Silver 6th Floor 618
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -3609,13 +3540,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1307':
   title: Silver 6th Floor 620
   published: false
   capacity: 30
   links:
-    software:
-    instructions: Silver 620-Digital.pdf
+    Instructions: Silver 620-Digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver620.jpg
   departments:
   floor:
@@ -3629,13 +3560,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1308':
   title: Silver 6th Floor 621
   published: false
   capacity: 33
   links:
-    software:
-    instructions: Silver 621-Digital.pdf
+    Instructions: Silver 621-Digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver621.jpg
   departments:
   floor:
@@ -3649,13 +3580,12 @@ default:
     phone:
     email:
   access:
+  body:
 '4941':
   title: Silver 9th Floor 907
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -3669,13 +3599,12 @@ default:
     phone:
     email:
   access:
+  body:
 '5775':
   title: Silver 9th Floor 909D
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -3689,13 +3618,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1373':
   title: Tisch Hall LC-01
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC01.jpg
   departments:
   floor:
@@ -3709,13 +3638,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1374':
   title: Tisch Hall LC-02
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC02.jpg
   departments:
   floor:
@@ -3729,13 +3658,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1375':
   title: Tisch Hall LC-03
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC03.jpg
   departments:
   floor:
@@ -3749,13 +3678,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1376':
   title: Tisch Hall LC-04
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC04.jpg
   departments:
   floor:
@@ -3769,13 +3698,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1377':
   title: Tisch Hall LC-05
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC05.jpg
   departments:
   floor:
@@ -3789,13 +3718,13 @@ default:
     phone:
     email:
   access:
+  body:
 '27380':
   title: Tisch Hall LC-06
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC06.jpg
   departments:
   floor:
@@ -3809,13 +3738,13 @@ default:
     phone:
     email:
   access:
+  body:
 '27381':
   title: Tisch Hall LC-07
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC07.jpg
   departments:
   floor:
@@ -3829,13 +3758,13 @@ default:
     phone:
     email:
   access:
+  body:
 '27382':
   title: Tisch Hall LC-09
   published: false
   capacity: 45
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC09.jpg
   departments:
   floor:
@@ -3849,13 +3778,13 @@ default:
     phone:
     email:
   access:
+  body:
 '27383':
   title: Tisch Hall LC-11
   published: false
   capacity: 50
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC11.jpg
   departments:
   floor:
@@ -3869,13 +3798,13 @@ default:
     phone:
     email:
   access:
+  body:
 '27384':
   title: Tisch Hall LC-13
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC13.jpg
   departments:
   floor:
@@ -3889,13 +3818,13 @@ default:
     phone:
     email:
   access:
+  body:
 '27385':
   title: Tisch Hall LC-15
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Tisch_Hall_Instructions_CD.pdf
+    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC15.jpg
   departments:
   floor:
@@ -3909,13 +3838,13 @@ default:
     phone:
     email:
   access:
+  body:
 '27438':
   title: Tisch Hall LC-19
   published: false
   capacity: 36
   links:
-    software:
-    instructions: TISCH HALL LC-19 PODIUM.pdf
+    Instructions: TISCH HALL LC-19 PODIUM.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TISCH+HALL+LC-19.jpg
   departments:
   floor:
@@ -3929,13 +3858,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1397':
   title: Waverly 365
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -3949,13 +3877,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1398':
   title: Waverly 366
   published: false
   capacity: 39
   links:
-    software:
-    instructions: Waverly 3rd floor.pdf
+    Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly366.jpg
   departments:
   floor:
@@ -3969,13 +3897,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1399':
   title: Waverly 367
   published: false
   capacity: 35
   links:
-    software:
-    instructions: Waverly 3rd floor.pdf
+    Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly367.jpg
   departments:
   floor:
@@ -3989,13 +3917,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1401':
   title: Waverly 369
   published: false
   capacity: 33
   links:
-    software:
-    instructions: Waverly 3rd floor.pdf
+    Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly369.jpg
   departments:
   floor:
@@ -4009,13 +3937,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1402':
   title: Waverly 370
   published: false
   capacity: 30
   links:
-    software:
-    instructions: Waverly 3rd floor.pdf
+    Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly370.jpg
   departments:
   floor:
@@ -4029,13 +3957,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1409':
   title: Waverly 429
   published: false
   capacity: 26
   links:
-    software:
-    instructions: Waverly 4th floor.pdf
+    Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_429.jpg
   departments:
   floor:
@@ -4049,13 +3977,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1412':
   title: Waverly 431
   published: false
   capacity: 33
   links:
-    software:
-    instructions: Waverly 4th floor.pdf
+    Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/waverly_431.jpg
   departments:
   floor:
@@ -4069,13 +3997,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1413':
   title: Waverly 433
   published: false
   capacity: 33
   links:
-    software:
-    instructions: Waverly 4th floor.pdf
+    Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_433.jpg
   departments:
   floor:
@@ -4089,13 +4017,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1415':
   title: Waverly 435
   published: false
   capacity: 33
   links:
-    software:
-    instructions: Waverly 4th floor.pdf
+    Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_435.jpg
   departments:
   floor:
@@ -4109,13 +4037,13 @@ default:
     phone:
     email:
   access:
+  body:
 '2094':
   title: Waverly 566A
   published: false
   capacity: 32
   links:
-    software:
-    instructions: Waverly 5th floor.pdf
+    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566A.jpg
   departments:
   floor:
@@ -4129,13 +4057,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1417':
   title: Waverly 566B
   published: false
   capacity: 20
   links:
-    software:
-    instructions: Waverly 5th floor.pdf
+    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566B.jpg
   departments:
   floor:
@@ -4149,13 +4077,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1419':
   title: Waverly 567
   published: false
   capacity: 30
   links:
-    software:
-    instructions: Waverly 5th floor.pdf
+    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+567.jpg
   departments:
   floor:
@@ -4169,13 +4097,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1420':
   title: Waverly 569
   published: false
   capacity: 30
   links:
-    software:
-    instructions: Waverly 5th floor.pdf
+    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+569.jpg
   departments:
   floor:
@@ -4189,13 +4117,13 @@ default:
     phone:
     email:
   access:
+  body:
 '2093':
   title: Waverly 570
   published: false
   capacity: 24
   links:
-    software:
-    instructions: Waverly 5th floor.pdf
+    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+570.jpg
   departments:
   floor:
@@ -4209,13 +4137,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1404':
   title: Waverly 667
   published: false
   capacity: 37
   links:
-    software:
-    instructions: Waverly667-digital.pdf
+    Instructions: Waverly667-digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly667.jpg
   departments:
   floor:
@@ -4229,13 +4157,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1406':
   title: Waverly 668
   published: false
   capacity: 35
   links:
-    software:
-    instructions: Waverly 6th floor.pdf
+    Instructions: Waverly 6th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_668.jpg
   departments:
   floor:
@@ -4249,13 +4177,13 @@ default:
     phone:
     email:
   access:
+  body:
 '1408':
   title: Waverly 669
   published: false
   capacity: 27
   links:
-    software:
-    instructions: Waverly 669-digital.pdf
+    Instructions: Waverly 669-digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly669.jpg
   departments:
   floor:
@@ -4269,13 +4197,12 @@ default:
     phone:
     email:
   access:
+  body:
 '1473':
   title: Waverly Lounge
   published: false
   capacity:
   links:
-    software:
-    instructions:
   image:
   departments:
   floor:
@@ -4289,13 +4216,13 @@ default:
     phone:
     email:
   access:
+  body:
 '27429':
   title: University Hall C02A
   published: false
   capacity: 18
   links:
-    software:
-    instructions: UHALL C02A- Digital.pdf
+    Instructions: UHALL C02A- Digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Univ_Hall+C02A.jpg
   departments:
   floor:
@@ -4309,13 +4236,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28022':
   title: Weinstein Hall SB20
   published: false
   capacity: 24
   links:
-    software:
-    instructions: Weinstein SB-20, SB-35 Instructions.pdf
+    Instructions: Weinstein SB-20, SB-35 Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-20.jpg
   departments:
   floor:
@@ -4329,13 +4256,13 @@ default:
     phone:
     email:
   access:
+  body:
 '28023':
   title: Weinstein Hall SB35
   published: false
   capacity: 16
   links:
-    software:
-    instructions: Weinstein SB-20, SB-35 Instructions.pdf
+    Instructions: Weinstein SB-20, SB-35 Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-35.jpg
   departments:
   floor:
@@ -4349,13 +4276,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29688':
   title: Global Center (238 Thoms) 274
   published: false
   capacity: 18
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter274.jpg
   departments:
   floor:
@@ -4369,13 +4295,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29689':
   title: Global Center (238 Thoms) 275
   published: false
   capacity: 40
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter275.jpg
   departments:
   floor:
@@ -4389,13 +4314,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29691':
   title: Global Center (238 Thoms) 279
   published: false
   capacity: 48
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter279.jpg
   departments:
   floor:
@@ -4409,13 +4333,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29707':
   title: Global Center (238 Thoms) 288
   published: false
   capacity: 30
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter288.jpg
   departments:
   floor:
@@ -4429,13 +4352,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29693':
   title: Global Center (238 Thoms) 361
   published: false
   capacity: 36
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter361.jpg
   departments:
   floor:
@@ -4449,13 +4371,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29694':
   title: Global Center (238 Thoms) 365
   published: false
   capacity: 32
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter365.jpg
   departments:
   floor:
@@ -4469,13 +4390,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29708':
   title: Global Center (238 Thoms) 369
   published: false
   capacity: 40
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter369.jpg
   departments:
   floor:
@@ -4489,13 +4409,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29695':
   title: Global Center (238 Thoms) 374
   published: false
   capacity: 18
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter374.jpg
   departments:
   floor:
@@ -4509,13 +4428,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29696':
   title: Global Center (238 Thoms) 375
   published: false
   capacity: 32
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter375.jpg
   departments:
   floor:
@@ -4529,13 +4447,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29697':
   title: Global Center (238 Thoms) 379
   published: false
   capacity: 32
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter379.jpg
   departments:
   floor:
@@ -4549,13 +4466,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29698':
   title: Global Center (238 Thoms) 383
   published: false
   capacity: 42
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter383.jpg
   departments:
   floor:
@@ -4569,13 +4485,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29699':
   title: Global Center (238 Thoms) 388
   published: false
   capacity: 30
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter388.jpg
   departments:
   floor:
@@ -4589,13 +4504,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29700':
   title: Global Center (238 Thoms) 461
   published: false
   capacity: 32
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter461.jpg
   departments:
   floor:
@@ -4609,13 +4523,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29703':
   title: Global Center (238 Thoms) 475
   published: false
   capacity: 32
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter475.jpg
   departments:
   floor:
@@ -4629,13 +4542,13 @@ default:
     phone:
     email:
   access:
+  body:
 '29685':
   title: Global Center (238 Thoms) Hall
   published: false
   capacity: 257
   links:
-    software:
-    instructions: GCASL_C95_Instructions.pdf
+    Instructions: GCASL_C95_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenterC95.jpg
   departments:
   floor:
@@ -4649,13 +4562,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29773':
   title: Global Center (238 Thoms) 384
   published: false
   capacity: 22
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter384.jpg
   departments:
   floor:
@@ -4669,13 +4581,12 @@ default:
     phone:
     email:
   access:
+  body:
 '29772':
   title: Global Center (238 Thoms) 284
   published: false
   capacity: 22
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GCASL_284.jpg
   departments:
   floor:
@@ -4689,13 +4600,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32048':
   title: Rubin Hall 101
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin101.jpg
   departments:
   floor:
@@ -4709,13 +4620,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32049':
   title: Rubin Hall 102
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin102.jpg
   departments:
   floor:
@@ -4729,13 +4640,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32050':
   title: Rubin Hall 103
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin103.jpg
   departments:
   floor:
@@ -4749,13 +4660,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32051':
   title: Rubin Hall 104
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin104.jpg
   departments:
   floor:
@@ -4769,13 +4680,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32052':
   title: Rubin Hall 105
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin105.jpg
   departments:
   floor:
@@ -4789,13 +4700,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32053':
   title: Rubin Hall 106
   published: false
   capacity: 14
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin106.jpg
   departments:
   floor:
@@ -4809,13 +4720,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32054':
   title: Rubin Hall 107
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin107.jpg
   departments:
   floor:
@@ -4829,13 +4740,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32055':
   title: Rubin Hall 108
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin108.jpg
   departments:
   floor:
@@ -4849,13 +4760,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32056':
   title: Rubin Hall 109
   published: false
   capacity: 14
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin109.jpg
   departments:
   floor:
@@ -4869,13 +4780,13 @@ default:
     phone:
     email:
   access:
+  body:
 '32057':
   title: Rubin Hall 110
   published: false
   capacity: 15
   links:
-    software:
-    instructions: Rubin_Hall_Instructions.pdf
+    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin110.jpg
   departments:
   floor:
@@ -4889,13 +4800,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32716':
   title: 60 FA 110
   published: false
   capacity: 64
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_110.jpg
   departments:
   floor:
@@ -4909,13 +4819,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32718':
   title: 60 FA 125
   published: false
   capacity: 34
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_125.jpg
   departments:
   floor:
@@ -4929,13 +4838,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32719':
   title: 60 FA 150
   published: false
   capacity: 90
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_150.jpg
   departments:
   floor:
@@ -4949,13 +4857,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32720':
   title: 60 FA 161
   published: false
   capacity: 31
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_161.jpg
   departments:
   floor:
@@ -4969,13 +4876,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32721':
   title: 60 FA 165
   published: false
   capacity: 32
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_165.jpg
   departments:
   floor:
@@ -4989,13 +4895,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32722':
   title: 60 FA 202
   published: false
   capacity: 12
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_202.jpg
   departments:
   floor:
@@ -5009,13 +4914,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32723':
   title: 60 FA 250
   published: false
   capacity: 16
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_250.jpg
   departments:
   floor:
@@ -5029,13 +4933,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32724':
   title: 60 FA 261
   published: false
   capacity: 26
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_261.jpg
   departments:
   floor:
@@ -5049,13 +4952,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32725':
   title: 60 FA 265
   published: false
   capacity: 26
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_265.jpg
   departments:
   floor:
@@ -5069,13 +4971,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32726':
   title: 60 FA C03
   published: false
   capacity: 33
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C03.jpg
   departments:
   floor:
@@ -5089,13 +4990,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32727':
   title: 60 FA C04
   published: false
   capacity: 30
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C04.jpg
   departments:
   floor:
@@ -5109,13 +5009,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32728':
   title: 60 FA C10
   published: false
   capacity: 39
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C10.jpg
   departments:
   floor:
@@ -5129,13 +5028,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32729':
   title: 60 FA C12
   published: false
   capacity: 39
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C12.jpg
   departments:
   floor:
@@ -5149,13 +5047,12 @@ default:
     phone:
     email:
   access:
+  body:
 '32730':
   title: 60 FA C14
   published: false
   capacity: 31
   links:
-    software:
-    instructions:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C14.jpg
   departments:
   floor:
