@@ -1,5 +1,6 @@
 ---
 default:
+  published: true
   links:
     Troubleshooting: https://www.nyu.edu/campusmedia/help/troubleshooting.html
     FAQs: https://www.nyu.edu/campusmedia/help/faqs.html
@@ -9,7 +10,7 @@ default:
   buttons:
     Reserve Equipment for this Room: https://www.nyu.edu/campusmedia/forms/event.html
   keywords:
-  type: classroom
+  type: Classroom
   help:
     text: Placeholder help text
     phone: 212 222 2222
@@ -18,7 +19,6 @@ default:
     Some information about rooms here.
 '29686':
   title: Global Center (238 Thoms) 261
-  published: false
   capacity: 36
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter261.jpg
@@ -34,7 +34,6 @@ default:
   body:
 '29687':
   title: Global Center (238 Thoms) 265
-  published: false
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter265.jpg
@@ -50,7 +49,6 @@ default:
   body:
 '29690':
   title: Global Center (238 Thoms) 269
-  published: false
   capacity: 40
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter269.jpg
@@ -66,7 +64,6 @@ default:
   body:
 '5547':
   title: 194 Mercer 201
-  published: false
   capacity: 24
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -83,7 +80,6 @@ default:
   body:
 '5548':
   title: 194 Mercer 202
-  published: false
   capacity: 29
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -100,7 +96,6 @@ default:
   body:
 '5549':
   title: 194 Mercer 203
-  published: false
   capacity: 56
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -117,7 +112,6 @@ default:
   body:
 '5550':
   title: 194 Mercer 204
-  published: false
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -134,7 +128,6 @@ default:
   body:
 '5551':
   title: 194 Mercer 205
-  published: false
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -151,7 +144,6 @@ default:
   body:
 '5552':
   title: 194 Mercer 206
-  published: false
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -168,7 +160,6 @@ default:
   body:
 '5553':
   title: 194 Mercer 207
-  published: false
   capacity: 24
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -185,7 +176,6 @@ default:
   body:
 '5554':
   title: 194 Mercer 208
-  published: false
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -202,7 +192,6 @@ default:
   body:
 '5555':
   title: 194 Mercer 209
-  published: false
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -219,7 +208,6 @@ default:
   body:
 '5556':
   title: 194 Mercer 210
-  published: false
   capacity: 25
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -236,7 +224,6 @@ default:
   body:
 '5557':
   title: 194 Mercer 301
-  published: false
   capacity: 25
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -253,7 +240,6 @@ default:
   body:
 '5558':
   title: 194 Mercer 303
-  published: false
   capacity: 17
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -270,7 +256,6 @@ default:
   body:
 '6768':
   title: 194 Mercer 304
-  published: false
   capacity: 30
   links:
   image:
@@ -286,7 +271,6 @@ default:
   body:
 '5559':
   title: 194 Mercer 305
-  published: false
   capacity: 47
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -303,7 +287,6 @@ default:
   body:
 '5560':
   title: 194 Mercer 306
-  published: false
   capacity: 93
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -320,7 +303,6 @@ default:
   body:
 '5561':
   title: 194 Mercer 307
-  published: false
   capacity: 47
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -337,7 +319,6 @@ default:
   body:
 '5562':
   title: 194 Mercer 308
-  published: false
   capacity: 25
   links:
     Instructions: 194_Mercer_Instructions.pdf
@@ -354,7 +335,6 @@ default:
   body:
 '5563':
   title: 194 Mercer Office
-  published: false
   capacity:
   links:
   image:
@@ -370,7 +350,6 @@ default:
   body:
 '20195':
   title: 19 University Place Hall)
-  published: false
   capacity: 120
   links:
     Instructions: 19UP_102_Instructions.pdf
@@ -387,7 +366,6 @@ default:
   body:
 '4336':
   title: 19 University Place 222
-  published: false
   capacity:
   links:
   image:
@@ -403,7 +381,6 @@ default:
   body:
 '4568':
   title: 19 University Place 223
-  published: false
   capacity:
   links:
   image:
@@ -419,7 +396,6 @@ default:
   body:
 '9068':
   title: 19 University Place 224
-  published: false
   capacity:
   links:
   image:
@@ -435,7 +411,6 @@ default:
   body:
 '18862':
   title: 19 University Place 228
-  published: false
   capacity:
   links:
   image:
@@ -451,7 +426,6 @@ default:
   body:
 '2696':
   title: 19 University Place 229
-  published: false
   capacity:
   links:
   image:
@@ -467,7 +441,6 @@ default:
   body:
 '5320':
   title: 19 University Place 305
-  published: false
   capacity:
   links:
   image:
@@ -483,7 +456,6 @@ default:
   body:
 '21994':
   title: 19 University Place 327
-  published: false
   capacity:
   links:
   image:
@@ -499,7 +471,6 @@ default:
   body:
 '3937':
   title: 19 University Place 337
-  published: false
   capacity:
   links:
   image:
@@ -515,7 +486,6 @@ default:
   body:
 '19623':
   title: 19 University Place 402
-  published: false
   capacity:
   links:
   image:
@@ -531,7 +501,6 @@ default:
   body:
 '5347':
   title: 19 University Place 405
-  published: false
   capacity:
   links:
   image:
@@ -547,7 +516,6 @@ default:
   body:
 '19621':
   title: 19 University Place 435
-  published: false
   capacity:
   links:
   image:
@@ -563,7 +531,6 @@ default:
   body:
 '21752':
   title: 19 University Place 505
-  published: false
   capacity:
   links:
   image:
@@ -579,7 +546,6 @@ default:
   body:
 '21550':
   title: 19W4 101
-  published: false
   capacity: 188
   links:
     Instructions: 19w4_101_Instructions.pdf
@@ -596,7 +562,6 @@ default:
   body:
 '24527':
   title: 19W4 102
-  published: false
   capacity: 46
   links:
     Instructions: 19w4_102_Instructions.pdf
@@ -613,7 +578,6 @@ default:
   body:
 '237':
   title: 25W4 C-01
-  published: false
   capacity: 27
   links:
     Instructions: 25W4_Instructions.pdf
@@ -630,7 +594,6 @@ default:
   body:
 '260':
   title: 25W4 C-02
-  published: false
   capacity: 28
   links:
     Instructions: 25W4_Instructions.pdf
@@ -647,7 +610,6 @@ default:
   body:
 '261':
   title: 25W4 C-03
-  published: false
   capacity: 24
   links:
     Instructions: 25W4_Instructions.pdf
@@ -664,7 +626,6 @@ default:
   body:
 '262':
   title: 25W4 C-04
-  published: false
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
@@ -681,7 +642,6 @@ default:
   body:
 '263':
   title: 25W4 C-05
-  published: false
   capacity: 22
   links:
     Instructions: 25W4_Instructions.pdf
@@ -698,7 +658,6 @@ default:
   body:
 '264':
   title: 25W4 C-06
-  published: false
   capacity: 24
   links:
     Instructions: 25W4_C6_Instructions.pdf
@@ -715,7 +674,6 @@ default:
   body:
 '265':
   title: 25W4 C-07
-  published: false
   capacity: 18
   links:
     Instructions: 25W4_Instructions.pdf
@@ -732,7 +690,6 @@ default:
   body:
 '266':
   title: 25W4 C-08
-  published: false
   capacity: 30
   links:
     Instructions: 25W4_Instructions.pdf
@@ -749,7 +706,6 @@ default:
   body:
 '267':
   title: 25W4 C-09
-  published: false
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
@@ -766,7 +722,6 @@ default:
   body:
 '268':
   title: 25W4 C-10
-  published: false
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
@@ -783,7 +738,6 @@ default:
   body:
 '1145':
   title: 25W4 C-11
-  published: false
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
@@ -800,7 +754,6 @@ default:
   body:
 '1146':
   title: 25W4 C-12
-  published: false
   capacity: 24
   links:
     Instructions: 25W4_Instructions.pdf
@@ -817,7 +770,6 @@ default:
   body:
 '1147':
   title: 25W4 C-13
-  published: false
   capacity: 30
   links:
     Instructions: 25W4_Instructions.pdf
@@ -834,7 +786,6 @@ default:
   body:
 '1149':
   title: 25W4 C-14
-  published: false
   capacity: 24
   links:
     Instructions: 25W4_Instructions.pdf
@@ -851,7 +802,6 @@ default:
   body:
 '1151':
   title: 25W4 C-15
-  published: false
   capacity: 24
   links:
     Instructions: 25W4_Instructions.pdf
@@ -868,7 +818,6 @@ default:
   body:
 '1152':
   title: 25W4 C-16
-  published: false
   capacity: 18
   links:
     Instructions: 25W4_Instructions.pdf
@@ -885,7 +834,6 @@ default:
   body:
 '1153':
   title: 25W4 C-17
-  published: false
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
@@ -902,7 +850,6 @@ default:
   body:
 '1155':
   title: 25W4 C-18
-  published: false
   capacity: 20
   links:
     Instructions: 25W4_Instructions.pdf
@@ -919,7 +866,6 @@ default:
   body:
 '1156':
   title: 25W4 C-19
-  published: false
   capacity: 20
   links:
     Instructions: 25W4_Instructions.pdf
@@ -936,7 +882,6 @@ default:
   body:
 '1157':
   title: 25W4 C-20
-  published: false
   capacity: 40
   links:
     Instructions: 25W4_Instructions.pdf
@@ -953,7 +898,6 @@ default:
   body:
 '26004':
   title: 5 Washington Place Place-101
-  published: false
   capacity: 120
   links:
     Instructions: 5WP_Instructions.pdf
@@ -970,7 +914,6 @@ default:
   body:
 '1128':
   title: Gallatin 1 Wash Pl 315
-  published: false
   capacity:
   links:
   image:
@@ -986,7 +929,6 @@ default:
   body:
 '1130':
   title: Gallatin 1 Wash Pl 316
-  published: false
   capacity:
   links:
   image:
@@ -1002,7 +944,6 @@ default:
   body:
 '20365':
   title: Gallatin 1 Wash Pl 512
-  published: false
   capacity:
   links:
   image:
@@ -1018,7 +959,6 @@ default:
   body:
 '2821':
   title: Gallatin 1 Wash Pl 518
-  published: false
   capacity:
   links:
   image:
@@ -1034,7 +974,6 @@ default:
   body:
 '2829':
   title: Gallatin 1 Wash Pl 519
-  published: false
   capacity:
   links:
   image:
@@ -1050,7 +989,6 @@ default:
   body:
 '9067':
   title: 721 Broadway Lounge)
-  published: false
   capacity:
   links:
   image:
@@ -1066,7 +1004,6 @@ default:
   body:
 '3833':
   title: 721 Broadway Lab
-  published: false
   capacity:
   links:
   image:
@@ -1082,7 +1019,6 @@ default:
   body:
 '2080':
   title: 726 Broadway 542
-  published: false
   capacity:
   links:
   image:
@@ -1098,7 +1034,6 @@ default:
   body:
 '29365':
   title: Academic Resource Center LL-01
-  published: false
   capacity: 28
   links:
     Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
@@ -1115,7 +1050,6 @@ default:
   body:
 '29366':
   title: Academic Resource Center LL-02
-  published: false
   capacity: 28
   links:
     Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
@@ -1132,7 +1066,6 @@ default:
   body:
 '29369':
   title: Academic Resource Center LL-03
-  published: false
   capacity: 21
   links:
     Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
@@ -1149,7 +1082,6 @@ default:
   body:
 '29370':
   title: Academic Resource Center LL-04
-  published: false
   capacity: 25
   links:
     Instructions: VC_Instructions_ARCLL04.pdf
@@ -1166,7 +1098,6 @@ default:
   body:
 '29371':
   title: Academic Resource Center LL-05
-  published: false
   capacity: 24
   links:
     Instructions: ARCLL05.pdf
@@ -1183,7 +1114,6 @@ default:
   body:
 '29372':
   title: Academic Resource Center LL-16
-  published: false
   capacity: 6
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
@@ -1199,7 +1129,6 @@ default:
   body:
 '29373':
   title: Academic Resource Center LL-18
-  published: false
   capacity: 6
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
@@ -1215,7 +1144,6 @@ default:
   body:
 '2082':
   title: Bobst 836
-  published: false
   capacity: 15
   links:
     Instructions: Instructions_Bobst_836_837.pdf
@@ -1232,7 +1160,6 @@ default:
   body:
 '1166':
   title: Bobst 837
-  published: false
   capacity: 15
   links:
     Instructions: Instructions_Bobst_836_837.pdf
@@ -1249,7 +1176,6 @@ default:
   body:
 '27999':
   title: Bobst LL1.38
-  published: false
   capacity: 48
   links:
     Instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
@@ -1266,7 +1192,6 @@ default:
   body:
 '28000':
   title: Bobst LL1.39
-  published: false
   capacity: 30
   links:
     Instructions: Bobst_LL_Instructions.pdf
@@ -1283,7 +1208,6 @@ default:
   body:
 '28001':
   title: Bobst LL1.40
-  published: false
   capacity: 16
   links:
     Instructions: Bobst_LL_Instructions.pdf
@@ -1300,7 +1224,6 @@ default:
   body:
 '28002':
   title: Bobst LL1.41
-  published: false
   capacity: 24
   links:
     Instructions: Bobst LL1-41,LL1-43_Instructions.pdf
@@ -1317,7 +1240,6 @@ default:
   body:
 '28003':
   title: Bobst LL1.42
-  published: false
   capacity: 20
   links:
     Instructions: Bobst_LL_Instructions.pdf
@@ -1334,7 +1256,6 @@ default:
   body:
 '28004':
   title: Bobst LL1.43
-  published: false
   capacity: 24
   links:
     Instructions: Bobst LL1-41,LL1-43_Instructions.pdf
@@ -1351,7 +1272,6 @@ default:
   body:
 '28006':
   title: Bobst LL1.45
-  published: false
   capacity: 24
   links:
     Instructions: Bobst_LL_Instructions.pdf
@@ -1368,7 +1288,6 @@ default:
   body:
 '28007':
   title: Bobst LL1.46
-  published: false
   capacity: 20
   links:
     Instructions: Bobst_LL_Instructions.pdf
@@ -1385,7 +1304,6 @@ default:
   body:
 '28008':
   title: Bobst LL1.47
-  published: false
   capacity: 24
   links:
     Instructions: Bobst_LL_Instructions.pdf
@@ -1402,7 +1320,6 @@ default:
   body:
 '28009':
   title: Bobst LL1.48
-  published: false
   capacity: 16
   links:
     Instructions: Bobst_LL_Instructions.pdf
@@ -1419,7 +1336,6 @@ default:
   body:
 '28010':
   title: Bobst LL1.49
-  published: false
   capacity: 30
   links:
     Instructions: Bobst_LL_Instructions.pdf
@@ -1436,7 +1352,6 @@ default:
   body:
 '28011':
   title: Bobst LL1.50
-  published: false
   capacity: 48
   links:
     Instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
@@ -1453,7 +1368,6 @@ default:
   body:
 '28111':
   title: Bobst LL1.51
-  published: false
   capacity: 30
   links:
     Instructions: Bobst_LL_Instructions.pdf
@@ -1470,7 +1384,6 @@ default:
   body:
 '2822':
   title: Cantor 101
-  published: false
   capacity: 184
   links:
   image:
@@ -1486,7 +1399,6 @@ default:
   body:
 '4570':
   title: Cantor 102
-  published: false
   capacity: 177
   links:
   image:
@@ -1502,7 +1414,6 @@ default:
   body:
 '2823':
   title: Cantor 200
-  published: false
   capacity: 319
   links:
   image:
@@ -1518,7 +1429,6 @@ default:
   body:
 '5322':
   title: East Building 221
-  published: false
   capacity:
   links:
   image:
@@ -1534,7 +1444,6 @@ default:
   body:
 '5321':
   title: East Building 233
-  published: false
   capacity:
   links:
   image:
@@ -1550,7 +1459,6 @@ default:
   body:
 '5768':
   title: East Building 322
-  published: false
   capacity:
   links:
   image:
@@ -1566,7 +1474,6 @@ default:
   body:
 '9069':
   title: East Building 539
-  published: false
   capacity:
   links:
   image:
@@ -1582,7 +1489,6 @@ default:
   body:
 '1211':
   title: East Building 640
-  published: false
   capacity:
   links:
   image:
@@ -1598,7 +1504,6 @@ default:
   body:
 '13968':
   title: East Building 709
-  published: false
   capacity:
   links:
   image:
@@ -1614,7 +1519,6 @@ default:
   body:
 '8706':
   title: East Building 716
-  published: false
   capacity:
   links:
   image:
@@ -1630,7 +1534,6 @@ default:
   body:
 '5002':
   title: East Building 718
-  published: false
   capacity:
   links:
   image:
@@ -1646,7 +1549,6 @@ default:
   body:
 '8353':
   title: East Building 735
-  published: false
   capacity:
   links:
   image:
@@ -1662,7 +1564,6 @@ default:
   body:
 '4335':
   title: East Building Floor
-  published: false
   capacity:
   links:
   image:
@@ -1678,7 +1579,6 @@ default:
   body:
 '3167':
   title: Education Building 1231
-  published: false
   capacity:
   links:
   image:
@@ -1694,7 +1594,6 @@ default:
   body:
 '1213':
   title: Education Building Theater
-  published: false
   capacity: 330
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ176.jpg
@@ -1710,7 +1609,6 @@ default:
   body:
 '1216':
   title: Education Building 303
-  published: false
   capacity: 74
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ303.jpg
@@ -1726,7 +1624,6 @@ default:
   body:
 '1217':
   title: Education Building 306
-  published: false
   capacity: 25
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ306.jpg
@@ -1742,7 +1639,6 @@ default:
   body:
 '1219':
   title: Education Building 307
-  published: false
   capacity: 25
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ307.jpg
@@ -1758,7 +1654,6 @@ default:
   body:
 '29014':
   title: Genomics - 12 Waverly G08
-  published: false
   capacity: 138
   links:
     Instructions: Genomics_Auditorium_Instructions.pdf
@@ -1775,7 +1670,6 @@ default:
   body:
 '29010':
   title: Genomics - 12 Waverly L111
-  published: false
   capacity: 22
   links:
     Instructions: Genomics_L111_Instructions.pdf
@@ -1792,7 +1686,6 @@ default:
   body:
 '29011':
   title: Genomics - 12 Waverly L113
-  published: false
   capacity: 20
   links:
     Instructions: Genomics_L113-L114_Instructions.pdf
@@ -1809,7 +1702,6 @@ default:
   body:
 '29012':
   title: Genomics - 12 Waverly L114
-  published: false
   capacity: 20
   links:
     Instructions: Genomics_L113-L114_Instructions.pdf
@@ -1826,7 +1718,6 @@ default:
   body:
 '29013':
   title: Genomics - 12 Waverly L120
-  published: false
   capacity: 69
   links:
     Instructions: Genomics_L120_Instructions.pdf
@@ -1843,7 +1734,6 @@ default:
   body:
 '29382':
   title: 7 East 12th Street (NYU-SCPS) 121
-  published: false
   capacity: 34
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_121.jpg
@@ -1859,7 +1749,6 @@ default:
   body:
 '29383':
   title: 7 East 12th Street (NYU-SCPS) 123
-  published: false
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_123.jpg
@@ -1875,7 +1764,6 @@ default:
   body:
 '29384':
   title: 7 East 12th Street (NYU-SCPS) 124
-  published: false
   capacity: 28
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_124.jpg
@@ -1891,7 +1779,6 @@ default:
   body:
 '29385':
   title: 7 East 12th Street (NYU-SCPS) 125
-  published: false
   capacity: 35
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_125.jpg
@@ -1907,7 +1794,6 @@ default:
   body:
 '29386':
   title: 7 East 12th Street (NYU-SCPS) 127
-  published: false
   capacity: 24
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_127.jpg
@@ -1923,7 +1809,6 @@ default:
   body:
 '29387':
   title: 7 East 12th Street (NYU-SCPS) 129
-  published: false
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_129.jpg
@@ -1939,7 +1824,6 @@ default:
   body:
 '29388':
   title: 7 East 12th Street (NYU-SCPS) 131
-  published: false
   capacity: 20
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_131.jpg
@@ -1955,7 +1839,6 @@ default:
   body:
 '29389':
   title: 7 East 12th Street (NYU-SCPS) 134
-  published: false
   capacity: 27
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_134.jpg
@@ -1971,7 +1854,6 @@ default:
   body:
 '29374':
   title: 7 East 12th Street (NYU-SCPS) LL21
-  published: false
   capacity: 28
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL21.jpg
@@ -1987,7 +1869,6 @@ default:
   body:
 '29376':
   title: 7 East 12th Street (NYU-SCPS) LL23
-  published: false
   capacity: 50
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL23.jpg
@@ -2003,7 +1884,6 @@ default:
   body:
 '29377':
   title: 7 East 12th Street (NYU-SCPS) LL25
-  published: false
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL25.jpg
@@ -2019,7 +1899,6 @@ default:
   body:
 '29378':
   title: 7 East 12th Street (NYU-SCPS) LL27
-  published: false
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL27.jpg
@@ -2035,7 +1914,6 @@ default:
   body:
 '29379':
   title: 7 East 12th Street (NYU-SCPS) LL31
-  published: false
   capacity: 24
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL31.jpg
@@ -2051,7 +1929,6 @@ default:
   body:
 '29380':
   title: 7 East 12th Street (NYU-SCPS) LL33
-  published: false
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL33.jpg
@@ -2067,7 +1944,6 @@ default:
   body:
 '1233':
   title: Goddard B-01
-  published: false
   capacity: 24
   links:
     Instructions: Goddard_Instructions.pdf
@@ -2084,7 +1960,6 @@ default:
   body:
 '1234':
   title: Goddard B-02
-  published: false
   capacity: 35
   links:
     Instructions: Goddard_Instructions.pdf
@@ -2101,7 +1976,6 @@ default:
   body:
 '1235':
   title: Goddard B-04
-  published: false
   capacity: 20
   links:
     Instructions: Goddard_Instructions.pdf
@@ -2118,7 +1992,6 @@ default:
   body:
 '1237':
   title: Goddard B-06
-  published: false
   capacity: 35
   links:
     Instructions: Goddard_Instructions.pdf
@@ -2135,7 +2008,6 @@ default:
   body:
 '1239':
   title: Goddard B-07
-  published: false
   capacity: 20
   links:
     Instructions: Goddard_Instructions.pdf
@@ -2152,7 +2024,6 @@ default:
   body:
 '5206':
   title: King Juan Carlos 404W
-  published: false
   capacity:
   links:
   image:
@@ -2168,7 +2039,6 @@ default:
   body:
 '2164':
   title: King Juan Carlos 527
-  published: false
   capacity:
   links:
   image:
@@ -2184,7 +2054,6 @@ default:
   body:
 '2723':
   title: Kimball Hall Lounge
-  published: false
   capacity:
   links:
   image:
@@ -2200,7 +2069,6 @@ default:
   body:
 '1350':
   title: Meyer Building 102
-  published: false
   capacity: 73
   links:
     Instructions: Meyer102_Instructions.pdf
@@ -2217,7 +2085,6 @@ default:
   body:
 '1354':
   title: Meyer Building 121
-  published: false
   capacity: 185
   links:
     Instructions: Meyer121_Instructions.pdf
@@ -2234,7 +2101,6 @@ default:
   body:
 '1356':
   title: Meyer Building 122
-  published: false
   capacity: 93
   links:
     Instructions: Meyer122_Instructions.pdf
@@ -2251,7 +2117,6 @@ default:
   body:
 '1362':
   title: Meyer Building 261
-  published: false
   capacity: 30
   links:
     Instructions: Meyer261_Instructions.pdf
@@ -2268,7 +2133,6 @@ default:
   body:
 '1365':
   title: Meyer Building 307
-  published: false
   capacity:
   links:
   image:
@@ -2284,7 +2148,6 @@ default:
   body:
 '2918':
   title: Pless Building Lounge
-  published: false
   capacity:
   links:
   image:
@@ -2300,7 +2163,6 @@ default:
   body:
 '3927':
   title: Pless Building Lounge
-  published: false
   capacity:
   links:
   image:
@@ -2316,7 +2178,6 @@ default:
   body:
 '21819':
   title: Pless Building Sears
-  published: false
   capacity:
   links:
   image:
@@ -2332,7 +2193,6 @@ default:
   body:
 '5275':
   title: Pless Building Floor
-  published: false
   capacity:
   links:
   image:
@@ -2348,7 +2208,6 @@ default:
   body:
 '2935':
   title: Pless Building Room
-  published: false
   capacity:
   links:
   image:
@@ -2364,7 +2223,6 @@ default:
   body:
 '1247':
   title: Silver 1st Floor Jurow
-  published: false
   capacity: 80
   links:
     Instructions: Silver_101A.pdf
@@ -2381,7 +2239,6 @@ default:
   body:
 '1253':
   title: Silver 2nd Floor 202
-  published: false
   capacity:
   links:
   image:
@@ -2397,7 +2254,6 @@ default:
   body:
 '1254':
   title: Silver 2nd Floor 203
-  published: false
   capacity:
   links:
   image:
@@ -2413,7 +2269,6 @@ default:
   body:
 '1255':
   title: Silver 2nd Floor 206
-  published: false
   capacity: 88
   links:
     Instructions: Silver 206,208 new instructions.pdf
@@ -2430,7 +2285,6 @@ default:
   body:
 '1257':
   title: Silver 2nd Floor 207
-  published: false
   capacity: 128
   links:
     Instructions: Silver 207 new instructions.pdf
@@ -2447,7 +2301,6 @@ default:
   body:
 '1260':
   title: Silver 2nd Floor 208
-  published: false
   capacity: 61
   links:
     Instructions: Silver 206,208 new instructions.pdf
@@ -2464,7 +2317,6 @@ default:
   body:
 '236':
   title: Silver 4th Floor 401
-  published: false
   capacity: 70
   links:
     Instructions: Silver 401 new 2013 instructions.pdf
@@ -2481,7 +2333,6 @@ default:
   body:
 '238':
   title: Silver 4th Floor 402
-  published: false
   capacity: 18
   links:
     Instructions: Silver 402 406 409 new 2013 instructions.pdf
@@ -2498,7 +2349,6 @@ default:
   body:
 '257':
   title: Silver 4th Floor 403
-  published: false
   capacity: 33
   links:
     Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
@@ -2515,7 +2365,6 @@ default:
   body:
 '258':
   title: Silver 4th Floor 404
-  published: false
   capacity: 27
   links:
     Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
@@ -2532,7 +2381,6 @@ default:
   body:
 '259':
   title: Silver 4th Floor 405
-  published: false
   capacity: 108
   links:
     Instructions: Silver405_instructions.pdf
@@ -2549,7 +2397,6 @@ default:
   body:
 '1265':
   title: Silver 4th Floor 406
-  published: false
   capacity: 22
   links:
     Instructions: Silver 402 406 409 new 2013 instructions.pdf
@@ -2566,7 +2413,6 @@ default:
   body:
 '1266':
   title: Silver 4th Floor 407
-  published: false
   capacity: 32
   links:
     Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
@@ -2583,7 +2429,6 @@ default:
   body:
 '1268':
   title: Silver 4th Floor 408
-  published: false
   capacity: 108
   links:
     Instructions: Silver 408 new 2013 instructions.pdf
@@ -2600,7 +2445,6 @@ default:
   body:
 '1269':
   title: Silver 4th Floor 409
-  published: false
   capacity: 20
   links:
     Instructions: Silver 402 406 409 new 2013 instructions.pdf
@@ -2617,7 +2461,6 @@ default:
   body:
 '1271':
   title: Silver 4th Floor 410
-  published: false
   capacity: 37
   links:
     Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
@@ -2634,7 +2477,6 @@ default:
   body:
 '1272':
   title: Silver 4th Floor 411
-  published: false
   capacity: 71
   links:
     Instructions: Silver 411 new 2013 instructions.pdf
@@ -2651,7 +2493,6 @@ default:
   body:
 '1274':
   title: Silver 4th Floor 412
-  published: false
   capacity: 25
   links:
     Instructions: Silver_412.pdf
@@ -2668,7 +2509,6 @@ default:
   body:
 '1275':
   title: Silver 4th Floor 413
-  published: false
   capacity: 8
   links:
     Instructions: Silver 413 new 2013 instructions.pdf
@@ -2685,7 +2525,6 @@ default:
   body:
 '1277':
   title: Silver 4th Floor 414
-  published: false
   capacity: 68
   links:
     Instructions: Silver 414 new 2013 instructions.pdf
@@ -2702,7 +2541,6 @@ default:
   body:
 '1280':
   title: Silver 5th Floor 500
-  published: false
   capacity: 25
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2719,7 +2557,6 @@ default:
   body:
 '1282':
   title: Silver 5th Floor 501
-  published: false
   capacity: 28
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2736,7 +2573,6 @@ default:
   body:
 '1284':
   title: Silver 5th Floor 504
-  published: false
   capacity: 20
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2753,7 +2589,6 @@ default:
   body:
 '1287':
   title: Silver 5th Floor 506
-  published: false
   capacity: 20
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2770,7 +2605,6 @@ default:
   body:
 '1289':
   title: Silver 5th Floor 507
-  published: false
   capacity: 30
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2787,7 +2621,6 @@ default:
   body:
 '1291':
   title: Silver 5th Floor 508
-  published: false
   capacity: 25
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2804,7 +2637,6 @@ default:
   body:
 '1292':
   title: Silver 5th Floor 509
-  published: false
   capacity: 36
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2821,7 +2653,6 @@ default:
   body:
 '1293':
   title: Silver 5th Floor 510
-  published: false
   capacity: 20
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2838,7 +2669,6 @@ default:
   body:
 '1296':
   title: Silver 5th Floor 512
-  published: false
   capacity: 20
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2855,7 +2685,6 @@ default:
   body:
 '1297':
   title: Silver 5th Floor 514
-  published: false
   capacity: 28
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2872,7 +2701,6 @@ default:
   body:
 '1298':
   title: Silver 5th Floor 515
-  published: false
   capacity: 25
   links:
     Instructions: Silver 5th Floor Instructions.pdf
@@ -2889,7 +2717,6 @@ default:
   body:
 '1299':
   title: Silver 5th Floor 518
-  published: false
   capacity: 26
   links:
     Instructions: Silver_518_Instructions.pdf
@@ -2906,7 +2733,6 @@ default:
   body:
 '1300':
   title: Silver 5th Floor 520
-  published: false
   capacity: 90
   links:
     Instructions: Silver_520_Instructions.pdf
@@ -2923,7 +2749,6 @@ default:
   body:
 '5200':
   title: Silver 6th Floor 603
-  published: false
   capacity:
   links:
   image:
@@ -2939,7 +2764,6 @@ default:
   body:
 '18913':
   title: Silver 6th Floor 604
-  published: false
   capacity:
   links:
   image:
@@ -2955,7 +2779,6 @@ default:
   body:
 '18914':
   title: Silver 6th Floor 606
-  published: false
   capacity:
   links:
   image:
@@ -2971,7 +2794,6 @@ default:
   body:
 '18971':
   title: Silver 6th Floor 610
-  published: false
   capacity:
   links:
   image:
@@ -2987,7 +2809,6 @@ default:
   body:
 '1306':
   title: Silver 6th Floor 618
-  published: false
   capacity:
   links:
   image:
@@ -3003,7 +2824,6 @@ default:
   body:
 '1307':
   title: Silver 6th Floor 620
-  published: false
   capacity: 30
   links:
     Instructions: Silver 620-Digital.pdf
@@ -3020,7 +2840,6 @@ default:
   body:
 '1308':
   title: Silver 6th Floor 621
-  published: false
   capacity: 33
   links:
     Instructions: Silver 621-Digital.pdf
@@ -3037,7 +2856,6 @@ default:
   body:
 '4941':
   title: Silver 9th Floor 907
-  published: false
   capacity:
   links:
   image:
@@ -3053,7 +2871,6 @@ default:
   body:
 '5775':
   title: Silver 9th Floor 909D
-  published: false
   capacity:
   links:
   image:
@@ -3069,7 +2886,6 @@ default:
   body:
 '1373':
   title: Tisch Hall LC-01
-  published: false
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3086,7 +2902,6 @@ default:
   body:
 '1374':
   title: Tisch Hall LC-02
-  published: false
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3103,7 +2918,6 @@ default:
   body:
 '1375':
   title: Tisch Hall LC-03
-  published: false
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3120,7 +2934,6 @@ default:
   body:
 '1376':
   title: Tisch Hall LC-04
-  published: false
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3137,7 +2950,6 @@ default:
   body:
 '1377':
   title: Tisch Hall LC-05
-  published: false
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3154,7 +2966,6 @@ default:
   body:
 '27380':
   title: Tisch Hall LC-06
-  published: false
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3171,7 +2982,6 @@ default:
   body:
 '27381':
   title: Tisch Hall LC-07
-  published: false
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3188,7 +2998,6 @@ default:
   body:
 '27382':
   title: Tisch Hall LC-09
-  published: false
   capacity: 45
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3205,7 +3014,6 @@ default:
   body:
 '27383':
   title: Tisch Hall LC-11
-  published: false
   capacity: 50
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3222,7 +3030,6 @@ default:
   body:
 '27384':
   title: Tisch Hall LC-13
-  published: false
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3239,7 +3046,6 @@ default:
   body:
 '27385':
   title: Tisch Hall LC-15
-  published: false
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
@@ -3256,7 +3062,6 @@ default:
   body:
 '27438':
   title: Tisch Hall LC-19
-  published: false
   capacity: 36
   links:
     Instructions: TISCH HALL LC-19 PODIUM.pdf
@@ -3273,7 +3078,6 @@ default:
   body:
 '1397':
   title: Waverly 365
-  published: false
   capacity:
   links:
   image:
@@ -3289,7 +3093,6 @@ default:
   body:
 '1398':
   title: Waverly 366
-  published: false
   capacity: 39
   links:
     Instructions: Waverly 3rd floor.pdf
@@ -3306,7 +3109,6 @@ default:
   body:
 '1399':
   title: Waverly 367
-  published: false
   capacity: 35
   links:
     Instructions: Waverly 3rd floor.pdf
@@ -3323,7 +3125,6 @@ default:
   body:
 '1401':
   title: Waverly 369
-  published: false
   capacity: 33
   links:
     Instructions: Waverly 3rd floor.pdf
@@ -3340,7 +3141,6 @@ default:
   body:
 '1402':
   title: Waverly 370
-  published: false
   capacity: 30
   links:
     Instructions: Waverly 3rd floor.pdf
@@ -3357,7 +3157,6 @@ default:
   body:
 '1409':
   title: Waverly 429
-  published: false
   capacity: 26
   links:
     Instructions: Waverly 4th floor.pdf
@@ -3374,7 +3173,6 @@ default:
   body:
 '1412':
   title: Waverly 431
-  published: false
   capacity: 33
   links:
     Instructions: Waverly 4th floor.pdf
@@ -3391,7 +3189,6 @@ default:
   body:
 '1413':
   title: Waverly 433
-  published: false
   capacity: 33
   links:
     Instructions: Waverly 4th floor.pdf
@@ -3408,7 +3205,6 @@ default:
   body:
 '1415':
   title: Waverly 435
-  published: false
   capacity: 33
   links:
     Instructions: Waverly 4th floor.pdf
@@ -3425,7 +3221,6 @@ default:
   body:
 '2094':
   title: Waverly 566A
-  published: false
   capacity: 32
   links:
     Instructions: Waverly 5th floor.pdf
@@ -3442,7 +3237,6 @@ default:
   body:
 '1417':
   title: Waverly 566B
-  published: false
   capacity: 20
   links:
     Instructions: Waverly 5th floor.pdf
@@ -3459,7 +3253,6 @@ default:
   body:
 '1419':
   title: Waverly 567
-  published: false
   capacity: 30
   links:
     Instructions: Waverly 5th floor.pdf
@@ -3476,7 +3269,6 @@ default:
   body:
 '1420':
   title: Waverly 569
-  published: false
   capacity: 30
   links:
     Instructions: Waverly 5th floor.pdf
@@ -3493,7 +3285,6 @@ default:
   body:
 '2093':
   title: Waverly 570
-  published: false
   capacity: 24
   links:
     Instructions: Waverly 5th floor.pdf
@@ -3510,7 +3301,6 @@ default:
   body:
 '1404':
   title: Waverly 667
-  published: false
   capacity: 37
   links:
     Instructions: Waverly667-digital.pdf
@@ -3527,7 +3317,6 @@ default:
   body:
 '1406':
   title: Waverly 668
-  published: false
   capacity: 35
   links:
     Instructions: Waverly 6th floor.pdf
@@ -3544,7 +3333,6 @@ default:
   body:
 '1408':
   title: Waverly 669
-  published: false
   capacity: 27
   links:
     Instructions: Waverly 669-digital.pdf
@@ -3561,7 +3349,6 @@ default:
   body:
 '1473':
   title: Waverly Lounge
-  published: false
   capacity:
   links:
   image:
@@ -3577,7 +3364,6 @@ default:
   body:
 '27429':
   title: University Hall C02A
-  published: false
   capacity: 18
   links:
     Instructions: UHALL C02A- Digital.pdf
@@ -3594,7 +3380,6 @@ default:
   body:
 '28022':
   title: Weinstein Hall SB20
-  published: false
   capacity: 24
   links:
     Instructions: Weinstein SB-20, SB-35 Instructions.pdf
@@ -3611,7 +3396,6 @@ default:
   body:
 '28023':
   title: Weinstein Hall SB35
-  published: false
   capacity: 16
   links:
     Instructions: Weinstein SB-20, SB-35 Instructions.pdf
@@ -3628,7 +3412,6 @@ default:
   body:
 '29688':
   title: Global Center (238 Thoms) 274
-  published: false
   capacity: 18
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter274.jpg
@@ -3644,7 +3427,6 @@ default:
   body:
 '29689':
   title: Global Center (238 Thoms) 275
-  published: false
   capacity: 40
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter275.jpg
@@ -3660,7 +3442,6 @@ default:
   body:
 '29691':
   title: Global Center (238 Thoms) 279
-  published: false
   capacity: 48
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter279.jpg
@@ -3676,7 +3457,6 @@ default:
   body:
 '29707':
   title: Global Center (238 Thoms) 288
-  published: false
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter288.jpg
@@ -3692,7 +3472,6 @@ default:
   body:
 '29693':
   title: Global Center (238 Thoms) 361
-  published: false
   capacity: 36
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter361.jpg
@@ -3708,7 +3487,6 @@ default:
   body:
 '29694':
   title: Global Center (238 Thoms) 365
-  published: false
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter365.jpg
@@ -3724,7 +3502,6 @@ default:
   body:
 '29708':
   title: Global Center (238 Thoms) 369
-  published: false
   capacity: 40
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter369.jpg
@@ -3740,7 +3517,6 @@ default:
   body:
 '29695':
   title: Global Center (238 Thoms) 374
-  published: false
   capacity: 18
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter374.jpg
@@ -3756,7 +3532,6 @@ default:
   body:
 '29696':
   title: Global Center (238 Thoms) 375
-  published: false
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter375.jpg
@@ -3772,7 +3547,6 @@ default:
   body:
 '29697':
   title: Global Center (238 Thoms) 379
-  published: false
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter379.jpg
@@ -3788,7 +3562,6 @@ default:
   body:
 '29698':
   title: Global Center (238 Thoms) 383
-  published: false
   capacity: 42
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter383.jpg
@@ -3804,7 +3577,6 @@ default:
   body:
 '29699':
   title: Global Center (238 Thoms) 388
-  published: false
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter388.jpg
@@ -3820,7 +3592,6 @@ default:
   body:
 '29700':
   title: Global Center (238 Thoms) 461
-  published: false
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter461.jpg
@@ -3836,7 +3607,6 @@ default:
   body:
 '29703':
   title: Global Center (238 Thoms) 475
-  published: false
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter475.jpg
@@ -3852,7 +3622,6 @@ default:
   body:
 '29685':
   title: Global Center (238 Thoms) Hall
-  published: false
   capacity: 257
   links:
     Instructions: GCASL_C95_Instructions.pdf
@@ -3869,7 +3638,6 @@ default:
   body:
 '29773':
   title: Global Center (238 Thoms) 384
-  published: false
   capacity: 22
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter384.jpg
@@ -3885,7 +3653,6 @@ default:
   body:
 '29772':
   title: Global Center (238 Thoms) 284
-  published: false
   capacity: 22
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GCASL_284.jpg
@@ -3901,7 +3668,6 @@ default:
   body:
 '32048':
   title: Rubin Hall 101
-  published: false
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -3918,7 +3684,6 @@ default:
   body:
 '32049':
   title: Rubin Hall 102
-  published: false
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -3935,7 +3700,6 @@ default:
   body:
 '32050':
   title: Rubin Hall 103
-  published: false
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -3952,7 +3716,6 @@ default:
   body:
 '32051':
   title: Rubin Hall 104
-  published: false
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -3969,7 +3732,6 @@ default:
   body:
 '32052':
   title: Rubin Hall 105
-  published: false
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -3986,7 +3748,6 @@ default:
   body:
 '32053':
   title: Rubin Hall 106
-  published: false
   capacity: 14
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -4003,7 +3764,6 @@ default:
   body:
 '32054':
   title: Rubin Hall 107
-  published: false
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -4020,7 +3780,6 @@ default:
   body:
 '32055':
   title: Rubin Hall 108
-  published: false
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -4037,7 +3796,6 @@ default:
   body:
 '32056':
   title: Rubin Hall 109
-  published: false
   capacity: 14
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -4054,7 +3812,6 @@ default:
   body:
 '32057':
   title: Rubin Hall 110
-  published: false
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
@@ -4071,7 +3828,6 @@ default:
   body:
 '32716':
   title: 60 FA 110
-  published: false
   capacity: 64
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_110.jpg
@@ -4087,7 +3843,6 @@ default:
   body:
 '32718':
   title: 60 FA 125
-  published: false
   capacity: 34
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_125.jpg
@@ -4103,7 +3858,6 @@ default:
   body:
 '32719':
   title: 60 FA 150
-  published: false
   capacity: 90
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_150.jpg
@@ -4119,7 +3873,6 @@ default:
   body:
 '32720':
   title: 60 FA 161
-  published: false
   capacity: 31
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_161.jpg
@@ -4135,7 +3888,6 @@ default:
   body:
 '32721':
   title: 60 FA 165
-  published: false
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_165.jpg
@@ -4151,7 +3903,6 @@ default:
   body:
 '32722':
   title: 60 FA 202
-  published: false
   capacity: 12
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_202.jpg
@@ -4167,7 +3918,6 @@ default:
   body:
 '32723':
   title: 60 FA 250
-  published: false
   capacity: 16
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_250.jpg
@@ -4183,7 +3933,6 @@ default:
   body:
 '32724':
   title: 60 FA 261
-  published: false
   capacity: 26
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_261.jpg
@@ -4199,7 +3948,6 @@ default:
   body:
 '32725':
   title: 60 FA 265
-  published: false
   capacity: 26
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_265.jpg
@@ -4215,7 +3963,6 @@ default:
   body:
 '32726':
   title: 60 FA C03
-  published: false
   capacity: 33
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C03.jpg
@@ -4231,7 +3978,6 @@ default:
   body:
 '32727':
   title: 60 FA C04
-  published: false
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C04.jpg
@@ -4247,7 +3993,6 @@ default:
   body:
 '32728':
   title: 60 FA C10
-  published: false
   capacity: 39
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C10.jpg
@@ -4263,7 +4008,6 @@ default:
   body:
 '32729':
   title: 60 FA C12
-  published: false
   capacity: 39
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C12.jpg
@@ -4279,7 +4023,6 @@ default:
   body:
 '32730':
   title: 60 FA C14
-  published: false
   capacity: 31
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C14.jpg
