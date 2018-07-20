@@ -22,7 +22,7 @@ CM-Installed Document Camera:
 CM-Installed Computer:
   label: Computer
   type: equipment
-  description:
+  description: Desktop
 CM-Wireless Internet Connection:
   label: Wireless Internet Connection
   type: feature
