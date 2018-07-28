@@ -2,22 +2,22 @@
 default:
   published: true
   links:
-    Troubleshooting: https://www.nyu.edu/campusmedia/help/troubleshooting.html
-    FAQs: https://www.nyu.edu/campusmedia/help/faqs.html
+    Campus Media Services: /services/campus-media/
+    Find More Classrooms: /services/campus-media/classrooms/
+    Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_8BQofJXUx8q2RFz
   policies:
-    Rates: https://www.nyu.edu/campusmedia/events/rates.html
     Policies: https://www.nyu.edu/campusmedia/classrooms/policies.html
   buttons:
-    Reserve Equipment for this Room: https://www.nyu.edu/campusmedia/forms/event.html
+    Reserve Classroom Equipment: https://www.nyu.edu/campusmedia/forms/event.html
   keywords:
   type: Classroom
   help:
     text: Placeholder help text
-    phone: 212 222 2222
+    phone: +1 212 222 2222
     email: campusmedia-help@nyu.edu
   libanswers:
-    topic_ids: 29679
-    link: http://library.answers.nyu.edu/
+    topic_ids: 46490
+    link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body:
     Some information about rooms here.
 '29686':
