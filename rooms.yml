@@ -1582,6 +1582,7 @@ default:
   access:
   body:
 '3167':
+  publish: false
   title: Education Building 1231
   capacity:
   links:
@@ -1597,7 +1598,8 @@ default:
   access:
   body:
 '1213':
-  title: Education Building Theater
+  title: Education Building, Room 176
+  subtitle: Lowe Theater
   capacity: 330
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ176.jpg
@@ -1606,7 +1608,7 @@ default:
   buttons:
   policies:
   description:
-  type:
+  type: Theater
   keywords:
   help:
   access:
