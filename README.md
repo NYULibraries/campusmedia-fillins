@@ -11,12 +11,13 @@ key2: value 2 # Values can be safetly written without quotation marks
 "12345": value 4 # or with numbers as keys
 ```
 
-**Multi-line values:**
+**Multi-line values:** (use when Markdown especially)
 ```yaml
 body: |
   I can write arbitrary text here:
   Including [formatted markdown](https://guides.github.com/features/mastering-markdown/)!
-  ## I can even write multiple lines.
+  I can even write multiple lines.
+  # With headers!
   * But I always make sure each subsequent line is indented!
   * YAML understands when my text ends when it sees an unindented line.
 key:
@@ -25,6 +26,10 @@ key:
       If my multi-line text is deeply nested, I make sure to continue indenting two more lines than the preceding key.
       So I can continue writing here!
     published: true
+```
+*but...*
+```yaml
+confused_yaml: # When we write markdown here (sees as comment)
 ```
 
 **Lists:**
