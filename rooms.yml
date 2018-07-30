@@ -18,7 +18,7 @@ default:
   libanswers:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
-  body:
+  body: |
     [Software list for this classroom](https://library.answers.nyu.edu/faq/234419?m=p)
 '29686':
   title: Global Center (238 Thoms) 261
