@@ -674,7 +674,8 @@ default:
   keywords:
   help:
   access:
-  body: [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
+  body: |
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
 '265':
   title: 25W4 C-07
   capacity: 18
@@ -1686,7 +1687,8 @@ default:
   keywords:
   help:
   access:
-  body:  [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
+  body: |
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
 '29011':
   title: Genomics - 12 Waverly L113
   capacity: 20
@@ -3668,7 +3670,8 @@ default:
   keywords:
   help:
   access:
-  body: [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
+  body: | 
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
 '32048':
   title: Rubin Hall 101
   capacity: 15
