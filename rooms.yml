@@ -6,20 +6,20 @@ default:
     Find More Classrooms: /services/campus-media/classrooms/
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_8BQofJXUx8q2RFz
   policies:
-    Policies: https://www.nyu.edu/campusmedia/classrooms/policies.html
+    Classroom Media Policies: /services/campus-media/classroom-services/policies/
   buttons:
-    Reserve Classroom Equipment: https://www.nyu.edu/campusmedia/forms/event.html
+    Reserve Classroom Equipment: https://nyu.qualtrics.com/jfe/form/SV_6MdlzUJ2iVPcTM9
   keywords:
   type: Classroom
   help:
-    text: Placeholder help text
-    phone: +1 212 222 2222
+    text: Our main office is located in the Silver Center at 100 Washington Sq. East, LL7A, New York, NY 10003
+    phone: +1 212 998 2655
     email: campusmedia-help@nyu.edu
   libanswers:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body:
-    Some information about rooms here.
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419?m=p)
 '29686':
   title: Global Center (238 Thoms) 261
   capacity: 36
