@@ -2,9 +2,9 @@
 default:
   published: true
   links:
-    Campus Media Services: /services/campus-media/
-    Find More Classrooms: /services/campus-media/classrooms/
+    Search Buildings and Rooms: /services/campus-media/classrooms/
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_8BQofJXUx8q2RFz
+    Campus Media Services: /services/campus-media/
   policies:
     Classroom Media Policies: /services/campus-media/classroom-services/policies/
   buttons:
@@ -12,14 +12,14 @@ default:
   keywords:
   type: Classroom
   help:
-    text: Our main office is located in the Silver Center at 100 Washington Sq. East, LL7A, New York, NY 10003
+    text: Our main office is located in the Silver Center for Arts and Science at 100 Washington Sq. East, LL7A, New York, NY 10003
     phone: +1 212 998 2655
     email: campusmedia-help@nyu.edu
   libanswers:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body: |
-    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419?m=p)
+    <a class="ss-redirect right" href="https://library.answers.nyu.edu/faq/234419" target="_blank">Software list for this classroom<span class="sr-only">(opens in a new window)</span></a>
 '29686':
   title: Global Center (238 Thoms) 261
   capacity: 36
