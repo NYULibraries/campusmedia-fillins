@@ -20,6 +20,7 @@ default:
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body: |
     [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external}
+'29686':
   title: Global Center (238 Thoms) 261
   capacity: 36
   links:
@@ -3671,7 +3672,7 @@ default:
   keywords:
   help:
   access:
-  body: | 
+  body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
 '32048':
   title: Rubin Hall 101
