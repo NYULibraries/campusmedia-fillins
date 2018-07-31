@@ -19,8 +19,7 @@ default:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body: |
-    <a class="ss-redirect right" href="https://library.answers.nyu.edu/faq/234419" target="_blank">Software list for this classroom<span class="sr-only">(opens in a new window)</span></a>
-'29686':
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external}
   title: Global Center (238 Thoms) 261
   capacity: 36
   links:
@@ -675,7 +674,7 @@ default:
   help:
   access:
   body: |
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
 '265':
   title: 25W4 C-07
   capacity: 18
@@ -1690,7 +1689,7 @@ default:
   help:
   access:
   body: |
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
 '29011':
   title: Genomics - 12 Waverly L113
   capacity: 20
