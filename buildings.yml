@@ -1,108 +1,82 @@
 ---
-'2114':
-  address: 110 5th Avenue, New York, NY
-'244':
-  address: 111 2nd Avenue, New York, NY
-'2108':
-'791':
 '412':
   address: 19 University Place, New York, NY
+  building_description: 19 University Place
 '792':
   address: 194 Mercer Street, New York, NY
+  building_description: 194 Mercer
 '2055':
   address: 19 West 4th Street, New York, NY
-'222':
-  address: 1 Washington Square North, New York, NY
-'2008':
-  address: 58 Washington Square South, New York, NY
+  building_description: 19W4
 '96':
   address: 25 West 4th Street, New York, NY
-'215':
-  address: 269 Mercer Street, New York, NY
-'2034':
-  address: 75 3rd Avenue, New York, NY
-'2109':
-  address: 41 East 11th Street, New York, NY
-'2127':
-  address: 411 Lafayette Street, New York, NY
-'107':
-  address: 145 4th Avenue, New York, NY
+  building_description: 25W4
 '1938':
   address: 5 Washington Place, New York, NY
+  building_description: 5 Washington Place
 '206':
   address: 715 Broadway, New York, NY
-'207':
-  address: 719 Broadway, New York, NY
-'208':
-  address: 721 Broadway, New York, NY
+  building_description: Gallatin 1 Wash Pl
 '284':
   address: 726 Broadway, New York, NY
-'108':
-  address: 34 Stuyvesant Street, New York, NY
+  building_description: 726 Broadway
 '210':
   address: 70 Washington Square South, New York, NY
-'219':
-  address: 29 Washington Place/245 Greene Street, New York, NY
-'660':
-  address: 100 Washington Square East, New York, NY
-'512':
-  address: 36 East 8th Street, New York, NY
-'513':
-  address: 10 Washington Place, New York, NY
+  building_description: Bobst
 '211':
   address: 239 Greene Street, New York, NY
+  building_description: East Building
 '204':
   address: 35 West 4th Street, New York, NY
+  building_description: Education Building
 '2666':
   address: 18 Washington Place, New York, NY
+  building_description: Academic Resource Center
 '2667':
   address: 7 East 12th Street, New York, NY
+  building_description: 7 East 12th Street (NYU-SCPS)
 '2677':
   address: 238 Thompson Street, New York, NY
+  building_description: Global Center (238 Thoms)
 '214':
   address: 45 West 4th Street - Basement, New York, NY
-'109':
-  address: 1 West 4th Street, New York, NY
-'1904':
-  address: 50 Washington Square South, New York, NY
+  building_description: Goddard
 '220':
   address: 246 Greene Street, New York, NY
+  building_description: Kimball Hall
 '227':
   address: 53 Washington Square South, New York, NY
+  building_description: King Juan Carlos
 '212':
   address: 4 Washington Place, New York, NY
+  building_description: Meyer Building
 '223':
   address: 82 Washington Square East, New York, NY
-'213':
-  address: 50 West 4th Street, New York, NY
-'203':
-  address: 100 Washington Square East, New York, NY
-'195':
-  address: 100 Washington Square East, New York, NY
-'196':
-  address: 100 Washington Square East, New York, NY
-'197':
-  address: 100 Washington Square East, New York, NY
+  building_description: Pless Building
 '94':
   address: 100 Washington Square East, New York, NY
+  building_description: Silver 4th Floor
 '198':
   address: 100 Washington Square East, New York, NY
+  building_description: Silver 5th Floor
 '199':
   address: 100 Washington Square East, New York, NY
-'200':
-  address: 100 Washington Square East, New York, NY
-'201':
-  address: 100 Washington Square East, New York, NY
+  building_description: Silver 6th Floor
 '202':
   address: 100 Washington Square East, New York, NY
+  building_description: Silver 9th Floor
 '205':
   address: 40 West 4th Street, New York, NY
-'209':
+  building_description: Tisch Hall
 '194':
   address: 24 Waverly Place, New York, NY
+  building_description: Waverly
 '2638':
   address: 12 Waverly Place, New York, NY
+  building_description: Genomics - 12 Waverly
 '2924':
   address: 60 5th Avenue, New York, NY
+  building_description: 60 FA
 '2853':
   address: 35 5th Avenue, New York, NY
+  building_description: Rubin Hall
