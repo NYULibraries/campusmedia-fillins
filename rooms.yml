@@ -1047,6 +1047,7 @@ default:
   access:
   body:
 '29372':
+  published: false
   title: Academic Resource Center LL-16
   capacity: 6
   links:
@@ -1061,6 +1062,7 @@ default:
   access:
   body:
 '29373':
+  published: false
   title: Academic Resource Center LL-18
   capacity: 6
   links:
