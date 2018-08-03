@@ -1,35 +1,35 @@
 ---
 '2114':
   address: 110 5th Avenue, New York, NY
-  location: 110 5th Avenue, New York, NY
+  location: 110 5th Avenue
 '244':
   address: 111 2nd Avenue, New York, NY
-  location: 111 2nd Avenue, New York, NY
+  location: 111 2nd Avenue
 '412':
   address: 19 University Place, New York, NY
   location: 19 University Place
+  help:
+    text: Silver Center Office 100 Washington Square East, Room LL7A 212-998-2655 campusmedia@nyu.edu
 '792':
   address: 194 Mercer Street, New York, NY
   location: 194 Mercer
 '2055':
   address: 19 West 4th Street, New York, NY
-  location: 19W4
+  location: 19 West 4th Street
 '96':
   address: 25 West 4th Street, New York, NY
-  location: 25W4
+  location: 25 West 4th Street
 '1938':
   address: 5 Washington Place, New York, NY
   location: 5 Washington Place
 '206':
   address: 715 Broadway, New York, NY
   location: Gallatin 1 Wash Pl
-'284':
-  address: 726 Broadway, New York, NY
-  location: 726 Broadway
 '210':
   address: 70 Washington Square South, New York, NY
-  location: Bobst
+  location: Bobst Library
 '211':
+  published: false
   address: 239 Greene Street, New York, NY
   location: East Building
 '204':
@@ -37,40 +37,43 @@
   location: Education Building
 '2666':
   address: 18 Washington Place, New York, NY
-  location: Academic Resource Center
+  location: Academic Resource Center (ARC)
 '2667':
   address: 7 East 12th Street, New York, NY
-  location: 7 East 12th Street (NYU-SCPS)
+  location: 7 East 12th Street
 '2677':
   address: 238 Thompson Street, New York, NY
-  location: Global Center (238 Thoms)
+  location: Global Center for Academic & Spiritual Life (GCASL)
 '214':
-  address: 45 West 4th Street - Basement, New York, NY
-  location: Goddard
+  address: 45 West 4th Street, New York, NY
+  location: Goddard Hall
 '220':
+  published: false
   address: 246 Greene Street, New York, NY
   location: Kimball Hall
 '227':
+  published: false
   address: 53 Washington Square South, New York, NY
   location: King Juan Carlos
 '212':
   address: 4 Washington Place, New York, NY
-  location: Meyer Building
+  location: Meyer Hall
 '223':
   address: 82 Washington Square East, New York, NY
   location: Pless Building
 '94':
   address: 100 Washington Square East, New York, NY
-  location: Silver 4th Floor
+  location: Silver Center, 4th Floor
 '198':
   address: 100 Washington Square East, New York, NY
-  location: Silver 5th Floor
+  location: Silver Center, 5th Floor
 '199':
   address: 100 Washington Square East, New York, NY
-  location: Silver 6th Floor
+  location: Silver Center, 6th Floor
 '202':
+  published: false
   address: 100 Washington Square East, New York, NY
-  location: Silver 9th Floor
+  location: Silver Center, 9th Floor
 '205':
   address: 40 West 4th Street, New York, NY
   location: Tisch Hall
@@ -79,10 +82,59 @@
   location: Waverly
 '2638':
   address: 12 Waverly Place, New York, NY
-  location: Genomics - 12 Waverly
+  location: 12 Waverly Place (Genomics)
 '2924':
   address: 60 5th Avenue, New York, NY
-  location: 60 FA
+  location: 60 5th Avenue
 '2853':
   address: 35 5th Avenue, New York, NY
   location: Rubin Hall
+'222':
+  address: 1 Washington Square North, New York, NY
+  location: 1 Washington Square North
+'2008':
+  address: 58 Washington Square South, New York, NY
+  location: 58 Washington Square South
+'2109':
+  published: false
+  address: 41 East 11th Street, New York, NY
+  location: 41 E 11th St
+'2127':
+  published: false
+  address: 411 Lafayette Street, New York, NY
+  location: 411 Lafayette Street
+'207':
+  published: false
+  address: 719 Broadway, New York, NY
+  location: 719 Broadway
+'2642':
+  published: false
+  address: 721 Broadway, New York, NY
+  location: 721 Broadway
+'284':
+  published: false
+  address: 726 Broadway, New York, NY
+  location: 726 Broadway
+'2615':
+  address: 36 East 8th Street
+  location: Cantor Film Center
+'203':
+  published: false
+  address: 100 Washington Square East, New York, NY
+  location: 100 Washington Square East
+'2947':
+  address: 100 Washington Square East
+  location: Silver Center, 1st Floor
+'2847':
+  address: 100 Washington Square East
+  location: Silver Center, 2nd Floor
+'209':
+  published: false
+  address:
+  location: Warren Weaver Hall
+'2559':
+  address: 110 East 14 Street
+  location: University Hall
+'2590':
+  address: 11 University Place, New York, NY
+  location: Weinstein Hall
