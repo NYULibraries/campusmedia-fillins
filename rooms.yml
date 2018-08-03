@@ -2,4128 +2,1267 @@
 default:
   published: true
   links:
-    Search Buildings and Rooms: /services/campus-media/classrooms/
+    Search Buildings and Rooms: "/services/campus-media/classrooms/"
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_8BQofJXUx8q2RFz
-    Campus Media Services: /services/campus-media/
+    Campus Media Services: "/services/campus-media/"
   policies:
-    Classroom Media Policies: /services/campus-media/classroom-services/policies/
+    Classroom Media Policies: "/services/campus-media/classroom-services/policies/"
   buttons:
     Reserve Classroom Equipment: https://nyu.qualtrics.com/jfe/form/SV_6MdlzUJ2iVPcTM9
   keywords:
   type: Classroom
   help:
-    text: Our main office is located in the Silver Center for Arts and Science at 100 Washington Sq. East, LL7A, New York, NY 10003
-    phone: +1 212 998 2655
+    text: Our main office is located in the Silver Center for Arts and Science at
+      100 Washington Sq. East, LL7A, New York, NY 10003
+    phone: "+1 212 998 2655"
     email: campusmedia-help@nyu.edu
   libanswers:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
-  body: |
-    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external}
+  body: "[Software list for this classroom](https://library.answers.nyu.edu/faq/234419){:
+    .external}\n"
 '29686':
   title: Global Center (238 Thoms) 261
   capacity: 36
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter261.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29687':
   title: Global Center (238 Thoms) 265
   capacity: 32
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter265.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29690':
   title: Global Center (238 Thoms) 269
   capacity: 40
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter269.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5547':
   title: 194 Mercer 201
   capacity: 24
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer201.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5548':
   title: 194 Mercer 202
   capacity: 29
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer202.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5549':
   title: 194 Mercer 203
   capacity: 56
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer203.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5550':
   title: 194 Mercer 204
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer204.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5551':
   title: 194 Mercer 205
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer205.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5552':
   title: 194 Mercer 206
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer206.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5553':
   title: 194 Mercer 207
   capacity: 24
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer207.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5554':
   title: 194 Mercer 208
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer208.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5555':
   title: 194 Mercer 209
   capacity: 26
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer209.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5556':
   title: 194 Mercer 210
   capacity: 25
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer210.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5557':
   title: 194 Mercer 301
   capacity: 25
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer301.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5558':
   title: 194 Mercer 303
   capacity: 17
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer303.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '6768':
   title: 194 Mercer 304
   capacity: 30
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5559':
   title: 194 Mercer 305
   capacity: 47
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer305.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5560':
   title: 194 Mercer 306
   capacity: 93
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer306.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5561':
   title: 194 Mercer 307
   capacity: 47
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer307.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5562':
   title: 194 Mercer 308
   capacity: 25
   links:
     Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer308.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5563':
   title: 194 Mercer Office
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '20195':
   title: 19 University Place Hall)
   capacity: 120
   links:
     Instructions: 19UP_102_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19+University+102.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '4336':
   title: 19 University Place 222
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '4568':
   title: 19 University Place 223
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '9068':
   title: 19 University Place 224
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '18862':
   title: 19 University Place 228
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2696':
   title: 19 University Place 229
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5320':
   title: 19 University Place 305
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '21994':
   title: 19 University Place 327
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '3937':
   title: 19 University Place 337
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '19623':
   title: 19 University Place 402
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5347':
   title: 19 University Place 405
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '19621':
   title: 19 University Place 435
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '21752':
   title: 19 University Place 505
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '21550':
   title: 19W4 101
   capacity: 188
   links:
     Instructions: 19w4_101_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th101.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '24527':
   title: 19W4 102
   capacity: 46
   links:
     Instructions: 19w4_102_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th102.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '237':
   title: 25W4 C-01
   capacity: 27
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-01.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '260':
   title: 25W4 C-02
   capacity: 28
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-02.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '261':
   title: 25W4 C-03
   capacity: 24
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-03.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '262':
   title: 25W4 C-04
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-04.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '263':
   title: 25W4 C-05
   capacity: 22
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-05.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '264':
   title: 25W4 C-06
   capacity: 24
   links:
     Instructions: 25W4_C6_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-06.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
   type: Computer Lab
-  keywords:
-  help:
-  access:
-  body: |
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
+  body: "[Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){:
+    .external}\n"
 '265':
   title: 25W4 C-07
   capacity: 18
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-07.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '266':
   title: 25W4 C-08
   capacity: 30
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-08.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '267':
   title: 25W4 C-09
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-09.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '268':
   title: 25W4 C-10
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-10.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1145':
   title: 25W4 C-11
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-11.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1146':
   title: 25W4 C-12
   capacity: 24
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-12.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1147':
   title: 25W4 C-13
   capacity: 30
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-13.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1149':
   title: 25W4 C-14
   capacity: 24
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-14.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1151':
   title: 25W4 C-15
   capacity: 24
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-15.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1152':
   title: 25W4 C-16
   capacity: 18
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-16.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1153':
   title: 25W4 C-17
   capacity: 25
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-17.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1155':
   title: 25W4 C-18
   capacity: 20
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-18.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1156':
   title: 25W4 C-19
   capacity: 20
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-19.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1157':
   title: 25W4 C-20
   capacity: 40
   links:
     Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-20.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '26004':
   title: 5 Washington Place Place-101
   capacity: 120
   links:
     Instructions: 5WP_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/5WP101.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1128':
   title: Gallatin 1 Wash Pl 315
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1130':
   title: Gallatin 1 Wash Pl 316
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '20365':
   title: Gallatin 1 Wash Pl 512
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2821':
   title: Gallatin 1 Wash Pl 518
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2829':
   title: Gallatin 1 Wash Pl 519
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '9067':
   title: 721 Broadway Lounge)
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '3833':
   title: 721 Broadway Lab
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2080':
   title: 726 Broadway 542
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29365':
   title: Academic Resource Center LL-01
   capacity: 28
   links:
     Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL1.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29366':
   title: Academic Resource Center LL-02
   capacity: 28
   links:
     Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL2.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29369':
   title: Academic Resource Center LL-03
   capacity: 21
   links:
     Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL3.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29370':
   title: Academic Resource Center LL-04
   capacity: 25
   links:
     Instructions: VC_Instructions_ARCLL04.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL4.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29371':
   title: Academic Resource Center LL-05
   capacity: 24
   links:
     Instructions: ARCLL05.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL5.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29372':
   title: Academic Resource Center LL-16
   capacity: 6
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29373':
   title: Academic Resource Center LL-18
   capacity: 6
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2082':
   title: Bobst 836
   capacity: 15
   links:
     Instructions: Instructions_Bobst_836_837.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst836.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1166':
   title: Bobst 837
   capacity: 15
   links:
     Instructions: Instructions_Bobst_836_837.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst837.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '27999':
   title: Bobst LL1.38
   capacity: 48
   links:
     Instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL38.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28000':
   title: Bobst LL1.39
   capacity: 30
   links:
     Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL39.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28001':
   title: Bobst LL1.40
   capacity: 16
   links:
     Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL40.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28002':
   title: Bobst LL1.41
   capacity: 24
   links:
     Instructions: Bobst LL1-41,LL1-43_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28003':
   title: Bobst LL1.42
   capacity: 20
   links:
     Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL42.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28004':
   title: Bobst LL1.43
   capacity: 24
   links:
     Instructions: Bobst LL1-41,LL1-43_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28006':
   title: Bobst LL1.45
   capacity: 24
   links:
     Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL45.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28007':
   title: Bobst LL1.46
   capacity: 20
   links:
     Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL46.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28008':
   title: Bobst LL1.47
   capacity: 24
   links:
     Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL47.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28009':
   title: Bobst LL1.48
   capacity: 16
   links:
     Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL48.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28010':
   title: Bobst LL1.49
   capacity: 30
   links:
     Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL49.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28011':
   title: Bobst LL1.50
   capacity: 48
   links:
     Instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL50.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28111':
   title: Bobst LL1.51
   capacity: 30
   links:
     Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL51.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2822':
   title: Cantor 101
   capacity: 184
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '4570':
   title: Cantor 102
   capacity: 177
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2823':
   title: Cantor 200
   capacity: 319
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5322':
   title: East Building 221
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5321':
   title: East Building 233
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5768':
   title: East Building 322
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '9069':
   title: East Building 539
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1211':
   title: East Building 640
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '13968':
   title: East Building 709
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '8706':
   title: East Building 716
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5002':
   title: East Building 718
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '8353':
   title: East Building 735
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '4335':
   title: East Building Floor
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '3167':
   publish: false
   title: Education Building 1231
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1213':
   title: Education Building, Room 176
   subtitle: Lowe Theater
   capacity: 330
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ176.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
   type: Theater
-  keywords:
-  help:
-  access:
-  body:
 '1216':
   title: Education Building 303
   capacity: 74
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ303.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1217':
   title: Education Building 306
   capacity: 25
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ306.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1219':
   title: Education Building 307
   capacity: 25
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ307.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29014':
   title: Genomics - 12 Waverly G08
   capacity: 138
   links:
     Instructions: Genomics_Auditorium_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GenomicsAud-108.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29010':
   title: Genomics - 12 Waverly L111
   capacity: 22
   links:
     Instructions: Genomics_L111_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-111.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
   type: Computer Lab
-  keywords:
-  help:
-  access:
-  body: |
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
+  body: "[Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){:
+    .external}\n"
 '29011':
   title: Genomics - 12 Waverly L113
   capacity: 20
   links:
     Instructions: Genomics_L113-L114_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L113.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29012':
   title: Genomics - 12 Waverly L114
   capacity: 20
   links:
     Instructions: Genomics_L113-L114_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L114.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29013':
   title: Genomics - 12 Waverly L120
   capacity: 69
   links:
     Instructions: Genomics_L120_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L120.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29382':
   title: 7 East 12th Street (NYU-SCPS) 121
   capacity: 34
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_121.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29383':
   title: 7 East 12th Street (NYU-SCPS) 123
   capacity: 30
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_123.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29384':
   title: 7 East 12th Street (NYU-SCPS) 124
   capacity: 28
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_124.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29385':
   title: 7 East 12th Street (NYU-SCPS) 125
   capacity: 35
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_125.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29386':
   title: 7 East 12th Street (NYU-SCPS) 127
   capacity: 24
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_127.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29387':
   title: 7 East 12th Street (NYU-SCPS) 129
   capacity: 30
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_129.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29388':
   title: 7 East 12th Street (NYU-SCPS) 131
   capacity: 20
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_131.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29389':
   title: 7 East 12th Street (NYU-SCPS) 134
   capacity: 27
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_134.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29374':
   title: 7 East 12th Street (NYU-SCPS) LL21
   capacity: 28
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL21.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29376':
   title: 7 East 12th Street (NYU-SCPS) LL23
   capacity: 50
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL23.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29377':
   title: 7 East 12th Street (NYU-SCPS) LL25
   capacity: 32
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL25.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29378':
   title: 7 East 12th Street (NYU-SCPS) LL27
   capacity: 30
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL27.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29379':
   title: 7 East 12th Street (NYU-SCPS) LL31
   capacity: 24
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL31.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29380':
   title: 7 East 12th Street (NYU-SCPS) LL33
   capacity: 30
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL33.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1233':
   title: Goddard B-01
   capacity: 24
   links:
     Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-01.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1234':
   title: Goddard B-02
   capacity: 35
   links:
     Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-02.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1235':
   title: Goddard B-04
   capacity: 20
   links:
     Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-04.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1237':
   title: Goddard B-06
   capacity: 35
   links:
     Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-06.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1239':
   title: Goddard B-07
   capacity: 20
   links:
     Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-07.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5206':
   title: King Juan Carlos 404W
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2164':
   title: King Juan Carlos 527
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2723':
   title: Kimball Hall Lounge
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1350':
   title: Meyer Building 102
   capacity: 73
   links:
     Instructions: Meyer102_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer102.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1354':
   title: Meyer Building 121
   capacity: 185
   links:
     Instructions: Meyer121_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer121.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1356':
   title: Meyer Building 122
   capacity: 93
   links:
     Instructions: Meyer122_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer122.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1362':
   title: Meyer Building 261
   capacity: 30
   links:
     Instructions: Meyer261_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer261.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1365':
   title: Meyer Building 307
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2918':
   title: Pless Building Lounge
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '3927':
   title: Pless Building Lounge
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '21819':
   title: Pless Building Sears
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5275':
   title: Pless Building Floor
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2935':
   title: Pless Building Room
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1247':
   title: Silver 1st Floor Jurow
   capacity: 80
   links:
     Instructions: Silver_101A.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver101A.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1253':
   title: Silver 2nd Floor 202
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1254':
   title: Silver 2nd Floor 203
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1255':
   title: Silver 2nd Floor 206
   capacity: 88
   links:
     Instructions: Silver 206,208 new instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver206.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1257':
   title: Silver 2nd Floor 207
   capacity: 128
   links:
     Instructions: Silver 207 new instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver207.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1260':
   title: Silver 2nd Floor 208
   capacity: 61
   links:
     Instructions: Silver 206,208 new instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver208.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '236':
   title: Silver 4th Floor 401
   capacity: 70
   links:
     Instructions: Silver 401 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver401.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '238':
   title: Silver 4th Floor 402
   capacity: 18
   links:
     Instructions: Silver 402 406 409 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver402.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '257':
   title: Silver 4th Floor 403
   capacity: 33
   links:
     Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver403.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '258':
   title: Silver 4th Floor 404
   capacity: 27
   links:
     Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver404.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '259':
   title: Silver 4th Floor 405
   capacity: 108
   links:
     Instructions: Silver405_instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver405.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1265':
   title: Silver 4th Floor 406
   capacity: 22
   links:
     Instructions: Silver 402 406 409 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver406.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1266':
   title: Silver 4th Floor 407
   capacity: 32
   links:
     Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver407.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1268':
   title: Silver 4th Floor 408
   capacity: 108
   links:
     Instructions: Silver 408 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver408.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1269':
   title: Silver 4th Floor 409
   capacity: 20
   links:
     Instructions: Silver 402 406 409 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver409.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1271':
   title: Silver 4th Floor 410
   capacity: 37
   links:
     Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver410.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1272':
   title: Silver 4th Floor 411
   capacity: 71
   links:
     Instructions: Silver 411 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver411.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1274':
   title: Silver 4th Floor 412
   capacity: 25
   links:
     Instructions: Silver_412.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver412.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1275':
   title: Silver 4th Floor 413
   capacity: 8
   links:
     Instructions: Silver 413 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver413.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1277':
   title: Silver 4th Floor 414
   capacity: 68
   links:
     Instructions: Silver 414 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver414.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1280':
   title: Silver 5th Floor 500
   capacity: 25
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver500.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1282':
   title: Silver 5th Floor 501
   capacity: 28
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver501.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1284':
   title: Silver 5th Floor 504
   capacity: 20
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver504.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1287':
   title: Silver 5th Floor 506
   capacity: 20
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver506.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1289':
   title: Silver 5th Floor 507
   capacity: 30
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver507.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1291':
   title: Silver 5th Floor 508
   capacity: 25
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver508.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1292':
   title: Silver 5th Floor 509
   capacity: 36
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver509.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1293':
   title: Silver 5th Floor 510
   capacity: 20
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver510.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1296':
   title: Silver 5th Floor 512
   capacity: 20
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver512.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1297':
   title: Silver 5th Floor 514
   capacity: 28
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver514.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1298':
   title: Silver 5th Floor 515
   capacity: 25
   links:
     Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver515.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1299':
   title: Silver 5th Floor 518
   capacity: 26
   links:
     Instructions: Silver_518_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver518.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1300':
   title: Silver 5th Floor 520
   capacity: 90
   links:
     Instructions: Silver_520_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver520.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5200':
   title: Silver 6th Floor 603
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '18913':
   title: Silver 6th Floor 604
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '18914':
   title: Silver 6th Floor 606
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '18971':
   title: Silver 6th Floor 610
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1306':
   title: Silver 6th Floor 618
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1307':
   title: Silver 6th Floor 620
   capacity: 30
   links:
     Instructions: Silver 620-Digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver620.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1308':
   title: Silver 6th Floor 621
   capacity: 33
   links:
     Instructions: Silver 621-Digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver621.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '4941':
   title: Silver 9th Floor 907
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '5775':
   title: Silver 9th Floor 909D
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1373':
   title: Tisch Hall LC-01
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC01.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1374':
   title: Tisch Hall LC-02
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC02.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1375':
   title: Tisch Hall LC-03
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC03.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1376':
   title: Tisch Hall LC-04
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC04.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1377':
   title: Tisch Hall LC-05
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC05.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '27380':
   title: Tisch Hall LC-06
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC06.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '27381':
   title: Tisch Hall LC-07
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC07.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '27382':
   title: Tisch Hall LC-09
   capacity: 45
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC09.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '27383':
   title: Tisch Hall LC-11
   capacity: 50
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC11.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '27384':
   title: Tisch Hall LC-13
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC13.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '27385':
   title: Tisch Hall LC-15
   capacity: 20
   links:
     Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC15.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '27438':
   title: Tisch Hall LC-19
   capacity: 36
   links:
     Instructions: TISCH HALL LC-19 PODIUM.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TISCH+HALL+LC-19.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1397':
   title: Waverly 365
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1398':
   title: Waverly 366
   capacity: 39
   links:
     Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly366.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1399':
   title: Waverly 367
   capacity: 35
   links:
     Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly367.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1401':
   title: Waverly 369
   capacity: 33
   links:
     Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly369.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1402':
   title: Waverly 370
   capacity: 30
   links:
     Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly370.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1409':
   title: Waverly 429
   capacity: 26
   links:
     Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_429.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1412':
   title: Waverly 431
   capacity: 33
   links:
     Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/waverly_431.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1413':
   title: Waverly 433
   capacity: 33
   links:
     Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_433.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1415':
   title: Waverly 435
   capacity: 33
   links:
     Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_435.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2094':
   title: Waverly 566A
   capacity: 32
   links:
     Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566A.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1417':
   title: Waverly 566B
   capacity: 20
   links:
     Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566B.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1419':
   title: Waverly 567
   capacity: 30
   links:
     Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+567.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1420':
   title: Waverly 569
   capacity: 30
   links:
     Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+569.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '2093':
   title: Waverly 570
   capacity: 24
   links:
     Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+570.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1404':
   title: Waverly 667
   capacity: 37
   links:
     Instructions: Waverly667-digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly667.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1406':
   title: Waverly 668
   capacity: 35
   links:
     Instructions: Waverly 6th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_668.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1408':
   title: Waverly 669
   capacity: 27
   links:
     Instructions: Waverly 669-digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly669.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '1473':
   title: Waverly Lounge
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '27429':
   title: University Hall C02A
   capacity: 18
   links:
     Instructions: UHALL C02A- Digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Univ_Hall+C02A.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28022':
   title: Weinstein Hall SB20
   capacity: 24
   links:
     Instructions: Weinstein SB-20, SB-35 Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-20.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '28023':
   title: Weinstein Hall SB35
   capacity: 16
   links:
     Instructions: Weinstein SB-20, SB-35 Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-35.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29688':
   title: Global Center (238 Thoms) 274
   capacity: 18
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter274.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29689':
   title: Global Center (238 Thoms) 275
   capacity: 40
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter275.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29691':
   title: Global Center (238 Thoms) 279
   capacity: 48
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter279.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29707':
   title: Global Center (238 Thoms) 288
   capacity: 30
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter288.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29693':
   title: Global Center (238 Thoms) 361
   capacity: 36
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter361.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29694':
   title: Global Center (238 Thoms) 365
   capacity: 32
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter365.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29708':
   title: Global Center (238 Thoms) 369
   capacity: 40
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter369.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29695':
   title: Global Center (238 Thoms) 374
   capacity: 18
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter374.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29696':
   title: Global Center (238 Thoms) 375
   capacity: 32
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter375.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29697':
   title: Global Center (238 Thoms) 379
   capacity: 32
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter379.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29698':
   title: Global Center (238 Thoms) 383
   capacity: 42
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter383.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29699':
   title: Global Center (238 Thoms) 388
   capacity: 30
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter388.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29700':
   title: Global Center (238 Thoms) 461
   capacity: 32
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter461.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29703':
   title: Global Center (238 Thoms) 475
   capacity: 32
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter475.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29685':
   title: Global Center (238 Thoms) Hall
   capacity: 257
   links:
     Instructions: GCASL_C95_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenterC95.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29773':
   title: Global Center (238 Thoms) 384
   capacity: 22
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter384.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '29772':
   title: Global Center (238 Thoms) 284
   capacity: 22
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GCASL_284.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
   type: Computer Lab
-  keywords:
-  help:
-  access:
-  body: |
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
+  body: "[Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)\n"
 '32048':
   title: Rubin Hall 101
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin101.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32049':
   title: Rubin Hall 102
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin102.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32050':
   title: Rubin Hall 103
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin103.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32051':
   title: Rubin Hall 104
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin104.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32052':
   title: Rubin Hall 105
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin105.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32053':
   title: Rubin Hall 106
   capacity: 14
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin106.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32054':
   title: Rubin Hall 107
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin107.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32055':
   title: Rubin Hall 108
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin108.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32056':
   title: Rubin Hall 109
   capacity: 14
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin109.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32057':
   title: Rubin Hall 110
   capacity: 15
   links:
     Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin110.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32716':
   title: 60 FA 110
   capacity: 64
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_110.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32718':
   title: 60 FA 125
   capacity: 34
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_125.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32719':
   title: 60 FA 150
   capacity: 90
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_150.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32720':
   title: 60 FA 161
   capacity: 31
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_161.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32721':
   title: 60 FA 165
   capacity: 32
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_165.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32722':
   title: 60 FA 202
   capacity: 12
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_202.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32723':
   title: 60 FA 250
   capacity: 16
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_250.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32724':
   title: 60 FA 261
   capacity: 26
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_261.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32725':
   title: 60 FA 265
   capacity: 26
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_265.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32726':
   title: 60 FA C03
   capacity: 33
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C03.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32727':
   title: 60 FA C04
   capacity: 30
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C04.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32728':
   title: 60 FA C10
   capacity: 39
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C10.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32729':
   title: 60 FA C12
   capacity: 39
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C12.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
-  body:
 '32730':
   title: 60 FA C14
   capacity: 31
-  links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C14.jpg
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
 '27886':
   title: 19 University Place 605
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
 '29398':
   title: Gallatin 1 Wash Pl
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
 '29777':
   title: 726 Broadway 543
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
 '30003':
   title: 19 University Place 404
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
 '31121':
   title: 19 University Place 336
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
 '33666':
   title: East Building 741
-  capacity:
-  links:
-  image:
-  departments:
-  floor:
-  buttons:
-  policies:
-  description:
-  type:
-  keywords:
-  help:
-  access:
