@@ -9,7 +9,8 @@
   address: 19 University Place, New York, NY
   location: 19 University Place
   help:
-    text: Silver Center Office 100 Washington Square East, Room LL7A 212-998-2655 campusmedia@nyu.edu
+    text: Silver Center Office 100 Washington Square East, Room LL7A
+    phone: 212-998-2655
 '792':
   address: 194 Mercer Street, New York, NY
   location: 194 Mercer
