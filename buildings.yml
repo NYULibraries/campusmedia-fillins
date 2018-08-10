@@ -9,20 +9,36 @@
   address: 19 University Place, New York, NY
   location: 19 University Place
   help:
-    text: Silver Center Office 100 Washington Square East, Room LL7A
-    phone: 212-998-2655
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
 '792':
   address: 194 Mercer Street, New York, NY
   location: 194 Mercer
+  help:
+    text: Mercer Street Office, 194 Mercer Street, Room 302
+    phone: +1 212 992 8563 
+    email: campusmedia@nyu.edu
 '2055':
   address: 19 West 4th Street, New York, NY
   location: 19 West 4th Street
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '96':
   address: 25 West 4th Street, New York, NY
   location: 25 West 4th Street
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '1938':
   address: 5 Washington Place, New York, NY
   location: 5 Washington Place
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '206':
   address: 715 Broadway, New York, NY
   location: Gallatin 1 Wash Pl
@@ -39,6 +55,10 @@
 '2666':
   address: 18 Washington Place, New York, NY
   location: Academic Resource Center (ARC)
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '2667':
   address: 7 East 12th Street, New York, NY
   location: 7 East 12th Street
@@ -48,6 +68,10 @@
 '214':
   address: 45 West 4th Street, New York, NY
   location: Goddard Hall
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '220':
   published: false
   address: 246 Greene Street, New York, NY
@@ -59,18 +83,34 @@
 '212':
   address: 4 Washington Place, New York, NY
   location: Meyer Hall
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '223':
   address: 82 Washington Square East, New York, NY
   location: Pless Building
 '94':
   address: 100 Washington Square East, New York, NY
   location: Silver Center, 4th Floor
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '198':
   address: 100 Washington Square East, New York, NY
   location: Silver Center, 5th Floor
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '199':
   address: 100 Washington Square East, New York, NY
   location: Silver Center, 6th Floor
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '202':
   published: false
   address: 100 Washington Square East, New York, NY
@@ -81,15 +121,31 @@
 '194':
   address: 24 Waverly Place, New York, NY
   location: Waverly
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '2638':
   address: 12 Waverly Place, New York, NY
   location: 12 Waverly Place (Genomics)
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '2924':
   address: 60 5th Avenue, New York, NY
   location: 60 5th Avenue
+  help:
+    text: Fifth Avenue Office, 60 5th Avenue, Room 200
+    phone: +1 212 992 7300 
+    email: campusmedia@nyu.edu
 '2853':
   address: 35 5th Avenue, New York, NY
   location: Rubin Hall
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '222':
   address: 1 Washington Square North, New York, NY
   location: 1 Washington Square North
@@ -126,9 +182,17 @@
 '2947':
   address: 100 Washington Square East
   location: Silver Center, 1st Floor
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '2847':
   address: 100 Washington Square East
   location: Silver Center, 2nd Floor
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '209':
   published: false
   address:
@@ -136,6 +200,14 @@
 '2559':
   address: 110 East 14 Street
   location: University Hall
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
 '2590':
   address: 11 University Place, New York, NY
   location: Weinstein Hall
+  help: 
+    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
