@@ -239,7 +239,8 @@ default:
   keywords:
   help:
   access:
-  body:
+  body: |
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
 '5559':
   title: 194 Mercer 305
   capacity: 47
@@ -2692,7 +2693,8 @@ default:
   keywords:
   help:
   access:
-  body:
+  body: |
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
 '1397':
   title: Waverly 365
   capacity:
@@ -3207,7 +3209,7 @@ default:
   help:
   access:
   body: |
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463)
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
 '32048':
   title: Rubin Hall 101
   capacity: 15
