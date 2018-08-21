@@ -53,7 +53,7 @@
   address: 35 West 4th Street, New York, NY
   location: Education Building
   body: ""
-  libanswers: null
+  libanswers: ''
 '2666':
   address: 18 Washington Place, New York, NY
   location: Academic Resource Center (ARC)
@@ -64,7 +64,7 @@
 '2667':
   address: 7 East 12th Street, New York, NY
   location: 7 East 12th Street
-  libanswers: null
+  libanswers: ''
   help:
     text: SPS Facilities Administration
     phone: +1 212 998 7232
@@ -192,7 +192,7 @@
 '2615':
   address: 36 East 8th Street
   location: Cantor Film Center
-  libanswers: null
+  libanswers: ''
   help:
     text: Cantor Media Support
     phone: +1 212 998 4102
