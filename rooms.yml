@@ -25,7 +25,6 @@ default:
   capacity: 36
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter261.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -38,7 +37,6 @@ default:
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter265.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -51,7 +49,6 @@ default:
   capacity: 40
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter269.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -63,9 +60,7 @@ default:
   title: 194 Mercer 201
   capacity: 24
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer201.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -77,9 +72,7 @@ default:
   title: 194 Mercer 202
   capacity: 29
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer202.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -91,9 +84,7 @@ default:
   title: 194 Mercer 203
   capacity: 56
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer203.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -105,9 +96,7 @@ default:
   title: 194 Mercer 204
   capacity: 26
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer204.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -119,9 +108,7 @@ default:
   title: 194 Mercer 205
   capacity: 26
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer205.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -133,9 +120,7 @@ default:
   title: 194 Mercer 206
   capacity: 26
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer206.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -147,9 +132,7 @@ default:
   title: 194 Mercer 207
   capacity: 24
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer207.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -161,9 +144,7 @@ default:
   title: 194 Mercer 208
   capacity: 26
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer208.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -175,9 +156,7 @@ default:
   title: 194 Mercer 209
   capacity: 26
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer209.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -189,9 +168,7 @@ default:
   title: 194 Mercer 210
   capacity: 25
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer210.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -203,9 +180,7 @@ default:
   title: 194 Mercer 301
   capacity: 25
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer301.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -217,9 +192,7 @@ default:
   title: 194 Mercer 303
   capacity: 17
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer303.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -232,10 +205,9 @@ default:
   capacity: 30
   links:
   image:
-  floor:
   buttons:
   policies:
-  type:
+  type: Computer Lab
   keywords:
   help:
   access:
@@ -245,9 +217,7 @@ default:
   title: 194 Mercer 305
   capacity: 47
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer305.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -259,9 +229,7 @@ default:
   title: 194 Mercer 306
   capacity: 93
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer306.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -273,9 +241,7 @@ default:
   title: 194 Mercer 307
   capacity: 47
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer307.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -287,9 +253,7 @@ default:
   title: 194 Mercer 308
   capacity: 25
   links:
-    Instructions: 194_Mercer_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer308.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -302,7 +266,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -314,9 +277,7 @@ default:
   title: 19 University Place Hall
   capacity: 120
   links:
-    Instructions: 19UP_102_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19+University+102.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -329,7 +290,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -342,7 +302,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -355,7 +314,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -368,7 +326,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -381,7 +338,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -394,7 +350,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -407,7 +362,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -420,7 +374,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -433,7 +386,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -446,7 +398,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -459,7 +410,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -472,7 +422,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -484,9 +433,7 @@ default:
   title: 19W4 101
   capacity: 188
   links:
-    Instructions: 19w4_101_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th101.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -498,9 +445,7 @@ default:
   title: 19W4 102
   capacity: 46
   links:
-    Instructions: 19w4_102_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th102.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -512,9 +457,7 @@ default:
   title: 25W4 C-01
   capacity: 27
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-01.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -526,9 +469,7 @@ default:
   title: 25W4 C-02
   capacity: 28
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-02.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -540,9 +481,7 @@ default:
   title: 25W4 C-03
   capacity: 24
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-03.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -554,9 +493,7 @@ default:
   title: 25W4 C-04
   capacity: 25
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-04.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -568,9 +505,7 @@ default:
   title: 25W4 C-05
   capacity: 22
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-05.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -582,9 +517,7 @@ default:
   title: 25W4 C-06
   capacity: 24
   links:
-    Instructions: 25W4_C6_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-06.jpg
-  floor:
   buttons:
   policies:
   type: Computer Lab
@@ -597,9 +530,7 @@ default:
   title: 25W4 C-07
   capacity: 18
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-07.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -611,9 +542,7 @@ default:
   title: 25W4 C-08
   capacity: 30
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-08.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -625,9 +554,7 @@ default:
   title: 25W4 C-09
   capacity: 25
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-09.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -639,9 +566,7 @@ default:
   title: 25W4 C-10
   capacity: 25
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-10.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -653,9 +578,7 @@ default:
   title: 25W4 C-11
   capacity: 25
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-11.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -667,9 +590,7 @@ default:
   title: 25W4 C-12
   capacity: 24
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-12.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -681,9 +602,7 @@ default:
   title: 25W4 C-13
   capacity: 30
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-13.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -695,9 +614,7 @@ default:
   title: 25W4 C-14
   capacity: 24
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-14.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -709,9 +626,7 @@ default:
   title: 25W4 C-15
   capacity: 24
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-15.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -723,9 +638,7 @@ default:
   title: 25W4 C-16
   capacity: 18
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-16.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -737,9 +650,7 @@ default:
   title: 25W4 C-17
   capacity: 25
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-17.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -751,9 +662,7 @@ default:
   title: 25W4 C-18
   capacity: 20
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-18.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -765,9 +674,7 @@ default:
   title: 25W4 C-19
   capacity: 20
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-19.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -779,9 +686,7 @@ default:
   title: 25W4 C-20
   capacity: 40
   links:
-    Instructions: 25W4_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-20.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -793,9 +698,7 @@ default:
   title: 5 Washington Place Place-101
   capacity: 120
   links:
-    Instructions: 5WP_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/5WP101.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -808,7 +711,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -821,7 +723,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -834,7 +735,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -847,7 +747,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -860,7 +759,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -873,7 +771,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -886,7 +783,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -899,7 +795,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -911,9 +806,7 @@ default:
   title: Academic Resource Center LL-01
   capacity: 28
   links:
-    Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL1.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -925,9 +818,7 @@ default:
   title: Academic Resource Center LL-02
   capacity: 28
   links:
-    Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL2.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -939,9 +830,7 @@ default:
   title: Academic Resource Center LL-03
   capacity: 21
   links:
-    Instructions: ARCLL01_02_03Classrooms_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL3.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -953,9 +842,7 @@ default:
   title: Academic Resource Center LL-04
   capacity: 25
   links:
-    Instructions: VC_Instructions_ARCLL04.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL4.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -967,9 +854,7 @@ default:
   title: Academic Resource Center LL-05
   capacity: 24
   links:
-    Instructions: ARCLL05.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL5.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -983,7 +868,6 @@ default:
   capacity: 6
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -997,7 +881,6 @@ default:
   capacity: 6
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1009,9 +892,7 @@ default:
   title: Bobst 836
   capacity: 15
   links:
-    Instructions: Instructions_Bobst_836_837.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst836.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1023,9 +904,7 @@ default:
   title: Bobst 837
   capacity: 15
   links:
-    Instructions: Instructions_Bobst_836_837.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst837.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1037,9 +916,7 @@ default:
   title: Bobst LL1.38
   capacity: 48
   links:
-    Instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL38.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1051,9 +928,7 @@ default:
   title: Bobst LL1.39
   capacity: 30
   links:
-    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL39.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1065,9 +940,7 @@ default:
   title: Bobst LL1.40
   capacity: 16
   links:
-    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL40.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1079,9 +952,7 @@ default:
   title: Bobst LL1.41
   capacity: 24
   links:
-    Instructions: Bobst LL1-41,LL1-43_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1093,9 +964,7 @@ default:
   title: Bobst LL1.42
   capacity: 20
   links:
-    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL42.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1107,9 +976,7 @@ default:
   title: Bobst LL1.43
   capacity: 24
   links:
-    Instructions: Bobst LL1-41,LL1-43_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1121,9 +988,7 @@ default:
   title: Bobst LL1.45
   capacity: 24
   links:
-    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL45.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1135,9 +1000,7 @@ default:
   title: Bobst LL1.46
   capacity: 20
   links:
-    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL46.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1149,9 +1012,7 @@ default:
   title: Bobst LL1.47
   capacity: 24
   links:
-    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL47.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1163,9 +1024,7 @@ default:
   title: Bobst LL1.48
   capacity: 16
   links:
-    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL48.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1177,9 +1036,7 @@ default:
   title: Bobst LL1.49
   capacity: 30
   links:
-    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL49.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1191,9 +1048,7 @@ default:
   title: Bobst LL1.50
   capacity: 48
   links:
-    Instructions: Bobst_LL1-38,LL1-50_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL50.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1205,9 +1060,7 @@ default:
   title: Bobst LL1.51
   capacity: 30
   links:
-    Instructions: Bobst_LL_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL51.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1220,7 +1073,6 @@ default:
   capacity: 184
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1233,7 +1085,6 @@ default:
   capacity: 177
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1246,7 +1097,6 @@ default:
   capacity: 319
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1259,7 +1109,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1272,7 +1121,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1285,7 +1133,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1298,7 +1145,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1311,7 +1157,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1324,7 +1169,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1337,7 +1181,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1350,7 +1193,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1363,7 +1205,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1376,7 +1217,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1390,7 +1230,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1404,7 +1243,6 @@ default:
   capacity: 330
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ176.jpg
-  floor:
   buttons:
   policies:
   type: Theater
@@ -1417,7 +1255,6 @@ default:
   capacity: 74
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ303.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1430,7 +1267,6 @@ default:
   capacity: 25
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ306.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1443,7 +1279,6 @@ default:
   capacity: 25
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ307.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1455,9 +1290,7 @@ default:
   title: Genomics - 12 Waverly G08
   capacity: 138
   links:
-    Instructions: Genomics_Auditorium_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GenomicsAud-108.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1469,9 +1302,7 @@ default:
   title: Genomics - 12 Waverly L111
   capacity: 22
   links:
-    Instructions: Genomics_L111_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-111.jpg
-  floor:
   buttons:
   policies:
   type: Computer Lab
@@ -1484,9 +1315,7 @@ default:
   title: Genomics - 12 Waverly L113
   capacity: 20
   links:
-    Instructions: Genomics_L113-L114_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L113.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1498,9 +1327,7 @@ default:
   title: Genomics - 12 Waverly L114
   capacity: 20
   links:
-    Instructions: Genomics_L113-L114_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L114.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1512,9 +1339,7 @@ default:
   title: Genomics - 12 Waverly L120
   capacity: 69
   links:
-    Instructions: Genomics_L120_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L120.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1527,7 +1352,6 @@ default:
   capacity: 34
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_121.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1540,7 +1364,6 @@ default:
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_123.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1553,7 +1376,6 @@ default:
   capacity: 28
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_124.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1566,7 +1388,6 @@ default:
   capacity: 35
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_125.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1579,7 +1400,6 @@ default:
   capacity: 24
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_127.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1592,7 +1412,6 @@ default:
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_129.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1605,7 +1424,6 @@ default:
   capacity: 20
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_131.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1618,7 +1436,6 @@ default:
   capacity: 27
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_134.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1631,7 +1448,6 @@ default:
   capacity: 28
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL21.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1644,7 +1460,6 @@ default:
   capacity: 50
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL23.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1657,7 +1472,6 @@ default:
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL25.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1670,7 +1484,6 @@ default:
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL27.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1683,7 +1496,6 @@ default:
   capacity: 24
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL31.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1696,7 +1508,6 @@ default:
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL33.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1708,9 +1519,7 @@ default:
   title: Goddard B-01
   capacity: 24
   links:
-    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-01.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1722,9 +1531,7 @@ default:
   title: Goddard B-02
   capacity: 35
   links:
-    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-02.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1736,9 +1543,7 @@ default:
   title: Goddard B-04
   capacity: 20
   links:
-    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-04.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1750,9 +1555,7 @@ default:
   title: Goddard B-06
   capacity: 35
   links:
-    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-06.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1764,9 +1567,7 @@ default:
   title: Goddard B-07
   capacity: 20
   links:
-    Instructions: Goddard_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-07.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1779,7 +1580,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1792,7 +1592,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1805,7 +1604,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1817,9 +1615,7 @@ default:
   title: Meyer Building 102
   capacity: 73
   links:
-    Instructions: Meyer102_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer102.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1831,9 +1627,7 @@ default:
   title: Meyer Building 121
   capacity: 185
   links:
-    Instructions: Meyer121_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer121.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1845,9 +1639,7 @@ default:
   title: Meyer Building 122
   capacity: 93
   links:
-    Instructions: Meyer122_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer122.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1859,9 +1651,7 @@ default:
   title: Meyer Building 261
   capacity: 30
   links:
-    Instructions: Meyer261_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer261.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1874,7 +1664,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1887,7 +1676,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1900,7 +1688,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1913,7 +1700,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1926,7 +1712,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1939,7 +1724,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1951,9 +1735,7 @@ default:
   title: Silver 1st Floor Jurow
   capacity: 80
   links:
-    Instructions: Silver_101A.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver101A.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -1966,7 +1748,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1979,7 +1760,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -1991,9 +1771,7 @@ default:
   title: Silver 2nd Floor 206
   capacity: 88
   links:
-    Instructions: Silver 206,208 new instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver206.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2005,9 +1783,7 @@ default:
   title: Silver 2nd Floor 207
   capacity: 128
   links:
-    Instructions: Silver 207 new instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver207.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2019,9 +1795,7 @@ default:
   title: Silver 2nd Floor 208
   capacity: 61
   links:
-    Instructions: Silver 206,208 new instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver208.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2033,9 +1807,7 @@ default:
   title: Silver 4th Floor 401
   capacity: 70
   links:
-    Instructions: Silver 401 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver401.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2047,9 +1819,7 @@ default:
   title: Silver 4th Floor 402
   capacity: 18
   links:
-    Instructions: Silver 402 406 409 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver402.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2061,9 +1831,7 @@ default:
   title: Silver 4th Floor 403
   capacity: 33
   links:
-    Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver403.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2075,9 +1843,7 @@ default:
   title: Silver 4th Floor 404
   capacity: 27
   links:
-    Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver404.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2089,9 +1855,7 @@ default:
   title: Silver 4th Floor 405
   capacity: 108
   links:
-    Instructions: Silver405_instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver405.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2103,9 +1867,7 @@ default:
   title: Silver 4th Floor 406
   capacity: 22
   links:
-    Instructions: Silver 402 406 409 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver406.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2117,9 +1879,7 @@ default:
   title: Silver 4th Floor 407
   capacity: 32
   links:
-    Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver407.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2131,9 +1891,7 @@ default:
   title: Silver 4th Floor 408
   capacity: 108
   links:
-    Instructions: Silver 408 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver408.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2145,9 +1903,7 @@ default:
   title: Silver 4th Floor 409
   capacity: 20
   links:
-    Instructions: Silver 402 406 409 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver409.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2159,9 +1915,7 @@ default:
   title: Silver 4th Floor 410
   capacity: 37
   links:
-    Instructions: Silver 403 404 407 410 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver410.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2173,9 +1927,7 @@ default:
   title: Silver 4th Floor 411
   capacity: 71
   links:
-    Instructions: Silver 411 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver411.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2187,9 +1939,7 @@ default:
   title: Silver 4th Floor 412
   capacity: 25
   links:
-    Instructions: Silver_412.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver412.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2201,9 +1951,7 @@ default:
   title: Silver 4th Floor 413
   capacity: 8
   links:
-    Instructions: Silver 413 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver413.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2215,9 +1963,7 @@ default:
   title: Silver 4th Floor 414
   capacity: 68
   links:
-    Instructions: Silver 414 new 2013 instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver414.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2229,9 +1975,7 @@ default:
   title: Silver 5th Floor 500
   capacity: 25
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver500.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2243,9 +1987,7 @@ default:
   title: Silver 5th Floor 501
   capacity: 28
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver501.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2257,9 +1999,7 @@ default:
   title: Silver 5th Floor 504
   capacity: 20
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver504.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2271,9 +2011,7 @@ default:
   title: Silver 5th Floor 506
   capacity: 20
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver506.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2285,9 +2023,7 @@ default:
   title: Silver 5th Floor 507
   capacity: 30
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver507.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2299,9 +2035,7 @@ default:
   title: Silver 5th Floor 508
   capacity: 25
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver508.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2313,9 +2047,7 @@ default:
   title: Silver 5th Floor 509
   capacity: 36
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver509.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2327,9 +2059,7 @@ default:
   title: Silver 5th Floor 510
   capacity: 20
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver510.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2341,9 +2071,7 @@ default:
   title: Silver 5th Floor 512
   capacity: 20
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver512.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2355,9 +2083,7 @@ default:
   title: Silver 5th Floor 514
   capacity: 28
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver514.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2369,9 +2095,7 @@ default:
   title: Silver 5th Floor 515
   capacity: 25
   links:
-    Instructions: Silver 5th Floor Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver515.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2383,9 +2107,7 @@ default:
   title: Silver 5th Floor 518
   capacity: 26
   links:
-    Instructions: Silver_518_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver518.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2397,9 +2119,7 @@ default:
   title: Silver 5th Floor 520
   capacity: 90
   links:
-    Instructions: Silver_520_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver520.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2412,7 +2132,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -2425,7 +2144,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -2438,7 +2156,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -2451,7 +2168,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -2464,7 +2180,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -2476,9 +2191,7 @@ default:
   title: Silver 6th Floor 620
   capacity: 30
   links:
-    Instructions: Silver 620-Digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver620.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2490,9 +2203,7 @@ default:
   title: Silver 6th Floor 621
   capacity: 33
   links:
-    Instructions: Silver 621-Digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver621.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2505,7 +2216,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -2518,7 +2228,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -2530,9 +2239,7 @@ default:
   title: Tisch Hall LC-01
   capacity: 20
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC01.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2544,9 +2251,7 @@ default:
   title: Tisch Hall LC-02
   capacity: 20
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC02.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2558,9 +2263,7 @@ default:
   title: Tisch Hall LC-03
   capacity: 20
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC03.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2572,9 +2275,7 @@ default:
   title: Tisch Hall LC-04
   capacity: 20
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC04.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2586,9 +2287,7 @@ default:
   title: Tisch Hall LC-05
   capacity: 20
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC05.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2600,9 +2299,7 @@ default:
   title: Tisch Hall LC-06
   capacity: 20
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC06.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2614,9 +2311,7 @@ default:
   title: Tisch Hall LC-07
   capacity: 20
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC07.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2628,9 +2323,7 @@ default:
   title: Tisch Hall LC-09
   capacity: 45
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC09.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2642,9 +2335,7 @@ default:
   title: Tisch Hall LC-11
   capacity: 50
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC11.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2656,9 +2347,7 @@ default:
   title: Tisch Hall LC-13
   capacity: 20
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC13.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2670,9 +2359,7 @@ default:
   title: Tisch Hall LC-15
   capacity: 20
   links:
-    Instructions: Tisch_Hall_Instructions_CD.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC15.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2684,12 +2371,10 @@ default:
   title: Tisch Hall LC-19
   capacity: 36
   links:
-    Instructions: TISCH HALL LC-19 PODIUM.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TISCH+HALL+LC-19.jpg
-  floor:
   buttons:
   policies:
-  type:
+  type: Computer Lab
   keywords:
   help:
   access:
@@ -2700,7 +2385,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -2712,9 +2396,7 @@ default:
   title: Waverly 366
   capacity: 39
   links:
-    Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly366.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2726,9 +2408,7 @@ default:
   title: Waverly 367
   capacity: 35
   links:
-    Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly367.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2740,9 +2420,7 @@ default:
   title: Waverly 369
   capacity: 33
   links:
-    Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly369.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2754,9 +2432,7 @@ default:
   title: Waverly 370
   capacity: 30
   links:
-    Instructions: Waverly 3rd floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly370.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2768,9 +2444,7 @@ default:
   title: Waverly 429
   capacity: 26
   links:
-    Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_429.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2782,9 +2456,7 @@ default:
   title: Waverly 431
   capacity: 33
   links:
-    Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/waverly_431.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2796,9 +2468,7 @@ default:
   title: Waverly 433
   capacity: 33
   links:
-    Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_433.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2810,9 +2480,7 @@ default:
   title: Waverly 435
   capacity: 33
   links:
-    Instructions: Waverly 4th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_435.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2824,9 +2492,7 @@ default:
   title: Waverly 566A
   capacity: 32
   links:
-    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566A.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2838,9 +2504,7 @@ default:
   title: Waverly 566B
   capacity: 20
   links:
-    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566B.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2852,9 +2516,7 @@ default:
   title: Waverly 567
   capacity: 30
   links:
-    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+567.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2866,9 +2528,7 @@ default:
   title: Waverly 569
   capacity: 30
   links:
-    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+569.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2880,9 +2540,7 @@ default:
   title: Waverly 570
   capacity: 24
   links:
-    Instructions: Waverly 5th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+570.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2894,9 +2552,7 @@ default:
   title: Waverly 667
   capacity: 37
   links:
-    Instructions: Waverly667-digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly667.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2908,9 +2564,7 @@ default:
   title: Waverly 668
   capacity: 35
   links:
-    Instructions: Waverly 6th floor.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_668.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2922,9 +2576,7 @@ default:
   title: Waverly 669
   capacity: 27
   links:
-    Instructions: Waverly 669-digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly669.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2937,7 +2589,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -2949,9 +2600,7 @@ default:
   title: University Hall C02A
   capacity: 18
   links:
-    Instructions: UHALL C02A- Digital.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Univ_Hall+C02A.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2963,9 +2612,7 @@ default:
   title: Weinstein Hall SB20
   capacity: 24
   links:
-    Instructions: Weinstein SB-20, SB-35 Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-20.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2977,9 +2624,7 @@ default:
   title: Weinstein Hall SB35
   capacity: 16
   links:
-    Instructions: Weinstein SB-20, SB-35 Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-35.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -2992,7 +2637,6 @@ default:
   capacity: 18
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter274.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3005,7 +2649,6 @@ default:
   capacity: 40
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter275.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3018,7 +2661,6 @@ default:
   capacity: 48
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter279.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3031,7 +2673,6 @@ default:
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter288.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3044,7 +2685,6 @@ default:
   capacity: 36
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter361.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3057,7 +2697,6 @@ default:
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter365.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3070,7 +2709,6 @@ default:
   capacity: 40
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter369.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3083,7 +2721,6 @@ default:
   capacity: 18
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter374.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3096,7 +2733,6 @@ default:
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter375.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3109,7 +2745,6 @@ default:
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter379.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3122,7 +2757,6 @@ default:
   capacity: 42
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter383.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3135,7 +2769,6 @@ default:
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter388.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3148,7 +2781,6 @@ default:
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter461.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3161,7 +2793,6 @@ default:
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter475.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3173,9 +2804,7 @@ default:
   title: Global Center (238 Thoms) Hall
   capacity: 257
   links:
-    Instructions: GCASL_C95_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenterC95.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3188,7 +2817,6 @@ default:
   capacity: 22
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter384.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3201,7 +2829,6 @@ default:
   capacity: 22
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GCASL_284.jpg
-  floor:
   buttons:
   policies:
   type: Computer Lab
@@ -3214,9 +2841,7 @@ default:
   title: Rubin Hall 101
   capacity: 15
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin101.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3228,9 +2853,7 @@ default:
   title: Rubin Hall 102
   capacity: 15
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin102.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3242,9 +2865,7 @@ default:
   title: Rubin Hall 103
   capacity: 15
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin103.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3256,9 +2877,7 @@ default:
   title: Rubin Hall 104
   capacity: 15
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin104.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3270,9 +2889,7 @@ default:
   title: Rubin Hall 105
   capacity: 15
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin105.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3284,9 +2901,7 @@ default:
   title: Rubin Hall 106
   capacity: 14
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin106.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3298,9 +2913,7 @@ default:
   title: Rubin Hall 107
   capacity: 15
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin107.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3312,9 +2925,7 @@ default:
   title: Rubin Hall 108
   capacity: 15
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin108.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3326,9 +2937,7 @@ default:
   title: Rubin Hall 109
   capacity: 14
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin109.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3340,9 +2949,7 @@ default:
   title: Rubin Hall 110
   capacity: 15
   links:
-    Instructions: Rubin_Hall_Instructions.pdf
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin110.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3355,7 +2962,6 @@ default:
   capacity: 64
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_110.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3368,7 +2974,6 @@ default:
   capacity: 34
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_125.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3381,7 +2986,6 @@ default:
   capacity: 90
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_150.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3394,7 +2998,6 @@ default:
   capacity: 31
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_161.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3407,7 +3010,6 @@ default:
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_165.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3420,7 +3022,6 @@ default:
   capacity: 12
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_202.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3433,7 +3034,6 @@ default:
   capacity: 16
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_250.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3446,7 +3046,6 @@ default:
   capacity: 26
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_261.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3459,7 +3058,6 @@ default:
   capacity: 26
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_265.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3472,7 +3070,6 @@ default:
   capacity: 33
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C03.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3485,7 +3082,6 @@ default:
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C04.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3498,7 +3094,6 @@ default:
   capacity: 39
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C10.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3511,7 +3106,6 @@ default:
   capacity: 39
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C12.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3524,7 +3118,6 @@ default:
   capacity: 31
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C14.jpg
-  floor:
   buttons:
   policies:
   type:
@@ -3536,7 +3129,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -3548,7 +3140,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -3560,7 +3151,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -3572,7 +3162,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -3584,7 +3173,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
@@ -3596,7 +3184,6 @@ default:
   capacity:
   links:
   image:
-  floor:
   buttons:
   policies:
   type:
