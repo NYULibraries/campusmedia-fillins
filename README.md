@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/NYULibraries/campusmedia-fillins.svg?branch=master)](https://travis-ci.org/NYULibraries/campusmedia-fillins)
+
 # campusmedia-fillins
 Campus Media Reference Configuration
 
