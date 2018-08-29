@@ -6,4 +6,4 @@ cache: pip
 install:
   - pip install yamllint
 script:
-  - yamllint -c rules.yml .
+  - yamllint -c linter/rules.yml .
