@@ -5,4 +5,4 @@ python:
 install:
   - pip install yamllint
 script:
-  - yamllint .
+  - yamllint -d relaxed .
