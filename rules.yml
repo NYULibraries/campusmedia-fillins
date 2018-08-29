@@ -1,0 +1,10 @@
+extends: relaxed
+
+rules:
+  line-length:
+    max: 150
+    level: warning
+  indentation:
+    level: warning
+  trailing-spaces:
+    level: warning

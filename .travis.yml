@@ -6,4 +6,4 @@ cache: pip
 install:
   - pip install yamllint
 script:
-  - yamllint -d relaxed .
+  - yamllint -c rules.yml .
