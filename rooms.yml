@@ -20,7 +20,7 @@ default:
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body: |
     [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external}
-'29686':
+29686:
   title: Global Center (238 Thoms) 261
   capacity: 36
   links:
@@ -31,7 +31,7 @@ default:
   keywords:
   help:
   body:
-'29687':
+29687:
   title: Global Center (238 Thoms) 265
   capacity: 32
   links:
@@ -42,7 +42,7 @@ default:
   keywords:
   help:
   body:
-'29690':
+29690:
   title: Global Center (238 Thoms) 269
   capacity: 40
   links:
@@ -53,7 +53,7 @@ default:
   keywords:
   help:
   body:
-'5547':
+5547:
   title: 194 Mercer 201
   capacity: 24
   links:
@@ -64,7 +64,7 @@ default:
   keywords:
   help:
   body:
-'5548':
+5548:
   title: 194 Mercer 202
   capacity: 29
   links:
@@ -75,7 +75,7 @@ default:
   keywords:
   help:
   body:
-'5549':
+5549:
   title: 194 Mercer 203
   capacity: 56
   links:
@@ -86,7 +86,7 @@ default:
   keywords:
   help:
   body:
-'5550':
+5550:
   title: 194 Mercer 204
   capacity: 26
   links:
@@ -97,7 +97,7 @@ default:
   keywords:
   help:
   body:
-'5551':
+5551:
   title: 194 Mercer 205
   capacity: 26
   links:
@@ -108,7 +108,7 @@ default:
   keywords:
   help:
   body:
-'5552':
+5552:
   title: 194 Mercer 206
   capacity: 26
   links:
@@ -119,7 +119,7 @@ default:
   keywords:
   help:
   body:
-'5553':
+5553:
   title: 194 Mercer 207
   capacity: 24
   links:
@@ -130,7 +130,7 @@ default:
   keywords:
   help:
   body:
-'5554':
+5554:
   title: 194 Mercer 208
   capacity: 26
   links:
@@ -141,7 +141,7 @@ default:
   keywords:
   help:
   body:
-'5555':
+5555:
   title: 194 Mercer 209
   capacity: 26
   links:
@@ -152,7 +152,7 @@ default:
   keywords:
   help:
   body:
-'5556':
+5556:
   title: 194 Mercer 210
   capacity: 25
   links:
@@ -163,7 +163,7 @@ default:
   keywords:
   help:
   body:
-'5557':
+5557:
   title: 194 Mercer 301
   capacity: 25
   links:
@@ -174,7 +174,7 @@ default:
   keywords:
   help:
   body:
-'5558':
+5558:
   title: 194 Mercer 303
   capacity: 17
   links:
@@ -185,7 +185,7 @@ default:
   keywords:
   help:
   body:
-'6768':
+6768:
   title: 194 Mercer 304
   capacity: 30
   links:
@@ -197,7 +197,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
-'5559':
+5559:
   title: 194 Mercer 305
   capacity: 47
   links:
@@ -208,7 +208,7 @@ default:
   keywords:
   help:
   body:
-'5560':
+5560:
   title: 194 Mercer 306
   capacity: 93
   links:
@@ -219,7 +219,7 @@ default:
   keywords:
   help:
   body:
-'5561':
+5561:
   title: 194 Mercer 307
   capacity: 47
   links:
@@ -230,7 +230,7 @@ default:
   keywords:
   help:
   body:
-'5562':
+5562:
   title: 194 Mercer 308
   capacity: 25
   links:
@@ -241,7 +241,7 @@ default:
   keywords:
   help:
   body:
-'5563':
+5563:
   title: 194 Mercer Office
   capacity:
   links:
@@ -252,7 +252,7 @@ default:
   keywords:
   help:
   body:
-'20195':
+20195:
   title: 19 University Place Hall
   capacity: 120
   links:
@@ -263,7 +263,7 @@ default:
   keywords:
   help:
   body:
-'4336':
+4336:
   title: 19 University Place 222
   capacity:
   links:
@@ -274,7 +274,7 @@ default:
   keywords:
   help:
   body:
-'4568':
+4568:
   title: 19 University Place 223
   capacity:
   links:
@@ -285,7 +285,7 @@ default:
   keywords:
   help:
   body:
-'9068':
+9068:
   title: 19 University Place 224
   capacity:
   links:
@@ -296,7 +296,7 @@ default:
   keywords:
   help:
   body:
-'18862':
+18862:
   title: 19 University Place 228
   capacity:
   links:
@@ -307,7 +307,7 @@ default:
   keywords:
   help:
   body:
-'2696':
+2696:
   title: 19 University Place 229
   capacity:
   links:
@@ -318,7 +318,7 @@ default:
   keywords:
   help:
   body:
-'5320':
+5320:
   title: 19 University Place 305
   capacity:
   links:
@@ -329,7 +329,7 @@ default:
   keywords:
   help:
   body:
-'21994':
+21994:
   title: 19 University Place 327
   capacity:
   links:
@@ -340,7 +340,7 @@ default:
   keywords:
   help:
   body:
-'3937':
+3937:
   title: 19 University Place 337
   capacity:
   links:
@@ -351,7 +351,7 @@ default:
   keywords:
   help:
   body:
-'19623':
+19623:
   title: 19 University Place 402
   capacity:
   links:
@@ -362,7 +362,7 @@ default:
   keywords:
   help:
   body:
-'5347':
+5347:
   title: 19 University Place 405
   capacity:
   links:
@@ -373,7 +373,7 @@ default:
   keywords:
   help:
   body:
-'19621':
+19621:
   title: 19 University Place 435
   capacity:
   links:
@@ -384,7 +384,7 @@ default:
   keywords:
   help:
   body:
-'21752':
+21752:
   title: 19 University Place 505
   capacity:
   links:
@@ -395,7 +395,7 @@ default:
   keywords:
   help:
   body:
-'21550':
+21550:
   title: 19W4 101
   capacity: 188
   links:
@@ -406,7 +406,7 @@ default:
   keywords:
   help:
   body:
-'24527':
+24527:
   title: 19W4 102
   capacity: 46
   links:
@@ -417,7 +417,7 @@ default:
   keywords:
   help:
   body:
-'237':
+237:
   title: 25W4 C-01
   capacity: 27
   links:
@@ -428,7 +428,7 @@ default:
   keywords:
   help:
   body:
-'260':
+260:
   title: 25W4 C-02
   capacity: 28
   links:
@@ -439,7 +439,7 @@ default:
   keywords:
   help:
   body:
-'261':
+261:
   title: 25W4 C-03
   capacity: 24
   links:
@@ -450,7 +450,7 @@ default:
   keywords:
   help:
   body:
-'262':
+262:
   title: 25W4 C-04
   capacity: 25
   links:
@@ -461,7 +461,7 @@ default:
   keywords:
   help:
   body:
-'263':
+263:
   title: 25W4 C-05
   capacity: 22
   links:
@@ -472,7 +472,7 @@ default:
   keywords:
   help:
   body:
-'264':
+264:
   title: 25W4 C-06
   capacity: 24
   links:
@@ -484,7 +484,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
-'265':
+265:
   title: 25W4 C-07
   capacity: 18
   links:
@@ -495,7 +495,7 @@ default:
   keywords:
   help:
   body:
-'266':
+266:
   title: 25W4 C-08
   capacity: 30
   links:
@@ -506,7 +506,7 @@ default:
   keywords:
   help:
   body:
-'267':
+267:
   title: 25W4 C-09
   capacity: 25
   links:
@@ -517,7 +517,7 @@ default:
   keywords:
   help:
   body:
-'268':
+268:
   title: 25W4 C-10
   capacity: 25
   links:
@@ -528,7 +528,7 @@ default:
   keywords:
   help:
   body:
-'1145':
+1145:
   title: 25W4 C-11
   capacity: 25
   links:
@@ -539,7 +539,7 @@ default:
   keywords:
   help:
   body:
-'1146':
+1146:
   title: 25W4 C-12
   capacity: 24
   links:
@@ -550,7 +550,7 @@ default:
   keywords:
   help:
   body:
-'1147':
+1147:
   title: 25W4 C-13
   capacity: 30
   links:
@@ -561,7 +561,7 @@ default:
   keywords:
   help:
   body:
-'1149':
+1149:
   title: 25W4 C-14
   capacity: 24
   links:
@@ -572,7 +572,7 @@ default:
   keywords:
   help:
   body:
-'1151':
+1151:
   title: 25W4 C-15
   capacity: 24
   links:
@@ -583,7 +583,7 @@ default:
   keywords:
   help:
   body:
-'1152':
+1152:
   title: 25W4 C-16
   capacity: 18
   links:
@@ -594,7 +594,7 @@ default:
   keywords:
   help:
   body:
-'1153':
+1153:
   title: 25W4 C-17
   capacity: 25
   links:
@@ -605,7 +605,7 @@ default:
   keywords:
   help:
   body:
-'1155':
+1155:
   title: 25W4 C-18
   capacity: 20
   links:
@@ -616,7 +616,7 @@ default:
   keywords:
   help:
   body:
-'1156':
+1156:
   title: 25W4 C-19
   capacity: 20
   links:
@@ -627,7 +627,7 @@ default:
   keywords:
   help:
   body:
-'1157':
+1157:
   title: 25W4 C-20
   capacity: 40
   links:
@@ -638,7 +638,7 @@ default:
   keywords:
   help:
   body:
-'26004':
+26004:
   title: 5 Washington Place Place-101
   capacity: 120
   links:
@@ -649,7 +649,7 @@ default:
   keywords:
   help:
   body:
-'1128':
+1128:
   title: Gallatin 1 Wash Pl 315
   capacity:
   links:
@@ -660,7 +660,7 @@ default:
   keywords:
   help:
   body:
-'1130':
+1130:
   title: Gallatin 1 Wash Pl 316
   capacity:
   links:
@@ -671,7 +671,7 @@ default:
   keywords:
   help:
   body:
-'20365':
+20365:
   title: Gallatin 1 Wash Pl 512
   capacity:
   links:
@@ -682,7 +682,7 @@ default:
   keywords:
   help:
   body:
-'2821':
+2821:
   title: Gallatin 1 Wash Pl 518
   capacity:
   links:
@@ -693,7 +693,7 @@ default:
   keywords:
   help:
   body:
-'2829':
+2829:
   title: Gallatin 1 Wash Pl 519
   capacity:
   links:
@@ -704,7 +704,7 @@ default:
   keywords:
   help:
   body:
-'9067':
+9067:
   title: 721 Broadway Lounge)
   capacity:
   links:
@@ -715,7 +715,7 @@ default:
   keywords:
   help:
   body:
-'3833':
+3833:
   title: 721 Broadway Lab
   capacity:
   links:
@@ -726,7 +726,7 @@ default:
   keywords:
   help:
   body:
-'2080':
+2080:
   title: 726 Broadway 542
   capacity:
   links:
@@ -737,7 +737,7 @@ default:
   keywords:
   help:
   body:
-'29365':
+29365:
   title: Academic Resource Center LL-01
   capacity: 28
   links:
@@ -748,7 +748,7 @@ default:
   keywords:
   help:
   body:
-'29366':
+29366:
   title: Academic Resource Center LL-02
   capacity: 28
   links:
@@ -759,7 +759,7 @@ default:
   keywords:
   help:
   body:
-'29369':
+29369:
   title: Academic Resource Center LL-03
   capacity: 21
   links:
@@ -770,7 +770,7 @@ default:
   keywords:
   help:
   body:
-'29370':
+29370:
   title: Academic Resource Center LL-04
   capacity: 25
   links:
@@ -781,7 +781,7 @@ default:
   keywords:
   help:
   body:
-'29371':
+29371:
   title: Academic Resource Center LL-05
   capacity: 24
   links:
@@ -792,7 +792,7 @@ default:
   keywords:
   help:
   body:
-'29372':
+29372:
   published: false
   title: Academic Resource Center LL-16
   capacity: 6
@@ -804,7 +804,7 @@ default:
   keywords:
   help:
   body:
-'29373':
+29373:
   published: false
   title: Academic Resource Center LL-18
   capacity: 6
@@ -816,7 +816,7 @@ default:
   keywords:
   help:
   body:
-'2082':
+2082:
   title: Bobst 836
   capacity: 15
   links:
@@ -827,7 +827,7 @@ default:
   keywords:
   help:
   body:
-'1166':
+1166:
   title: Bobst 837
   capacity: 15
   links:
@@ -838,7 +838,7 @@ default:
   keywords:
   help:
   body:
-'27999':
+27999:
   title: Bobst LL1.38
   capacity: 48
   links:
@@ -849,7 +849,7 @@ default:
   keywords:
   help:
   body:
-'28000':
+28000:
   title: Bobst LL1.39
   capacity: 30
   links:
@@ -860,7 +860,7 @@ default:
   keywords:
   help:
   body:
-'28001':
+28001:
   title: Bobst LL1.40
   capacity: 16
   links:
@@ -871,7 +871,7 @@ default:
   keywords:
   help:
   body:
-'28002':
+28002:
   title: Bobst LL1.41
   capacity: 24
   links:
@@ -882,7 +882,7 @@ default:
   keywords:
   help:
   body:
-'28003':
+28003:
   title: Bobst LL1.42
   capacity: 20
   links:
@@ -893,7 +893,7 @@ default:
   keywords:
   help:
   body:
-'28004':
+28004:
   title: Bobst LL1.43
   capacity: 24
   links:
@@ -904,7 +904,7 @@ default:
   keywords:
   help:
   body:
-'28006':
+28006:
   title: Bobst LL1.45
   capacity: 24
   links:
@@ -915,7 +915,7 @@ default:
   keywords:
   help:
   body:
-'28007':
+28007:
   title: Bobst LL1.46
   capacity: 20
   links:
@@ -926,7 +926,7 @@ default:
   keywords:
   help:
   body:
-'28008':
+28008:
   title: Bobst LL1.47
   capacity: 24
   links:
@@ -937,7 +937,7 @@ default:
   keywords:
   help:
   body:
-'28009':
+28009:
   title: Bobst LL1.48
   capacity: 16
   links:
@@ -948,7 +948,7 @@ default:
   keywords:
   help:
   body:
-'28010':
+28010:
   title: Bobst LL1.49
   capacity: 30
   links:
@@ -959,7 +959,7 @@ default:
   keywords:
   help:
   body:
-'28011':
+28011:
   title: Bobst LL1.50
   capacity: 48
   links:
@@ -970,7 +970,7 @@ default:
   keywords:
   help:
   body:
-'28111':
+28111:
   title: Bobst LL1.51
   capacity: 30
   links:
@@ -981,7 +981,7 @@ default:
   keywords:
   help:
   body:
-'2822':
+2822:
   title: Cantor 101
   capacity: 184
   links:
@@ -992,7 +992,7 @@ default:
   keywords:
   help:
   body:
-'4570':
+4570:
   title: Cantor 102
   capacity: 177
   links:
@@ -1003,7 +1003,7 @@ default:
   keywords:
   help:
   body:
-'2823':
+2823:
   title: Cantor 200
   capacity: 319
   links:
@@ -1014,7 +1014,7 @@ default:
   keywords:
   help:
   body:
-'5322':
+5322:
   title: East Building 221
   capacity:
   links:
@@ -1025,7 +1025,7 @@ default:
   keywords:
   help:
   body:
-'5321':
+5321:
   title: East Building 233
   capacity:
   links:
@@ -1036,7 +1036,7 @@ default:
   keywords:
   help:
   body:
-'5768':
+5768:
   title: East Building 322
   capacity:
   links:
@@ -1047,7 +1047,7 @@ default:
   keywords:
   help:
   body:
-'9069':
+9069:
   title: East Building 539
   capacity:
   links:
@@ -1058,7 +1058,7 @@ default:
   keywords:
   help:
   body:
-'1211':
+1211:
   title: East Building 640
   capacity:
   links:
@@ -1069,7 +1069,7 @@ default:
   keywords:
   help:
   body:
-'13968':
+13968:
   title: East Building 709
   capacity:
   links:
@@ -1080,7 +1080,7 @@ default:
   keywords:
   help:
   body:
-'8706':
+8706:
   title: East Building 716
   capacity:
   links:
@@ -1091,7 +1091,7 @@ default:
   keywords:
   help:
   body:
-'5002':
+5002:
   title: East Building 718
   capacity:
   links:
@@ -1102,7 +1102,7 @@ default:
   keywords:
   help:
   body:
-'8353':
+8353:
   title: East Building 735
   capacity:
   links:
@@ -1113,7 +1113,7 @@ default:
   keywords:
   help:
   body:
-'4335':
+4335:
   title: East Building Floor
   capacity:
   links:
@@ -1124,7 +1124,7 @@ default:
   keywords:
   help:
   body:
-'3167':
+3167:
   publish: false
   title: Education Building 1231
   capacity:
@@ -1136,7 +1136,7 @@ default:
   keywords:
   help:
   body:
-'1213':
+1213:
   title: Education Building, Room 176
   subtitle: Lowe Theater
   capacity: 330
@@ -1148,7 +1148,7 @@ default:
   keywords:
   help:
   body:
-'1216':
+1216:
   title: Education Building 303
   capacity: 74
   links:
@@ -1159,7 +1159,7 @@ default:
   keywords:
   help:
   body:
-'1217':
+1217:
   title: Education Building 306
   capacity: 25
   links:
@@ -1170,7 +1170,7 @@ default:
   keywords:
   help:
   body:
-'1219':
+1219:
   title: Education Building 307
   capacity: 25
   links:
@@ -1181,7 +1181,7 @@ default:
   keywords:
   help:
   body:
-'29014':
+29014:
   title: Genomics - 12 Waverly G08
   capacity: 138
   links:
@@ -1192,7 +1192,7 @@ default:
   keywords:
   help:
   body:
-'29010':
+29010:
   title: Genomics - 12 Waverly L111
   capacity: 22
   links:
@@ -1204,7 +1204,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
-'29011':
+29011:
   title: Genomics - 12 Waverly L113
   capacity: 20
   links:
@@ -1215,7 +1215,7 @@ default:
   keywords:
   help:
   body:
-'29012':
+29012:
   title: Genomics - 12 Waverly L114
   capacity: 20
   links:
@@ -1226,7 +1226,7 @@ default:
   keywords:
   help:
   body:
-'29013':
+29013:
   title: Genomics - 12 Waverly L120
   capacity: 69
   links:
@@ -1237,7 +1237,7 @@ default:
   keywords:
   help:
   body:
-'29382':
+29382:
   title: 7 East 12th Street (NYU-SCPS) 121
   capacity: 34
   links:
@@ -1248,7 +1248,7 @@ default:
   keywords:
   help:
   body:
-'29383':
+29383:
   title: 7 East 12th Street (NYU-SCPS) 123
   capacity: 30
   links:
@@ -1259,7 +1259,7 @@ default:
   keywords:
   help:
   body:
-'29384':
+29384:
   title: 7 East 12th Street (NYU-SCPS) 124
   capacity: 28
   links:
@@ -1270,7 +1270,7 @@ default:
   keywords:
   help:
   body:
-'29385':
+29385:
   title: 7 East 12th Street (NYU-SCPS) 125
   capacity: 35
   links:
@@ -1281,7 +1281,7 @@ default:
   keywords:
   help:
   body:
-'29386':
+29386:
   title: 7 East 12th Street (NYU-SCPS) 127
   capacity: 24
   links:
@@ -1292,7 +1292,7 @@ default:
   keywords:
   help:
   body:
-'29387':
+29387:
   title: 7 East 12th Street (NYU-SCPS) 129
   capacity: 30
   links:
@@ -1303,7 +1303,7 @@ default:
   keywords:
   help:
   body:
-'29388':
+29388:
   title: 7 East 12th Street (NYU-SCPS) 131
   capacity: 20
   links:
@@ -1314,7 +1314,7 @@ default:
   keywords:
   help:
   body:
-'29389':
+29389:
   title: 7 East 12th Street (NYU-SCPS) 134
   capacity: 27
   links:
@@ -1325,7 +1325,7 @@ default:
   keywords:
   help:
   body:
-'29374':
+29374:
   title: 7 East 12th Street (NYU-SCPS) LL21
   capacity: 28
   links:
@@ -1336,7 +1336,7 @@ default:
   keywords:
   help:
   body:
-'29376':
+29376:
   title: 7 East 12th Street (NYU-SCPS) LL23
   capacity: 50
   links:
@@ -1347,7 +1347,7 @@ default:
   keywords:
   help:
   body:
-'29377':
+29377:
   title: 7 East 12th Street (NYU-SCPS) LL25
   capacity: 32
   links:
@@ -1358,7 +1358,7 @@ default:
   keywords:
   help:
   body:
-'29378':
+29378:
   title: 7 East 12th Street (NYU-SCPS) LL27
   capacity: 30
   links:
@@ -1369,7 +1369,7 @@ default:
   keywords:
   help:
   body:
-'29379':
+29379:
   title: 7 East 12th Street (NYU-SCPS) LL31
   capacity: 24
   links:
@@ -1380,7 +1380,7 @@ default:
   keywords:
   help:
   body:
-'29380':
+29380:
   title: 7 East 12th Street (NYU-SCPS) LL33
   capacity: 30
   links:
@@ -1391,7 +1391,7 @@ default:
   keywords:
   help:
   body:
-'1233':
+1233:
   title: Goddard B-01
   capacity: 24
   links:
@@ -1402,7 +1402,7 @@ default:
   keywords:
   help:
   body:
-'1234':
+1234:
   title: Goddard B-02
   capacity: 35
   links:
@@ -1413,7 +1413,7 @@ default:
   keywords:
   help:
   body:
-'1235':
+1235:
   title: Goddard B-04
   capacity: 20
   links:
@@ -1424,7 +1424,7 @@ default:
   keywords:
   help:
   body:
-'1237':
+1237:
   title: Goddard B-06
   capacity: 35
   links:
@@ -1435,7 +1435,7 @@ default:
   keywords:
   help:
   body:
-'1239':
+1239:
   title: Goddard B-07
   capacity: 20
   links:
@@ -1446,7 +1446,7 @@ default:
   keywords:
   help:
   body:
-'5206':
+5206:
   title: King Juan Carlos 404W
   capacity:
   links:
@@ -1457,7 +1457,7 @@ default:
   keywords:
   help:
   body:
-'2164':
+2164:
   title: King Juan Carlos 527
   capacity:
   links:
@@ -1468,7 +1468,7 @@ default:
   keywords:
   help:
   body:
-'2723':
+2723:
   title: Kimball Hall Lounge
   capacity:
   links:
@@ -1479,7 +1479,7 @@ default:
   keywords:
   help:
   body:
-'1350':
+1350:
   title: Meyer Building 102
   capacity: 73
   links:
@@ -1490,7 +1490,7 @@ default:
   keywords:
   help:
   body:
-'1354':
+1354:
   title: Meyer Building 121
   capacity: 185
   links:
@@ -1501,7 +1501,7 @@ default:
   keywords:
   help:
   body:
-'1356':
+1356:
   title: Meyer Building 122
   capacity: 93
   links:
@@ -1512,7 +1512,7 @@ default:
   keywords:
   help:
   body:
-'1362':
+1362:
   title: Meyer Building 261
   capacity: 30
   links:
@@ -1523,7 +1523,7 @@ default:
   keywords:
   help:
   body:
-'1365':
+1365:
   title: Meyer Building 307
   capacity:
   links:
@@ -1534,7 +1534,7 @@ default:
   keywords:
   help:
   body:
-'2918':
+2918:
   title: Pless Building Lounge
   capacity:
   links:
@@ -1545,7 +1545,7 @@ default:
   keywords:
   help:
   body:
-'3927':
+3927:
   title: Pless Building Lounge
   capacity:
   links:
@@ -1556,7 +1556,7 @@ default:
   keywords:
   help:
   body:
-'21819':
+21819:
   title: Pless Building Sears
   capacity:
   links:
@@ -1567,7 +1567,7 @@ default:
   keywords:
   help:
   body:
-'5275':
+5275:
   title: Pless Building Floor
   capacity:
   links:
@@ -1578,7 +1578,7 @@ default:
   keywords:
   help:
   body:
-'2935':
+2935:
   title: Pless Building Room
   capacity:
   links:
@@ -1589,7 +1589,7 @@ default:
   keywords:
   help:
   body:
-'1247':
+1247:
   title: Silver 1st Floor Jurow
   capacity: 80
   links:
@@ -1600,7 +1600,7 @@ default:
   keywords:
   help:
   body:
-'1253':
+1253:
   title: Silver 2nd Floor 202
   capacity:
   links:
@@ -1611,7 +1611,7 @@ default:
   keywords:
   help:
   body:
-'1254':
+1254:
   title: Silver 2nd Floor 203
   capacity:
   links:
@@ -1622,7 +1622,7 @@ default:
   keywords:
   help:
   body:
-'1255':
+1255:
   title: Silver 2nd Floor 206
   capacity: 88
   links:
@@ -1633,7 +1633,7 @@ default:
   keywords:
   help:
   body:
-'1257':
+1257:
   title: Silver 2nd Floor 207
   capacity: 128
   links:
@@ -1644,7 +1644,7 @@ default:
   keywords:
   help:
   body:
-'1260':
+1260:
   title: Silver 2nd Floor 208
   capacity: 61
   links:
@@ -1655,7 +1655,7 @@ default:
   keywords:
   help:
   body:
-'236':
+236:
   title: Silver 4th Floor 401
   capacity: 70
   links:
@@ -1666,7 +1666,7 @@ default:
   keywords:
   help:
   body:
-'238':
+238:
   title: Silver 4th Floor 402
   capacity: 18
   links:
@@ -1677,7 +1677,7 @@ default:
   keywords:
   help:
   body:
-'257':
+257:
   title: Silver 4th Floor 403
   capacity: 33
   links:
@@ -1688,7 +1688,7 @@ default:
   keywords:
   help:
   body:
-'258':
+258:
   title: Silver 4th Floor 404
   capacity: 27
   links:
@@ -1699,7 +1699,7 @@ default:
   keywords:
   help:
   body:
-'259':
+259:
   title: Silver 4th Floor 405
   capacity: 108
   links:
@@ -1710,7 +1710,7 @@ default:
   keywords:
   help:
   body:
-'1265':
+1265:
   title: Silver 4th Floor 406
   capacity: 22
   links:
@@ -1721,7 +1721,7 @@ default:
   keywords:
   help:
   body:
-'1266':
+1266:
   title: Silver 4th Floor 407
   capacity: 32
   links:
@@ -1732,7 +1732,7 @@ default:
   keywords:
   help:
   body:
-'1268':
+1268:
   title: Silver 4th Floor 408
   capacity: 108
   links:
@@ -1743,7 +1743,7 @@ default:
   keywords:
   help:
   body:
-'1269':
+1269:
   title: Silver 4th Floor 409
   capacity: 20
   links:
@@ -1754,7 +1754,7 @@ default:
   keywords:
   help:
   body:
-'1271':
+1271:
   title: Silver 4th Floor 410
   capacity: 37
   links:
@@ -1765,7 +1765,7 @@ default:
   keywords:
   help:
   body:
-'1272':
+1272:
   title: Silver 4th Floor 411
   capacity: 71
   links:
@@ -1776,7 +1776,7 @@ default:
   keywords:
   help:
   body:
-'1274':
+1274:
   title: Silver 4th Floor 412
   capacity: 25
   links:
@@ -1787,7 +1787,7 @@ default:
   keywords:
   help:
   body:
-'1275':
+1275:
   title: Silver 4th Floor 413
   capacity: 8
   links:
@@ -1798,7 +1798,7 @@ default:
   keywords:
   help:
   body:
-'1277':
+1277:
   title: Silver 4th Floor 414
   capacity: 68
   links:
@@ -1809,7 +1809,7 @@ default:
   keywords:
   help:
   body:
-'1280':
+1280:
   title: Silver 5th Floor 500
   capacity: 25
   links:
@@ -1820,7 +1820,7 @@ default:
   keywords:
   help:
   body:
-'1282':
+1282:
   title: Silver 5th Floor 501
   capacity: 28
   links:
@@ -1831,7 +1831,7 @@ default:
   keywords:
   help:
   body:
-'1284':
+1284:
   title: Silver 5th Floor 504
   capacity: 20
   links:
@@ -1842,7 +1842,7 @@ default:
   keywords:
   help:
   body:
-'1287':
+1287:
   title: Silver 5th Floor 506
   capacity: 20
   links:
@@ -1853,7 +1853,7 @@ default:
   keywords:
   help:
   body:
-'1289':
+1289:
   title: Silver 5th Floor 507
   capacity: 30
   links:
@@ -1864,7 +1864,7 @@ default:
   keywords:
   help:
   body:
-'1291':
+1291:
   title: Silver 5th Floor 508
   capacity: 25
   links:
@@ -1875,7 +1875,7 @@ default:
   keywords:
   help:
   body:
-'1292':
+1292:
   title: Silver 5th Floor 509
   capacity: 36
   links:
@@ -1886,7 +1886,7 @@ default:
   keywords:
   help:
   body:
-'1293':
+1293:
   title: Silver 5th Floor 510
   capacity: 20
   links:
@@ -1897,7 +1897,7 @@ default:
   keywords:
   help:
   body:
-'1296':
+1296:
   title: Silver 5th Floor 512
   capacity: 20
   links:
@@ -1908,7 +1908,7 @@ default:
   keywords:
   help:
   body:
-'1297':
+1297:
   title: Silver 5th Floor 514
   capacity: 28
   links:
@@ -1919,7 +1919,7 @@ default:
   keywords:
   help:
   body:
-'1298':
+1298:
   title: Silver 5th Floor 515
   capacity: 25
   links:
@@ -1930,7 +1930,7 @@ default:
   keywords:
   help:
   body:
-'1299':
+1299:
   title: Silver 5th Floor 518
   capacity: 26
   links:
@@ -1941,7 +1941,7 @@ default:
   keywords:
   help:
   body:
-'1300':
+1300:
   title: Silver 5th Floor 520
   capacity: 90
   links:
@@ -1952,7 +1952,7 @@ default:
   keywords:
   help:
   body:
-'5200':
+5200:
   title: Silver 6th Floor 603
   capacity:
   links:
@@ -1963,7 +1963,7 @@ default:
   keywords:
   help:
   body:
-'18913':
+18913:
   title: Silver 6th Floor 604
   capacity:
   links:
@@ -1974,7 +1974,7 @@ default:
   keywords:
   help:
   body:
-'18914':
+18914:
   title: Silver 6th Floor 606
   capacity:
   links:
@@ -1985,7 +1985,7 @@ default:
   keywords:
   help:
   body:
-'18971':
+18971:
   title: Silver 6th Floor 610
   capacity:
   links:
@@ -1996,7 +1996,7 @@ default:
   keywords:
   help:
   body:
-'1306':
+1306:
   title: Silver 6th Floor 618
   capacity:
   links:
@@ -2007,7 +2007,7 @@ default:
   keywords:
   help:
   body:
-'1307':
+1307:
   title: Silver 6th Floor 620
   capacity: 30
   links:
@@ -2018,7 +2018,7 @@ default:
   keywords:
   help:
   body:
-'1308':
+1308:
   title: Silver 6th Floor 621
   capacity: 33
   links:
@@ -2029,7 +2029,7 @@ default:
   keywords:
   help:
   body:
-'4941':
+4941:
   title: Silver 9th Floor 907
   capacity:
   links:
@@ -2040,7 +2040,7 @@ default:
   keywords:
   help:
   body:
-'5775':
+5775:
   title: Silver 9th Floor 909D
   capacity:
   links:
@@ -2051,7 +2051,7 @@ default:
   keywords:
   help:
   body:
-'1373':
+1373:
   title: Tisch Hall LC-01
   capacity: 20
   links:
@@ -2062,7 +2062,7 @@ default:
   keywords:
   help:
   body:
-'1374':
+1374:
   title: Tisch Hall LC-02
   capacity: 20
   links:
@@ -2073,7 +2073,7 @@ default:
   keywords:
   help:
   body:
-'1375':
+1375:
   title: Tisch Hall LC-03
   capacity: 20
   links:
@@ -2084,7 +2084,7 @@ default:
   keywords:
   help:
   body:
-'1376':
+1376:
   title: Tisch Hall LC-04
   capacity: 20
   links:
@@ -2095,7 +2095,7 @@ default:
   keywords:
   help:
   body:
-'1377':
+1377:
   title: Tisch Hall LC-05
   capacity: 20
   links:
@@ -2106,7 +2106,7 @@ default:
   keywords:
   help:
   body:
-'27380':
+27380:
   title: Tisch Hall LC-06
   capacity: 20
   links:
@@ -2117,7 +2117,7 @@ default:
   keywords:
   help:
   body:
-'27381':
+27381:
   title: Tisch Hall LC-07
   capacity: 20
   links:
@@ -2128,7 +2128,7 @@ default:
   keywords:
   help:
   body:
-'27382':
+27382:
   title: Tisch Hall LC-09
   capacity: 45
   links:
@@ -2139,7 +2139,7 @@ default:
   keywords:
   help:
   body:
-'27383':
+27383:
   title: Tisch Hall LC-11
   capacity: 50
   links:
@@ -2150,7 +2150,7 @@ default:
   keywords:
   help:
   body:
-'27384':
+27384:
   title: Tisch Hall LC-13
   capacity: 20
   links:
@@ -2161,7 +2161,7 @@ default:
   keywords:
   help:
   body:
-'27385':
+27385:
   title: Tisch Hall LC-15
   capacity: 20
   links:
@@ -2172,7 +2172,7 @@ default:
   keywords:
   help:
   body:
-'27438':
+27438:
   title: Tisch Hall LC-19
   capacity: 36
   links:
@@ -2184,7 +2184,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
-'1397':
+1397:
   title: Waverly 365
   capacity:
   links:
@@ -2195,7 +2195,7 @@ default:
   keywords:
   help:
   body:
-'1398':
+1398:
   title: Waverly 366
   capacity: 39
   links:
@@ -2206,7 +2206,7 @@ default:
   keywords:
   help:
   body:
-'1399':
+1399:
   title: Waverly 367
   capacity: 35
   links:
@@ -2217,7 +2217,7 @@ default:
   keywords:
   help:
   body:
-'1401':
+1401:
   title: Waverly 369
   capacity: 33
   links:
@@ -2228,7 +2228,7 @@ default:
   keywords:
   help:
   body:
-'1402':
+1402:
   title: Waverly 370
   capacity: 30
   links:
@@ -2239,7 +2239,7 @@ default:
   keywords:
   help:
   body:
-'1409':
+1409:
   title: Waverly 429
   capacity: 26
   links:
@@ -2250,7 +2250,7 @@ default:
   keywords:
   help:
   body:
-'1412':
+1412:
   title: Waverly 431
   capacity: 33
   links:
@@ -2261,7 +2261,7 @@ default:
   keywords:
   help:
   body:
-'1413':
+1413:
   title: Waverly 433
   capacity: 33
   links:
@@ -2272,7 +2272,7 @@ default:
   keywords:
   help:
   body:
-'1415':
+1415:
   title: Waverly 435
   capacity: 33
   links:
@@ -2283,7 +2283,7 @@ default:
   keywords:
   help:
   body:
-'2094':
+2094:
   title: Waverly 566A
   capacity: 32
   links:
@@ -2294,7 +2294,7 @@ default:
   keywords:
   help:
   body:
-'1417':
+1417:
   title: Waverly 566B
   capacity: 20
   links:
@@ -2305,7 +2305,7 @@ default:
   keywords:
   help:
   body:
-'1419':
+1419:
   title: Waverly 567
   capacity: 30
   links:
@@ -2316,7 +2316,7 @@ default:
   keywords:
   help:
   body:
-'1420':
+1420:
   title: Waverly 569
   capacity: 30
   links:
@@ -2327,7 +2327,7 @@ default:
   keywords:
   help:
   body:
-'2093':
+2093:
   title: Waverly 570
   capacity: 24
   links:
@@ -2338,7 +2338,7 @@ default:
   keywords:
   help:
   body:
-'1404':
+1404:
   title: Waverly 667
   capacity: 37
   links:
@@ -2349,7 +2349,7 @@ default:
   keywords:
   help:
   body:
-'1406':
+1406:
   title: Waverly 668
   capacity: 35
   links:
@@ -2360,7 +2360,7 @@ default:
   keywords:
   help:
   body:
-'1408':
+1408:
   title: Waverly 669
   capacity: 27
   links:
@@ -2371,7 +2371,7 @@ default:
   keywords:
   help:
   body:
-'1473':
+1473:
   title: Waverly Lounge
   capacity:
   links:
@@ -2382,7 +2382,7 @@ default:
   keywords:
   help:
   body:
-'27429':
+27429:
   title: University Hall C02A
   capacity: 18
   links:
@@ -2393,7 +2393,7 @@ default:
   keywords:
   help:
   body:
-'28022':
+28022:
   title: Weinstein Hall SB20
   capacity: 24
   links:
@@ -2404,7 +2404,7 @@ default:
   keywords:
   help:
   body:
-'28023':
+28023:
   title: Weinstein Hall SB35
   capacity: 16
   links:
@@ -2415,7 +2415,7 @@ default:
   keywords:
   help:
   body:
-'29688':
+29688:
   title: Global Center (238 Thoms) 274
   capacity: 18
   links:
@@ -2426,7 +2426,7 @@ default:
   keywords:
   help:
   body:
-'29689':
+29689:
   title: Global Center (238 Thoms) 275
   capacity: 40
   links:
@@ -2437,7 +2437,7 @@ default:
   keywords:
   help:
   body:
-'29691':
+29691:
   title: Global Center (238 Thoms) 279
   capacity: 48
   links:
@@ -2448,7 +2448,7 @@ default:
   keywords:
   help:
   body:
-'29707':
+29707:
   title: Global Center (238 Thoms) 288
   capacity: 30
   links:
@@ -2459,7 +2459,7 @@ default:
   keywords:
   help:
   body:
-'29693':
+29693:
   title: Global Center (238 Thoms) 361
   capacity: 36
   links:
@@ -2470,7 +2470,7 @@ default:
   keywords:
   help:
   body:
-'29694':
+29694:
   title: Global Center (238 Thoms) 365
   capacity: 32
   links:
@@ -2481,7 +2481,7 @@ default:
   keywords:
   help:
   body:
-'29708':
+29708:
   title: Global Center (238 Thoms) 369
   capacity: 40
   links:
@@ -2492,7 +2492,7 @@ default:
   keywords:
   help:
   body:
-'29695':
+29695:
   title: Global Center (238 Thoms) 374
   capacity: 18
   links:
@@ -2503,7 +2503,7 @@ default:
   keywords:
   help:
   body:
-'29696':
+29696:
   title: Global Center (238 Thoms) 375
   capacity: 32
   links:
@@ -2514,7 +2514,7 @@ default:
   keywords:
   help:
   body:
-'29697':
+29697:
   title: Global Center (238 Thoms) 379
   capacity: 32
   links:
@@ -2525,7 +2525,7 @@ default:
   keywords:
   help:
   body:
-'29698':
+29698:
   title: Global Center (238 Thoms) 383
   capacity: 42
   links:
@@ -2536,7 +2536,7 @@ default:
   keywords:
   help:
   body:
-'29699':
+29699:
   title: Global Center (238 Thoms) 388
   capacity: 30
   links:
@@ -2547,7 +2547,7 @@ default:
   keywords:
   help:
   body:
-'29700':
+29700:
   title: Global Center (238 Thoms) 461
   capacity: 32
   links:
@@ -2558,7 +2558,7 @@ default:
   keywords:
   help:
   body:
-'29703':
+29703:
   title: Global Center (238 Thoms) 475
   capacity: 32
   links:
@@ -2569,7 +2569,7 @@ default:
   keywords:
   help:
   body:
-'29685':
+29685:
   title: Global Center (238 Thoms) Hall
   capacity: 257
   links:
@@ -2580,7 +2580,7 @@ default:
   keywords:
   help:
   body:
-'29773':
+29773:
   title: Global Center (238 Thoms) 384
   capacity: 22
   links:
@@ -2591,7 +2591,7 @@ default:
   keywords:
   help:
   body:
-'29772':
+29772:
   title: Global Center (238 Thoms) 284
   capacity: 22
   links:
@@ -2603,7 +2603,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
-'32048':
+32048:
   title: Rubin Hall 101
   capacity: 15
   links:
@@ -2614,7 +2614,7 @@ default:
   keywords:
   help:
   body:
-'32049':
+32049:
   title: Rubin Hall 102
   capacity: 15
   links:
@@ -2625,7 +2625,7 @@ default:
   keywords:
   help:
   body:
-'32050':
+32050:
   title: Rubin Hall 103
   capacity: 15
   links:
@@ -2636,7 +2636,7 @@ default:
   keywords:
   help:
   body:
-'32051':
+32051:
   title: Rubin Hall 104
   capacity: 15
   links:
@@ -2647,7 +2647,7 @@ default:
   keywords:
   help:
   body:
-'32052':
+32052:
   title: Rubin Hall 105
   capacity: 15
   links:
@@ -2658,7 +2658,7 @@ default:
   keywords:
   help:
   body:
-'32053':
+32053:
   title: Rubin Hall 106
   capacity: 14
   links:
@@ -2669,7 +2669,7 @@ default:
   keywords:
   help:
   body:
-'32054':
+32054:
   title: Rubin Hall 107
   capacity: 15
   links:
@@ -2680,7 +2680,7 @@ default:
   keywords:
   help:
   body:
-'32055':
+32055:
   title: Rubin Hall 108
   capacity: 15
   links:
@@ -2691,7 +2691,7 @@ default:
   keywords:
   help:
   body:
-'32056':
+32056:
   title: Rubin Hall 109
   capacity: 14
   links:
@@ -2702,7 +2702,7 @@ default:
   keywords:
   help:
   body:
-'32057':
+32057:
   title: Rubin Hall 110
   capacity: 15
   links:
@@ -2713,7 +2713,7 @@ default:
   keywords:
   help:
   body:
-'32716':
+32716:
   title: 60 FA 110
   capacity: 64
   links:
@@ -2724,7 +2724,7 @@ default:
   keywords:
   help:
   body:
-'32718':
+32718:
   title: 60 FA 125
   capacity: 34
   links:
@@ -2735,7 +2735,7 @@ default:
   keywords:
   help:
   body:
-'32719':
+32719:
   title: 60 FA 150
   capacity: 90
   links:
@@ -2746,7 +2746,7 @@ default:
   keywords:
   help:
   body:
-'32720':
+32720:
   title: 60 FA 161
   capacity: 31
   links:
@@ -2757,7 +2757,7 @@ default:
   keywords:
   help:
   body:
-'32721':
+32721:
   title: 60 FA 165
   capacity: 32
   links:
@@ -2768,7 +2768,7 @@ default:
   keywords:
   help:
   body:
-'32722':
+32722:
   title: 60 FA 202
   capacity: 12
   links:
@@ -2779,7 +2779,7 @@ default:
   keywords:
   help:
   body:
-'32723':
+32723:
   title: 60 FA 250
   capacity: 16
   links:
@@ -2790,7 +2790,7 @@ default:
   keywords:
   help:
   body:
-'32724':
+32724:
   title: 60 FA 261
   capacity: 26
   links:
@@ -2801,7 +2801,7 @@ default:
   keywords:
   help:
   body:
-'32725':
+32725:
   title: 60 FA 265
   capacity: 26
   links:
@@ -2812,7 +2812,7 @@ default:
   keywords:
   help:
   body:
-'32726':
+32726:
   title: 60 FA C03
   capacity: 33
   links:
@@ -2823,7 +2823,7 @@ default:
   keywords:
   help:
   body:
-'32727':
+32727:
   title: 60 FA C04
   capacity: 30
   links:
@@ -2834,7 +2834,7 @@ default:
   keywords:
   help:
   body:
-'32728':
+32728:
   title: 60 FA C10
   capacity: 39
   links:
@@ -2845,7 +2845,7 @@ default:
   keywords:
   help:
   body:
-'32729':
+32729:
   title: 60 FA C12
   capacity: 39
   links:
@@ -2856,7 +2856,7 @@ default:
   keywords:
   help:
   body:
-'32730':
+32730:
   title: 60 FA C14
   capacity: 31
   links:
@@ -2866,7 +2866,7 @@ default:
   type:
   keywords:
   help:
-'27886':
+27886:
   title: 19 University Place 605
   capacity:
   links:
@@ -2876,7 +2876,7 @@ default:
   type:
   keywords:
   help:
-'29398':
+29398:
   title: Gallatin 1 Wash Pl
   capacity:
   links:
@@ -2886,7 +2886,7 @@ default:
   type:
   keywords:
   help:
-'29777':
+29777:
   title: 726 Broadway 543
   capacity:
   links:
@@ -2896,7 +2896,7 @@ default:
   type:
   keywords:
   help:
-'30003':
+30003:
   title: 19 University Place 404
   capacity:
   links:
@@ -2906,7 +2906,7 @@ default:
   type:
   keywords:
   help:
-'31121':
+31121:
   title: 19 University Place 336
   capacity:
   links:
@@ -2916,7 +2916,7 @@ default:
   type:
   keywords:
   help:
-'33666':
+33666:
   title: East Building 741
   capacity:
   links:
