@@ -48,7 +48,7 @@ CM-Installed Flat Screen (2):
   description:
 CM-Installed Course Capture:
   label: Course Capture
-  type: equipment
+  type: feature
   description:
 CM-Class Portable Data Projector:
   label: Portable Data Projector
