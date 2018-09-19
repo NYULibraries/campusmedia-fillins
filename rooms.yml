@@ -3,18 +3,19 @@ default:
   published: true
   display_building_address: true
   links:
-    Search Buildings and Rooms: /services/campus-media/classrooms/
+    Search Buildings and Rooms: "/services/campus-media/classrooms/"
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_8BQofJXUx8q2RFz
-    Campus Media Services: /services/campus-media/
+    Campus Media Services: "/services/campus-media/"
   policies:
-    Classroom Media Policies: /services/campus-media/classroom-services/policies/
+    Classroom Media Policies: "/services/campus-media/classroom-services/policies/"
   buttons:
     Reserve Classroom Equipment: https://nyu.qualtrics.com/jfe/form/SV_6MdlzUJ2iVPcTM9
   keywords:
   type: Classroom
   help:
-    text: Our main office is located in the Silver Center for Arts and Science at 100 Washington Sq. East, LL7A, New York, NY 10003
-    phone: +1 212 998 2655
+    text: Our main office is located in the Silver Center for Arts and Science at
+      100 Washington Sq. East, LL7A, New York, NY 10003
+    phone: "+1 212 998 2655"
     email: campusmedia-help@nyu.edu
   libanswers:
     topic_ids: 46490
@@ -32,6 +33,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-261
 29687:
   title: Global Center (238 Thoms) 265
   subtitle:
@@ -43,6 +45,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-265
 29690:
   title: Global Center (238 Thoms) 269
   subtitle:
@@ -54,6 +57,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-269
 5547:
   title: 194 Mercer 201
   subtitle:
@@ -65,6 +69,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-201
 5548:
   title: 194 Mercer 202
   subtitle:
@@ -87,6 +92,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-203
 5550:
   title: 194 Mercer 204
   subtitle:
@@ -98,6 +104,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-204
 5551:
   title: 194 Mercer 205
   subtitle:
@@ -109,6 +116,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-205
 5552:
   title: 194 Mercer 206
   subtitle:
@@ -131,6 +139,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-207
 5554:
   title: 194 Mercer 208
   subtitle:
@@ -142,6 +151,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-208
 5555:
   title: 194 Mercer 209
   subtitle:
@@ -153,6 +163,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-209
 5556:
   title: 194 Mercer 210
   subtitle:
@@ -164,6 +175,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-210
 5557:
   title: 194 Mercer 301
   subtitle:
@@ -175,6 +187,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-301
 5558:
   title: 194 Mercer 303
   subtitle:
@@ -186,6 +199,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-303
 6768:
   title: 194 Mercer 304
   subtitle:
@@ -198,6 +212,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
+  url: 194m-304
 5559:
   title: 194 Mercer 305
   subtitle:
@@ -209,6 +224,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-305
 5560:
   title: 194 Mercer 306
   subtitle:
@@ -220,6 +236,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-306
 5561:
   title: 194 Mercer 307
   subtitle:
@@ -231,6 +248,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-307
 5562:
   title: 194 Mercer 308
   subtitle:
@@ -242,6 +260,7 @@ default:
   keywords:
   help:
   body:
+  url: 194m-308
 5563:
   title: 194 Mercer Office
   subtitle:
@@ -264,6 +283,7 @@ default:
   keywords:
   help:
   body:
+  url: 19up-102
 4336:
   title: 19 University Place 222
   subtitle:
@@ -407,6 +427,7 @@ default:
   keywords:
   help:
   body:
+  url: 19w4-101
 24527:
   title: 19W4 102
   subtitle:
@@ -418,6 +439,7 @@ default:
   keywords:
   help:
   body:
+  url: 19w4-102
 237:
   title: 25W4 C-01
   subtitle:
@@ -429,6 +451,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-01
 260:
   title: 25W4 C-02
   subtitle:
@@ -440,6 +463,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-02
 261:
   title: 25W4 C-03
   subtitle:
@@ -451,6 +475,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-03
 262:
   title: 25W4 C-04
   subtitle:
@@ -462,6 +487,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-04
 263:
   title: 25W4 C-05
   subtitle:
@@ -473,6 +499,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-05
 264:
   title: 25W4 C-06
   subtitle:
@@ -485,6 +512,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
+  url: 25w4-c-06
 265:
   title: 25W4 C-07
   subtitle:
@@ -496,6 +524,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-07
 266:
   title: 25W4 C-08
   subtitle:
@@ -507,6 +536,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-08
 267:
   title: 25W4 C-09
   subtitle:
@@ -518,6 +548,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-09
 268:
   title: 25W4 C-10
   subtitle:
@@ -529,6 +560,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-10
 1145:
   title: 25W4 C-11
   subtitle:
@@ -540,6 +572,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-11
 1146:
   title: 25W4 C-12
   subtitle:
@@ -551,6 +584,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-12
 1147:
   title: 25W4 C-13
   subtitle:
@@ -562,6 +596,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-13
 1149:
   title: 25W4 C-14
   subtitle:
@@ -573,6 +608,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-14
 1151:
   title: 25W4 C-15
   subtitle:
@@ -584,6 +620,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-15
 1152:
   title: 25W4 C-16
   subtitle:
@@ -595,6 +632,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-16
 1153:
   title: 25W4 C-17
   subtitle:
@@ -606,6 +644,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-17
 1155:
   title: 25W4 C-18
   subtitle:
@@ -617,6 +656,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-18
 1156:
   title: 25W4 C-19
   subtitle:
@@ -628,6 +668,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-19
 1157:
   title: 25W4 C-20
   subtitle:
@@ -639,6 +680,7 @@ default:
   keywords:
   help:
   body:
+  url: 25w4-c-20
 26004:
   title: 5 Washington Place Place-101
   subtitle:
@@ -650,6 +692,7 @@ default:
   keywords:
   help:
   body:
+  url: 5wp-101
 9067:
   title: 721 Broadway Lounge)
   subtitle:
@@ -694,6 +737,7 @@ default:
   keywords:
   help:
   body:
+  url: arc-ll-01
 29366:
   title: Academic Resource Center LL-02
   subtitle:
@@ -705,6 +749,7 @@ default:
   keywords:
   help:
   body:
+  url: arc-ll-02
 29369:
   title: Academic Resource Center LL-03
   subtitle:
@@ -716,6 +761,7 @@ default:
   keywords:
   help:
   body:
+  url: arc-ll-03
 29370:
   title: Academic Resource Center LL-04
   subtitle:
@@ -727,6 +773,7 @@ default:
   keywords:
   help:
   body:
+  url: arc-ll-04
 29371:
   title: Academic Resource Center LL-05
   subtitle:
@@ -738,6 +785,7 @@ default:
   keywords:
   help:
   body:
+  url: arc-ll-05
 29372:
   published: false
   title: Academic Resource Center LL-16
@@ -773,6 +821,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-836
 1166:
   title: Bobst 837
   subtitle:
@@ -784,6 +833,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-837
 27999:
   title: Bobst LL1.38
   subtitle:
@@ -795,6 +845,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-38
 28000:
   title: Bobst LL1.39
   subtitle:
@@ -806,6 +857,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-39
 28001:
   title: Bobst LL1.40
   subtitle:
@@ -817,6 +869,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-40
 28002:
   title: Bobst LL1.41
   subtitle:
@@ -828,6 +881,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-41
 28003:
   title: Bobst LL1.42
   subtitle:
@@ -839,6 +893,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-42
 28004:
   title: Bobst LL1.43
   subtitle:
@@ -850,6 +905,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-43
 28006:
   title: Bobst LL1.45
   subtitle:
@@ -861,6 +917,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-45
 28007:
   title: Bobst LL1.46
   subtitle:
@@ -872,6 +929,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-46
 28008:
   title: Bobst LL1.47
   subtitle:
@@ -883,6 +941,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-47
 28009:
   title: Bobst LL1.48
   subtitle:
@@ -894,6 +953,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-48
 28010:
   title: Bobst LL1.49
   subtitle:
@@ -905,6 +965,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-49
 28011:
   title: Bobst LL1.50
   subtitle:
@@ -916,6 +977,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-50
 28111:
   title: Bobst LL1.51
   subtitle:
@@ -927,6 +989,7 @@ default:
   keywords:
   help:
   body:
+  url: bobs-ll1-51
 2822:
   title: Cantor 101
   subtitle:
@@ -938,6 +1001,7 @@ default:
   keywords:
   help:
   body:
+  url: cant-101
 4570:
   title: Cantor 102
   subtitle:
@@ -949,6 +1013,7 @@ default:
   keywords:
   help:
   body:
+  url: cant-102
 2823:
   title: Cantor 200
   subtitle:
@@ -960,6 +1025,7 @@ default:
   keywords:
   help:
   body:
+  url: cant-200
 5322:
   title: East Building 221
   subtitle:
@@ -1093,6 +1159,7 @@ default:
   keywords:
   help:
   body:
+  url: educ-176
 1216:
   title: Education Building 303
   subtitle:
@@ -1104,6 +1171,7 @@ default:
   keywords:
   help:
   body:
+  url: educ-303
 1217:
   title: Education Building 306
   subtitle:
@@ -1115,6 +1183,7 @@ default:
   keywords:
   help:
   body:
+  url: educ-306
 1219:
   title: Education Building 307
   subtitle:
@@ -1126,6 +1195,7 @@ default:
   keywords:
   help:
   body:
+  url: educ-307
 29014:
   title: Genomics - 12 Waverly G08
   subtitle:
@@ -1137,6 +1207,7 @@ default:
   keywords:
   help:
   body:
+  url: 12wv-g08
 29010:
   title: Genomics - 12 Waverly L111
   subtitle:
@@ -1149,6 +1220,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
+  url: 12wv-l111
 29011:
   title: Genomics - 12 Waverly L113
   subtitle:
@@ -1160,6 +1232,7 @@ default:
   keywords:
   help:
   body:
+  url: 12wv-l113
 29012:
   title: Genomics - 12 Waverly L114
   subtitle:
@@ -1171,6 +1244,7 @@ default:
   keywords:
   help:
   body:
+  url: 12wv-l114
 29013:
   title: Genomics - 12 Waverly L120
   subtitle:
@@ -1182,6 +1256,7 @@ default:
   keywords:
   help:
   body:
+  url: 12wv-l120
 29382:
   title: 7 East 12th Street (NYU-SCPS) 121
   subtitle:
@@ -1193,6 +1268,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-121
 29383:
   title: 7 East 12th Street (NYU-SCPS) 123
   subtitle:
@@ -1204,6 +1280,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-123
 29384:
   title: 7 East 12th Street (NYU-SCPS) 124
   subtitle:
@@ -1215,6 +1292,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-124
 29385:
   title: 7 East 12th Street (NYU-SCPS) 125
   subtitle:
@@ -1226,6 +1304,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-125
 29386:
   title: 7 East 12th Street (NYU-SCPS) 127
   subtitle:
@@ -1237,6 +1316,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-127
 29387:
   title: 7 East 12th Street (NYU-SCPS) 129
   subtitle:
@@ -1248,6 +1328,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-129
 29388:
   title: 7 East 12th Street (NYU-SCPS) 131
   subtitle:
@@ -1259,6 +1340,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-131
 29389:
   title: 7 East 12th Street (NYU-SCPS) 134
   subtitle:
@@ -1270,6 +1352,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-134
 29374:
   title: 7 East 12th Street (NYU-SCPS) LL21
   subtitle:
@@ -1281,6 +1364,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-ll21
 29376:
   title: 7 East 12th Street (NYU-SCPS) LL23
   subtitle:
@@ -1292,6 +1376,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-ll23
 29377:
   title: 7 East 12th Street (NYU-SCPS) LL25
   subtitle:
@@ -1303,6 +1388,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-ll25
 29378:
   title: 7 East 12th Street (NYU-SCPS) LL27
   subtitle:
@@ -1314,6 +1400,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-ll27
 29379:
   title: 7 East 12th Street (NYU-SCPS) LL31
   subtitle:
@@ -1325,6 +1412,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-ll31
 29380:
   title: 7 East 12th Street (NYU-SCPS) LL33
   subtitle:
@@ -1336,6 +1424,7 @@ default:
   keywords:
   help:
   body:
+  url: 7e12-ll33
 1233:
   title: Goddard B-01
   subtitle:
@@ -1347,6 +1436,7 @@ default:
   keywords:
   help:
   body:
+  url: godd-b-01
 1234:
   title: Goddard B-02
   subtitle:
@@ -1358,6 +1448,7 @@ default:
   keywords:
   help:
   body:
+  url: godd-b-02
 1235:
   title: Goddard B-04
   subtitle:
@@ -1369,6 +1460,7 @@ default:
   keywords:
   help:
   body:
+  url: godd-b-04
 1237:
   title: Goddard B-06
   subtitle:
@@ -1380,6 +1472,7 @@ default:
   keywords:
   help:
   body:
+  url: godd-b-06
 1239:
   title: Goddard B-07
   subtitle:
@@ -1391,6 +1484,7 @@ default:
   keywords:
   help:
   body:
+  url: godd-b-07
 5206:
   title: King Juan Carlos 404W
   subtitle:
@@ -1435,6 +1529,7 @@ default:
   keywords:
   help:
   body:
+  url: meyr-102
 1354:
   title: Meyer Building 121
   subtitle:
@@ -1446,6 +1541,7 @@ default:
   keywords:
   help:
   body:
+  url: meyr-121
 1356:
   title: Meyer Building 122
   subtitle:
@@ -1457,6 +1553,7 @@ default:
   keywords:
   help:
   body:
+  url: meyr-122
 1362:
   title: Meyer Building 261
   subtitle:
@@ -1468,6 +1565,7 @@ default:
   keywords:
   help:
   body:
+  url: meyr-261
 1365:
   title: Meyer Building 307
   subtitle:
@@ -1545,6 +1643,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-101a-jurow
 1253:
   title: Silver Center, Room 202
   subtitle: Floor 2
@@ -1578,6 +1677,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-206
 1257:
   title: Silver Center, Room 207
   subtitle: Floor 2
@@ -1589,6 +1689,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-207
 1260:
   title: Silver Center, Room 208
   subtitle: Floor 2
@@ -1600,6 +1701,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-208
 236:
   title: Silver Center, Room 401
   subtitle: Floor 4
@@ -1611,6 +1713,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-401
 238:
   title: Silver Center, Room 402
   subtitle: Floor 4
@@ -1622,6 +1725,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-402
 257:
   title: Silver Center, Room 403
   subtitle: Floor 4
@@ -1633,6 +1737,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-403
 258:
   title: Silver Center, Room 404
   subtitle: Floor 4
@@ -1644,6 +1749,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-404
 259:
   title: Silver Center, Room 405
   subtitle: Floor 4
@@ -1655,6 +1761,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-405
 1265:
   title: Silver Center, Room 406
   subtitle: Floor 4
@@ -1666,6 +1773,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-406
 1266:
   title: Silver Center, Room 407
   subtitle: Floor 4
@@ -1677,6 +1785,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-407
 1268:
   title: Silver Center, Room 408
   subtitle: Floor 4
@@ -1688,6 +1797,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-408
 1269:
   title: Silver Center, Room 409
   subtitle: Floor 4
@@ -1699,6 +1809,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-409
 1271:
   title: Silver Center, Room 410
   subtitle: Floor 4
@@ -1710,6 +1821,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-410
 1272:
   title: Silver Center, Room 411
   subtitle: Floor 4
@@ -1721,6 +1833,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-411
 1274:
   title: Silver Center, Room 412
   subtitle: Floor 4
@@ -1732,6 +1845,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-412
 1275:
   title: Silver Center, Room 413
   subtitle: Floor 4
@@ -1743,6 +1857,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-413
 1277:
   title: Silver Center, Room 414
   subtitle: Floor 4
@@ -1754,6 +1869,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-414
 1280:
   title: Silver Center, Room 500
   subtitle: Floor 5
@@ -1765,6 +1881,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-500
 1282:
   title: Silver Center, Room 501
   subtitle: Floor 5
@@ -1776,6 +1893,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-501
 1284:
   title: Silver Center, Room 504
   subtitle: Floor 5
@@ -1787,6 +1905,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-504
 1287:
   title: Silver Center, Room 506
   subtitle: Floor 5
@@ -1798,6 +1917,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-506
 1289:
   title: Silver Center, Room 507
   subtitle: Floor 5
@@ -1809,6 +1929,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-507
 1291:
   title: Silver Center, Room 508
   subtitle: Floor 5
@@ -1820,6 +1941,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-508
 1292:
   title: Silver Center, Room 509
   subtitle: Floor 5
@@ -1831,6 +1953,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-509
 1293:
   title: Silver Center, Room 510
   subtitle: Floor 5
@@ -1842,6 +1965,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-510
 1296:
   title: Silver Center, Room 512
   subtitle: Floor 5
@@ -1853,6 +1977,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-512
 1297:
   title: Silver Center, Room 514
   subtitle: Floor 5
@@ -1864,6 +1989,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-514
 1298:
   title: Silver Center, Room 515
   subtitle: Floor 5
@@ -1875,6 +2001,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-515
 1299:
   title: Silver Center, Room 518
   subtitle: Floor 5
@@ -1886,6 +2013,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-518
 1300:
   title: Silver Center, Room 520
   subtitle: Floor 5
@@ -1897,6 +2025,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-520
 5200:
   title: Silver Center, Room 603
   subtitle: Floor 6
@@ -1963,6 +2092,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-620
 1308:
   title: Silver Center, Room 621
   subtitle: Floor 6
@@ -1974,6 +2104,7 @@ default:
   keywords:
   help:
   body:
+  url: silv-621
 4941:
   title: Silver Center, Room 907
   subtitle: Floor 9
@@ -2007,6 +2138,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-01
 1374:
   title: Tisch Hall LC-02
   subtitle:
@@ -2018,6 +2150,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-02
 1375:
   title: Tisch Hall LC-03
   subtitle:
@@ -2029,6 +2162,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-03
 1376:
   title: Tisch Hall LC-04
   subtitle:
@@ -2040,6 +2174,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-04
 1377:
   title: Tisch Hall LC-05
   subtitle:
@@ -2051,6 +2186,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-05
 27380:
   title: Tisch Hall LC-06
   subtitle:
@@ -2062,6 +2198,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-06
 27381:
   title: Tisch Hall LC-07
   subtitle:
@@ -2073,6 +2210,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-07
 27382:
   title: Tisch Hall LC-09
   subtitle:
@@ -2084,6 +2222,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-09
 27383:
   title: Tisch Hall LC-11
   subtitle:
@@ -2095,6 +2234,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-11
 27384:
   title: Tisch Hall LC-13
   subtitle:
@@ -2106,6 +2246,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-13
 27385:
   title: Tisch Hall LC-15
   subtitle:
@@ -2117,6 +2258,7 @@ default:
   keywords:
   help:
   body:
+  url: tisc-lc-15
 27438:
   title: Tisch Hall LC-19
   subtitle:
@@ -2129,6 +2271,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
+  url: tisc-lc-19
 1397:
   title: Waverly 365
   subtitle:
@@ -2151,6 +2294,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-366
 1399:
   title: Waverly 367
   subtitle:
@@ -2162,6 +2306,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-367
 1401:
   title: Waverly 369
   subtitle:
@@ -2173,6 +2318,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-369
 1402:
   title: Waverly 370
   subtitle:
@@ -2184,6 +2330,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-370
 1409:
   title: Waverly 429
   subtitle:
@@ -2195,6 +2342,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-429
 1412:
   title: Waverly 431
   subtitle:
@@ -2206,6 +2354,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-431
 1413:
   title: Waverly 433
   subtitle:
@@ -2217,6 +2366,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-433
 1415:
   title: Waverly 435
   subtitle:
@@ -2228,6 +2378,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-435
 2094:
   title: Waverly 566A
   subtitle:
@@ -2239,6 +2390,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-566a
 1417:
   title: Waverly 566B
   subtitle:
@@ -2250,6 +2402,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-566b
 1419:
   title: Waverly 567
   subtitle:
@@ -2261,6 +2414,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-567
 1420:
   title: Waverly 569
   subtitle:
@@ -2272,6 +2426,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-569
 2093:
   title: Waverly 570
   subtitle:
@@ -2283,6 +2438,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-570
 1404:
   title: Waverly 667
   subtitle:
@@ -2294,6 +2450,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-667
 1406:
   title: Waverly 668
   subtitle:
@@ -2305,6 +2462,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-668
 1408:
   title: Waverly 669
   subtitle:
@@ -2316,6 +2474,7 @@ default:
   keywords:
   help:
   body:
+  url: wave-669
 1473:
   title: Waverly Lounge
   subtitle:
@@ -2338,6 +2497,7 @@ default:
   keywords:
   help:
   body:
+  url: uhal-c02a
 28022:
   title: Weinstein Hall SB20
   subtitle:
@@ -2349,6 +2509,7 @@ default:
   keywords:
   help:
   body:
+  url: wein-sb20
 28023:
   title: Weinstein Hall SB35
   subtitle:
@@ -2360,6 +2521,7 @@ default:
   keywords:
   help:
   body:
+  url: wein-sb35
 29688:
   title: Global Center (238 Thoms) 274
   subtitle:
@@ -2371,6 +2533,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-274
 29689:
   title: Global Center (238 Thoms) 275
   subtitle:
@@ -2382,6 +2545,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-275
 29691:
   title: Global Center (238 Thoms) 279
   subtitle:
@@ -2393,6 +2557,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-279
 29707:
   title: Global Center (238 Thoms) 288
   subtitle:
@@ -2404,6 +2569,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-288
 29693:
   title: Global Center (238 Thoms) 361
   subtitle:
@@ -2415,6 +2581,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-361
 29694:
   title: Global Center (238 Thoms) 365
   subtitle:
@@ -2426,6 +2593,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-365
 29708:
   title: Global Center (238 Thoms) 369
   subtitle:
@@ -2437,6 +2605,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-369
 29695:
   title: Global Center (238 Thoms) 374
   subtitle:
@@ -2448,6 +2617,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-374
 29696:
   title: Global Center (238 Thoms) 375
   subtitle:
@@ -2459,6 +2629,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-375
 29697:
   title: Global Center (238 Thoms) 379
   subtitle:
@@ -2470,6 +2641,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-379
 29698:
   title: Global Center (238 Thoms) 383
   subtitle:
@@ -2481,6 +2653,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-383
 29699:
   title: Global Center (238 Thoms) 388
   subtitle:
@@ -2492,6 +2665,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-388
 29700:
   title: Global Center (238 Thoms) 461
   subtitle:
@@ -2503,6 +2677,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-461
 29703:
   title: Global Center (238 Thoms) 475
   subtitle:
@@ -2514,6 +2689,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-475
 29685:
   title: Global Center (238 Thoms) Hall
   subtitle:
@@ -2525,6 +2701,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-c95
 29773:
   title: Global Center (238 Thoms) 384
   subtitle:
@@ -2536,6 +2713,7 @@ default:
   keywords:
   help:
   body:
+  url: gcasl-384
 29772:
   title: Global Center (238 Thoms) 284
   subtitle:
@@ -2548,6 +2726,7 @@ default:
   help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external}
+  url: gcasl-284
 32048:
   title: Rubin Hall 101
   subtitle:
@@ -2559,6 +2738,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-101
 32049:
   title: Rubin Hall 102
   subtitle:
@@ -2570,6 +2750,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-102
 32050:
   title: Rubin Hall 103
   subtitle:
@@ -2581,6 +2762,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-103
 32051:
   title: Rubin Hall 104
   subtitle:
@@ -2592,6 +2774,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-104
 32052:
   title: Rubin Hall 105
   subtitle:
@@ -2603,6 +2786,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-105
 32053:
   title: Rubin Hall 106
   subtitle:
@@ -2614,6 +2798,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-106
 32054:
   title: Rubin Hall 107
   subtitle:
@@ -2625,6 +2810,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-107
 32055:
   title: Rubin Hall 108
   subtitle:
@@ -2636,6 +2822,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-108
 32056:
   title: Rubin Hall 109
   subtitle:
@@ -2647,6 +2834,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-109
 32057:
   title: Rubin Hall 110
   subtitle:
@@ -2658,6 +2846,7 @@ default:
   keywords:
   help:
   body:
+  url: rubn-110
 32716:
   title: 60 FA 110
   subtitle:
@@ -2669,6 +2858,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-110
 32718:
   title: 60 FA 125
   subtitle:
@@ -2680,6 +2870,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-125
 32719:
   title: 60 FA 150
   subtitle:
@@ -2691,6 +2882,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-150
 32720:
   title: 60 FA 161
   subtitle:
@@ -2702,6 +2894,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-161
 32721:
   title: 60 FA 165
   subtitle:
@@ -2713,6 +2906,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-165
 32722:
   title: 60 FA 202
   subtitle:
@@ -2724,6 +2918,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-202
 32723:
   title: 60 FA 250
   subtitle:
@@ -2735,6 +2930,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-250
 32724:
   title: 60 FA 261
   subtitle:
@@ -2746,6 +2942,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-261
 32725:
   title: 60 FA 265
   subtitle:
@@ -2757,6 +2954,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-265
 32726:
   title: 60 FA C03
   subtitle:
@@ -2768,6 +2966,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-c03
 32727:
   title: 60 FA C04
   subtitle:
@@ -2779,6 +2978,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-c04
 32728:
   title: 60 FA C10
   subtitle:
@@ -2790,6 +2990,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-c10
 32729:
   title: 60 FA C12
   subtitle:
@@ -2801,6 +3002,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-c12
 32730:
   title: 60 FA C14
   subtitle:
@@ -2812,6 +3014,7 @@ default:
   keywords:
   help:
   body:
+  url: 60fa-c14
 27886:
   title: 19 University Place 605
   subtitle:
