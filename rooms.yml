@@ -1,6 +1,7 @@
 ---
 default:
   published: true
+  display_building_address: true
   links:
     Search Buildings and Rooms: /services/campus-media/classrooms/
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_8BQofJXUx8q2RFz
