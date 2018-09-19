@@ -1684,8 +1684,8 @@ default:
   help:
   body:
 1253:
-  title: Silver 2nd Floor 202
-  subtitle:
+  title: Silver Center, Room 202
+  subtitle: Floor 2
   capacity:
   links:
   image:
@@ -1696,8 +1696,8 @@ default:
   help:
   body:
 1254:
-  title: Silver 2nd Floor 203
-  subtitle:
+  title: Silver Center, Room 203
+  subtitle: Floor 2
   capacity:
   links:
   image:
@@ -1708,8 +1708,8 @@ default:
   help:
   body:
 1255:
-  title: Silver 2nd Floor 206
-  subtitle:
+  title: Silver Center, Room 206
+  subtitle: Floor 2
   capacity: 88
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver206.jpg
@@ -1720,8 +1720,8 @@ default:
   help:
   body:
 1257:
-  title: Silver 2nd Floor 207
-  subtitle:
+  title: Silver Center, Room 207
+  subtitle: Floor 2
   capacity: 128
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver207.jpg
@@ -1732,8 +1732,8 @@ default:
   help:
   body:
 1260:
-  title: Silver 2nd Floor 208
-  subtitle:
+  title: Silver Center, Room 208
+  subtitle: Floor 2
   capacity: 61
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver208.jpg
@@ -1744,8 +1744,8 @@ default:
   help:
   body:
 236:
-  title: Silver 4th Floor 401
-  subtitle:
+  title: Silver Center, Room 401
+  subtitle: Floor 4
   capacity: 70
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver401.jpg
@@ -1756,8 +1756,8 @@ default:
   help:
   body:
 238:
-  title: Silver 4th Floor 402
-  subtitle:
+  title: Silver Center, Room 402
+  subtitle: Floor 4
   capacity: 18
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver402.jpg
@@ -1768,8 +1768,8 @@ default:
   help:
   body:
 257:
-  title: Silver 4th Floor 403
-  subtitle:
+  title: Silver Center, Room 403
+  subtitle: Floor 4
   capacity: 33
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver403.jpg
@@ -1780,8 +1780,8 @@ default:
   help:
   body:
 258:
-  title: Silver 4th Floor 404
-  subtitle:
+  title: Silver Center, Room 404
+  subtitle: Floor 4
   capacity: 27
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver404.jpg
@@ -1792,8 +1792,8 @@ default:
   help:
   body:
 259:
-  title: Silver 4th Floor 405
-  subtitle:
+  title: Silver Center, Room 405
+  subtitle: Floor 4
   capacity: 108
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver405.jpg
@@ -1804,8 +1804,8 @@ default:
   help:
   body:
 1265:
-  title: Silver 4th Floor 406
-  subtitle:
+  title: Silver Center, Room 406
+  subtitle: Floor 4
   capacity: 22
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver406.jpg
@@ -1816,8 +1816,8 @@ default:
   help:
   body:
 1266:
-  title: Silver 4th Floor 407
-  subtitle:
+  title: Silver Center, Room 407
+  subtitle: Floor 4
   capacity: 32
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver407.jpg
@@ -1828,8 +1828,8 @@ default:
   help:
   body:
 1268:
-  title: Silver 4th Floor 408
-  subtitle:
+  title: Silver Center, Room 408
+  subtitle: Floor 4
   capacity: 108
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver408.jpg
@@ -1840,8 +1840,8 @@ default:
   help:
   body:
 1269:
-  title: Silver 4th Floor 409
-  subtitle:
+  title: Silver Center, Room 409
+  subtitle: Floor 4
   capacity: 20
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver409.jpg
@@ -1852,8 +1852,8 @@ default:
   help:
   body:
 1271:
-  title: Silver 4th Floor 410
-  subtitle:
+  title: Silver Center, Room 410
+  subtitle: Floor 4
   capacity: 37
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver410.jpg
@@ -1864,8 +1864,8 @@ default:
   help:
   body:
 1272:
-  title: Silver 4th Floor 411
-  subtitle:
+  title: Silver Center, Room 411
+  subtitle: Floor 4
   capacity: 71
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver411.jpg
@@ -1876,8 +1876,8 @@ default:
   help:
   body:
 1274:
-  title: Silver 4th Floor 412
-  subtitle:
+  title: Silver Center, Room 412
+  subtitle: Floor 4
   capacity: 25
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver412.jpg
@@ -1888,8 +1888,8 @@ default:
   help:
   body:
 1275:
-  title: Silver 4th Floor 413
-  subtitle:
+  title: Silver Center, Room 413
+  subtitle: Floor 4
   capacity: 8
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver413.jpg
@@ -1900,8 +1900,8 @@ default:
   help:
   body:
 1277:
-  title: Silver 4th Floor 414
-  subtitle:
+  title: Silver Center, Room 414
+  subtitle: Floor 4
   capacity: 68
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver414.jpg
@@ -1912,8 +1912,8 @@ default:
   help:
   body:
 1280:
-  title: Silver 5th Floor 500
-  subtitle:
+  title: Silver Center, Room 500
+  subtitle: Floor 5
   capacity: 25
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver500.jpg
@@ -1924,8 +1924,8 @@ default:
   help:
   body:
 1282:
-  title: Silver 5th Floor 501
-  subtitle:
+  title: Silver Center, Room 501
+  subtitle: Floor 5
   capacity: 28
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver501.jpg
@@ -1936,8 +1936,8 @@ default:
   help:
   body:
 1284:
-  title: Silver 5th Floor 504
-  subtitle:
+  title: Silver Center, Room 504
+  subtitle: Floor 5
   capacity: 20
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver504.jpg
@@ -1948,8 +1948,8 @@ default:
   help:
   body:
 1287:
-  title: Silver 5th Floor 506
-  subtitle:
+  title: Silver Center, Room 506
+  subtitle: Floor 5
   capacity: 20
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver506.jpg
@@ -1960,8 +1960,8 @@ default:
   help:
   body:
 1289:
-  title: Silver 5th Floor 507
-  subtitle:
+  title: Silver Center, Room 507
+  subtitle: Floor 5
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver507.jpg
@@ -1972,8 +1972,8 @@ default:
   help:
   body:
 1291:
-  title: Silver 5th Floor 508
-  subtitle:
+  title: Silver Center, Room 508
+  subtitle: Floor 5
   capacity: 25
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver508.jpg
@@ -1984,8 +1984,8 @@ default:
   help:
   body:
 1292:
-  title: Silver 5th Floor 509
-  subtitle:
+  title: Silver Center, Room 509
+  subtitle: Floor 5
   capacity: 36
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver509.jpg
@@ -1996,8 +1996,8 @@ default:
   help:
   body:
 1293:
-  title: Silver 5th Floor 510
-  subtitle:
+  title: Silver Center, Room 510
+  subtitle: Floor 5
   capacity: 20
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver510.jpg
@@ -2008,8 +2008,8 @@ default:
   help:
   body:
 1296:
-  title: Silver 5th Floor 512
-  subtitle:
+  title: Silver Center, Room 512
+  subtitle: Floor 5
   capacity: 20
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver512.jpg
@@ -2020,8 +2020,8 @@ default:
   help:
   body:
 1297:
-  title: Silver 5th Floor 514
-  subtitle:
+  title: Silver Center, Room 514
+  subtitle: Floor 5
   capacity: 28
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver514.jpg
@@ -2032,8 +2032,8 @@ default:
   help:
   body:
 1298:
-  title: Silver 5th Floor 515
-  subtitle:
+  title: Silver Center, Room 515
+  subtitle: Floor 5
   capacity: 25
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver515.jpg
@@ -2044,8 +2044,8 @@ default:
   help:
   body:
 1299:
-  title: Silver 5th Floor 518
-  subtitle:
+  title: Silver Center, Room 518
+  subtitle: Floor 5
   capacity: 26
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver518.jpg
@@ -2056,8 +2056,8 @@ default:
   help:
   body:
 1300:
-  title: Silver 5th Floor 520
-  subtitle:
+  title: Silver Center, Room 520
+  subtitle: Floor 5
   capacity: 90
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver520.jpg
@@ -2068,8 +2068,8 @@ default:
   help:
   body:
 5200:
-  title: Silver 6th Floor 603
-  subtitle:
+  title: Silver Center, Room 603
+  subtitle: Floor 6
   capacity:
   links:
   image:
@@ -2080,8 +2080,8 @@ default:
   help:
   body:
 18913:
-  title: Silver 6th Floor 604
-  subtitle:
+  title: Silver Center, Room 604
+  subtitle: Floor 6
   capacity:
   links:
   image:
@@ -2092,8 +2092,8 @@ default:
   help:
   body:
 18914:
-  title: Silver 6th Floor 606
-  subtitle:
+  title: Silver Center, Room 606
+  subtitle: Floor 6
   capacity:
   links:
   image:
@@ -2104,8 +2104,8 @@ default:
   help:
   body:
 18971:
-  title: Silver 6th Floor 610
-  subtitle:
+  title: Silver Center, Room 610
+  subtitle: Floor 6
   capacity:
   links:
   image:
@@ -2116,8 +2116,8 @@ default:
   help:
   body:
 1306:
-  title: Silver 6th Floor 618
-  subtitle:
+  title: Silver Center, Room 618
+  subtitle: Floor 6
   capacity:
   links:
   image:
@@ -2128,8 +2128,8 @@ default:
   help:
   body:
 1307:
-  title: Silver 6th Floor 620
-  subtitle:
+  title: Silver Center, Room 620
+  subtitle: Floor 6
   capacity: 30
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver620.jpg
@@ -2140,8 +2140,8 @@ default:
   help:
   body:
 1308:
-  title: Silver 6th Floor 621
-  subtitle:
+  title: Silver Center, Room 621
+  subtitle: Floor 6
   capacity: 33
   links:
   image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver621.jpg
@@ -2152,8 +2152,8 @@ default:
   help:
   body:
 4941:
-  title: Silver 9th Floor 907
-  subtitle:
+  title: Silver Center, Room 907
+  subtitle: Floor 9
   capacity:
   links:
   image:
@@ -2164,8 +2164,8 @@ default:
   help:
   body:
 5775:
-  title: Silver 9th Floor 909D
-  subtitle:
+  title: Silver Center, Room 909D
+  subtitle: Floor 9
   capacity:
   links:
   image:
