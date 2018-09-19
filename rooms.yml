@@ -26,7 +26,6 @@ default:
   subtitle:
   capacity: 36
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter261.jpg
   buttons:
   policies:
   type:
@@ -38,7 +37,6 @@ default:
   subtitle:
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter265.jpg
   buttons:
   policies:
   type:
@@ -50,7 +48,6 @@ default:
   subtitle:
   capacity: 40
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter269.jpg
   buttons:
   policies:
   type:
@@ -62,7 +59,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer201.jpg
   buttons:
   policies:
   type:
@@ -74,7 +70,6 @@ default:
   subtitle:
   capacity: 29
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer202.jpg
   buttons:
   policies:
   type:
@@ -86,7 +81,6 @@ default:
   subtitle:
   capacity: 56
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer203.jpg
   buttons:
   policies:
   type:
@@ -98,7 +92,6 @@ default:
   subtitle:
   capacity: 26
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer204.jpg
   buttons:
   policies:
   type:
@@ -110,7 +103,6 @@ default:
   subtitle:
   capacity: 26
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer205.jpg
   buttons:
   policies:
   type:
@@ -122,7 +114,6 @@ default:
   subtitle:
   capacity: 26
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer206.jpg
   buttons:
   policies:
   type:
@@ -134,7 +125,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer207.jpg
   buttons:
   policies:
   type:
@@ -146,7 +136,6 @@ default:
   subtitle:
   capacity: 26
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer208.jpg
   buttons:
   policies:
   type:
@@ -158,7 +147,6 @@ default:
   subtitle:
   capacity: 26
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer209.jpg
   buttons:
   policies:
   type:
@@ -170,7 +158,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer210.jpg
   buttons:
   policies:
   type:
@@ -182,7 +169,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer301.jpg
   buttons:
   policies:
   type:
@@ -194,7 +180,6 @@ default:
   subtitle:
   capacity: 17
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer303.jpg
   buttons:
   policies:
   type:
@@ -206,7 +191,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image:
   buttons:
   policies:
   type: Computer Lab
@@ -219,7 +203,6 @@ default:
   subtitle:
   capacity: 47
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer305.jpg
   buttons:
   policies:
   type:
@@ -231,7 +214,6 @@ default:
   subtitle:
   capacity: 93
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer306.jpg
   buttons:
   policies:
   type:
@@ -243,7 +225,6 @@ default:
   subtitle:
   capacity: 47
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer307.jpg
   buttons:
   policies:
   type:
@@ -255,7 +236,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/194Mercer308.jpg
   buttons:
   policies:
   type:
@@ -267,7 +247,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -279,7 +258,6 @@ default:
   subtitle:
   capacity: 120
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19+University+102.jpg
   buttons:
   policies:
   type:
@@ -291,7 +269,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -303,7 +280,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -315,7 +291,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -327,7 +302,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -339,7 +313,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -351,7 +324,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -363,7 +335,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -375,7 +346,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -387,7 +357,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -399,7 +368,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -411,7 +379,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -423,7 +390,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -435,7 +401,6 @@ default:
   subtitle:
   capacity: 188
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th101.jpg
   buttons:
   policies:
   type:
@@ -447,7 +412,6 @@ default:
   subtitle:
   capacity: 46
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/19W4th102.jpg
   buttons:
   policies:
   type:
@@ -459,7 +423,6 @@ default:
   subtitle:
   capacity: 27
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-01.jpg
   buttons:
   policies:
   type:
@@ -471,7 +434,6 @@ default:
   subtitle:
   capacity: 28
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-02.jpg
   buttons:
   policies:
   type:
@@ -483,7 +445,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-03.jpg
   buttons:
   policies:
   type:
@@ -495,7 +456,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-04.jpg
   buttons:
   policies:
   type:
@@ -507,7 +467,6 @@ default:
   subtitle:
   capacity: 22
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-05.jpg
   buttons:
   policies:
   type:
@@ -519,7 +478,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-06.jpg
   buttons:
   policies:
   type: Computer Lab
@@ -532,7 +490,6 @@ default:
   subtitle:
   capacity: 18
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-07.jpg
   buttons:
   policies:
   type:
@@ -544,7 +501,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-08.jpg
   buttons:
   policies:
   type:
@@ -556,7 +512,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-09.jpg
   buttons:
   policies:
   type:
@@ -568,7 +523,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-10.jpg
   buttons:
   policies:
   type:
@@ -580,7 +534,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-11.jpg
   buttons:
   policies:
   type:
@@ -592,7 +545,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-12.jpg
   buttons:
   policies:
   type:
@@ -604,7 +556,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-13.jpg
   buttons:
   policies:
   type:
@@ -616,7 +567,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-14.jpg
   buttons:
   policies:
   type:
@@ -628,7 +578,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-15.jpg
   buttons:
   policies:
   type:
@@ -640,7 +589,6 @@ default:
   subtitle:
   capacity: 18
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-16.jpg
   buttons:
   policies:
   type:
@@ -652,7 +600,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-17.jpg
   buttons:
   policies:
   type:
@@ -664,7 +611,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-18.jpg
   buttons:
   policies:
   type:
@@ -676,7 +622,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-19.jpg
   buttons:
   policies:
   type:
@@ -688,7 +633,6 @@ default:
   subtitle:
   capacity: 40
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/25W4StC-20.jpg
   buttons:
   policies:
   type:
@@ -700,7 +644,6 @@ default:
   subtitle:
   capacity: 120
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/5WP101.jpg
   buttons:
   policies:
   type:
@@ -712,7 +655,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -724,7 +666,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -736,7 +677,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -748,7 +688,6 @@ default:
   subtitle:
   capacity: 28
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL1.jpg
   buttons:
   policies:
   type:
@@ -760,7 +699,6 @@ default:
   subtitle:
   capacity: 28
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL2.jpg
   buttons:
   policies:
   type:
@@ -772,7 +710,6 @@ default:
   subtitle:
   capacity: 21
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL3.jpg
   buttons:
   policies:
   type:
@@ -784,7 +721,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL4.jpg
   buttons:
   policies:
   type:
@@ -796,7 +732,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL5.jpg
   buttons:
   policies:
   type:
@@ -809,7 +744,6 @@ default:
   subtitle:
   capacity: 6
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
   buttons:
   policies:
   type:
@@ -822,7 +756,6 @@ default:
   subtitle:
   capacity: 6
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/ARC-LL16.jpg
   buttons:
   policies:
   type:
@@ -834,7 +767,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst836.jpg
   buttons:
   policies:
   type:
@@ -846,7 +778,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst837.jpg
   buttons:
   policies:
   type:
@@ -858,7 +789,6 @@ default:
   subtitle:
   capacity: 48
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL38.jpg
   buttons:
   policies:
   type:
@@ -870,7 +800,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL39.jpg
   buttons:
   policies:
   type:
@@ -882,7 +811,6 @@ default:
   subtitle:
   capacity: 16
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL40.jpg
   buttons:
   policies:
   type:
@@ -894,7 +822,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
   buttons:
   policies:
   type:
@@ -906,7 +833,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL42.jpg
   buttons:
   policies:
   type:
@@ -918,7 +844,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Bobst_LL141_43.jpg
   buttons:
   policies:
   type:
@@ -930,7 +855,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL45.jpg
   buttons:
   policies:
   type:
@@ -942,7 +866,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL46.jpg
   buttons:
   policies:
   type:
@@ -954,7 +877,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL47.jpg
   buttons:
   policies:
   type:
@@ -966,7 +888,6 @@ default:
   subtitle:
   capacity: 16
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL48.jpg
   buttons:
   policies:
   type:
@@ -978,7 +899,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL49.jpg
   buttons:
   policies:
   type:
@@ -990,7 +910,6 @@ default:
   subtitle:
   capacity: 48
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL50.jpg
   buttons:
   policies:
   type:
@@ -1002,7 +921,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/BobstLL51.jpg
   buttons:
   policies:
   type:
@@ -1014,7 +932,6 @@ default:
   subtitle:
   capacity: 184
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1026,7 +943,6 @@ default:
   subtitle:
   capacity: 177
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1038,7 +954,6 @@ default:
   subtitle:
   capacity: 319
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1050,7 +965,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1062,7 +976,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1074,7 +987,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1086,7 +998,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1098,7 +1009,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1110,7 +1020,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1122,7 +1031,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1134,7 +1042,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1146,7 +1053,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1158,7 +1064,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1171,7 +1076,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1183,7 +1087,6 @@ default:
   subtitle: Lowe Theater
   capacity: 330
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ176.jpg
   buttons:
   policies:
   type: Theater
@@ -1195,7 +1098,6 @@ default:
   subtitle:
   capacity: 74
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ303.jpg
   buttons:
   policies:
   type:
@@ -1207,7 +1109,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ306.jpg
   buttons:
   policies:
   type:
@@ -1219,7 +1120,6 @@ default:
   subtitle:
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Educ307.jpg
   buttons:
   policies:
   type:
@@ -1231,7 +1131,6 @@ default:
   subtitle:
   capacity: 138
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GenomicsAud-108.jpg
   buttons:
   policies:
   type:
@@ -1243,7 +1142,6 @@ default:
   subtitle:
   capacity: 22
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-111.jpg
   buttons:
   policies:
   type: Computer Lab
@@ -1256,7 +1154,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L113.jpg
   buttons:
   policies:
   type:
@@ -1268,7 +1165,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L114.jpg
   buttons:
   policies:
   type:
@@ -1280,7 +1176,6 @@ default:
   subtitle:
   capacity: 69
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Genomics-L120.jpg
   buttons:
   policies:
   type:
@@ -1292,7 +1187,6 @@ default:
   subtitle:
   capacity: 34
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_121.jpg
   buttons:
   policies:
   type:
@@ -1304,7 +1198,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_123.jpg
   buttons:
   policies:
   type:
@@ -1316,7 +1209,6 @@ default:
   subtitle:
   capacity: 28
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_124.jpg
   buttons:
   policies:
   type:
@@ -1328,7 +1220,6 @@ default:
   subtitle:
   capacity: 35
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_125.jpg
   buttons:
   policies:
   type:
@@ -1340,7 +1231,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_127.jpg
   buttons:
   policies:
   type:
@@ -1352,7 +1242,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_129.jpg
   buttons:
   policies:
   type:
@@ -1364,7 +1253,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_131.jpg
   buttons:
   policies:
   type:
@@ -1376,7 +1264,6 @@ default:
   subtitle:
   capacity: 27
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_134.jpg
   buttons:
   policies:
   type:
@@ -1388,7 +1275,6 @@ default:
   subtitle:
   capacity: 28
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL21.jpg
   buttons:
   policies:
   type:
@@ -1400,7 +1286,6 @@ default:
   subtitle:
   capacity: 50
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL23.jpg
   buttons:
   policies:
   type:
@@ -1412,7 +1297,6 @@ default:
   subtitle:
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL25.jpg
   buttons:
   policies:
   type:
@@ -1424,7 +1308,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL27.jpg
   buttons:
   policies:
   type:
@@ -1436,7 +1319,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL31.jpg
   buttons:
   policies:
   type:
@@ -1448,7 +1330,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/SCPS_LL33.jpg
   buttons:
   policies:
   type:
@@ -1460,7 +1341,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-01.jpg
   buttons:
   policies:
   type:
@@ -1472,7 +1352,6 @@ default:
   subtitle:
   capacity: 35
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-02.jpg
   buttons:
   policies:
   type:
@@ -1484,7 +1363,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-04.jpg
   buttons:
   policies:
   type:
@@ -1496,7 +1374,6 @@ default:
   subtitle:
   capacity: 35
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-06.jpg
   buttons:
   policies:
   type:
@@ -1508,7 +1385,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Goddard+B-07.jpg
   buttons:
   policies:
   type:
@@ -1520,7 +1396,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1532,7 +1407,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1544,7 +1418,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1556,7 +1429,6 @@ default:
   subtitle:
   capacity: 73
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer102.jpg
   buttons:
   policies:
   type:
@@ -1568,7 +1440,6 @@ default:
   subtitle:
   capacity: 185
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer121.jpg
   buttons:
   policies:
   type:
@@ -1580,7 +1451,6 @@ default:
   subtitle:
   capacity: 93
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer122.jpg
   buttons:
   policies:
   type:
@@ -1592,7 +1462,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Meyer261.jpg
   buttons:
   policies:
   type:
@@ -1604,7 +1473,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1616,7 +1484,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1628,7 +1495,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1640,7 +1506,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1652,7 +1517,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1664,7 +1528,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1676,7 +1539,6 @@ default:
   subtitle:
   capacity: 80
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver101A.jpg
   buttons:
   policies:
   type:
@@ -1688,7 +1550,6 @@ default:
   subtitle: Floor 2
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1700,7 +1561,6 @@ default:
   subtitle: Floor 2
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -1712,7 +1572,6 @@ default:
   subtitle: Floor 2
   capacity: 88
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver206.jpg
   buttons:
   policies:
   type:
@@ -1724,7 +1583,6 @@ default:
   subtitle: Floor 2
   capacity: 128
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver207.jpg
   buttons:
   policies:
   type:
@@ -1736,7 +1594,6 @@ default:
   subtitle: Floor 2
   capacity: 61
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver208.jpg
   buttons:
   policies:
   type:
@@ -1748,7 +1605,6 @@ default:
   subtitle: Floor 4
   capacity: 70
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver401.jpg
   buttons:
   policies:
   type:
@@ -1760,7 +1616,6 @@ default:
   subtitle: Floor 4
   capacity: 18
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver402.jpg
   buttons:
   policies:
   type:
@@ -1772,7 +1627,6 @@ default:
   subtitle: Floor 4
   capacity: 33
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver403.jpg
   buttons:
   policies:
   type:
@@ -1784,7 +1638,6 @@ default:
   subtitle: Floor 4
   capacity: 27
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver404.jpg
   buttons:
   policies:
   type:
@@ -1796,7 +1649,6 @@ default:
   subtitle: Floor 4
   capacity: 108
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver405.jpg
   buttons:
   policies:
   type:
@@ -1808,7 +1660,6 @@ default:
   subtitle: Floor 4
   capacity: 22
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver406.jpg
   buttons:
   policies:
   type:
@@ -1820,7 +1671,6 @@ default:
   subtitle: Floor 4
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver407.jpg
   buttons:
   policies:
   type:
@@ -1832,7 +1682,6 @@ default:
   subtitle: Floor 4
   capacity: 108
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver408.jpg
   buttons:
   policies:
   type:
@@ -1844,7 +1693,6 @@ default:
   subtitle: Floor 4
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver409.jpg
   buttons:
   policies:
   type:
@@ -1856,7 +1704,6 @@ default:
   subtitle: Floor 4
   capacity: 37
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver410.jpg
   buttons:
   policies:
   type:
@@ -1868,7 +1715,6 @@ default:
   subtitle: Floor 4
   capacity: 71
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver411.jpg
   buttons:
   policies:
   type:
@@ -1880,7 +1726,6 @@ default:
   subtitle: Floor 4
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver412.jpg
   buttons:
   policies:
   type:
@@ -1892,7 +1737,6 @@ default:
   subtitle: Floor 4
   capacity: 8
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver413.jpg
   buttons:
   policies:
   type:
@@ -1904,7 +1748,6 @@ default:
   subtitle: Floor 4
   capacity: 68
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver414.jpg
   buttons:
   policies:
   type:
@@ -1916,7 +1759,6 @@ default:
   subtitle: Floor 5
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver500.jpg
   buttons:
   policies:
   type:
@@ -1928,7 +1770,6 @@ default:
   subtitle: Floor 5
   capacity: 28
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver501.jpg
   buttons:
   policies:
   type:
@@ -1940,7 +1781,6 @@ default:
   subtitle: Floor 5
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver504.jpg
   buttons:
   policies:
   type:
@@ -1952,7 +1792,6 @@ default:
   subtitle: Floor 5
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver506.jpg
   buttons:
   policies:
   type:
@@ -1964,7 +1803,6 @@ default:
   subtitle: Floor 5
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver507.jpg
   buttons:
   policies:
   type:
@@ -1976,7 +1814,6 @@ default:
   subtitle: Floor 5
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver508.jpg
   buttons:
   policies:
   type:
@@ -1988,7 +1825,6 @@ default:
   subtitle: Floor 5
   capacity: 36
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver509.jpg
   buttons:
   policies:
   type:
@@ -2000,7 +1836,6 @@ default:
   subtitle: Floor 5
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver510.jpg
   buttons:
   policies:
   type:
@@ -2012,7 +1847,6 @@ default:
   subtitle: Floor 5
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver512.jpg
   buttons:
   policies:
   type:
@@ -2024,7 +1858,6 @@ default:
   subtitle: Floor 5
   capacity: 28
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver514.jpg
   buttons:
   policies:
   type:
@@ -2036,7 +1869,6 @@ default:
   subtitle: Floor 5
   capacity: 25
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver515.jpg
   buttons:
   policies:
   type:
@@ -2048,7 +1880,6 @@ default:
   subtitle: Floor 5
   capacity: 26
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver518.jpg
   buttons:
   policies:
   type:
@@ -2060,7 +1891,6 @@ default:
   subtitle: Floor 5
   capacity: 90
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver520.jpg
   buttons:
   policies:
   type:
@@ -2072,7 +1902,6 @@ default:
   subtitle: Floor 6
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -2084,7 +1913,6 @@ default:
   subtitle: Floor 6
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -2096,7 +1924,6 @@ default:
   subtitle: Floor 6
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -2108,7 +1935,6 @@ default:
   subtitle: Floor 6
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -2120,7 +1946,6 @@ default:
   subtitle: Floor 6
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -2132,7 +1957,6 @@ default:
   subtitle: Floor 6
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver620.jpg
   buttons:
   policies:
   type:
@@ -2144,7 +1968,6 @@ default:
   subtitle: Floor 6
   capacity: 33
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Silver621.jpg
   buttons:
   policies:
   type:
@@ -2156,7 +1979,6 @@ default:
   subtitle: Floor 9
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -2168,7 +1990,6 @@ default:
   subtitle: Floor 9
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -2180,7 +2001,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC01.jpg
   buttons:
   policies:
   type:
@@ -2192,7 +2012,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC02.jpg
   buttons:
   policies:
   type:
@@ -2204,7 +2023,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC03.jpg
   buttons:
   policies:
   type:
@@ -2216,7 +2034,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC04.jpg
   buttons:
   policies:
   type:
@@ -2228,7 +2045,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC05.jpg
   buttons:
   policies:
   type:
@@ -2240,7 +2056,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC06.jpg
   buttons:
   policies:
   type:
@@ -2252,7 +2067,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC07.jpg
   buttons:
   policies:
   type:
@@ -2264,7 +2078,6 @@ default:
   subtitle:
   capacity: 45
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC09.jpg
   buttons:
   policies:
   type:
@@ -2276,7 +2089,6 @@ default:
   subtitle:
   capacity: 50
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC11.jpg
   buttons:
   policies:
   type:
@@ -2288,7 +2100,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC13.jpg
   buttons:
   policies:
   type:
@@ -2300,7 +2111,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TischLC15.jpg
   buttons:
   policies:
   type:
@@ -2312,7 +2122,6 @@ default:
   subtitle:
   capacity: 36
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/TISCH+HALL+LC-19.jpg
   buttons:
   policies:
   type: Computer Lab
@@ -2325,7 +2134,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -2337,7 +2145,6 @@ default:
   subtitle:
   capacity: 39
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly366.jpg
   buttons:
   policies:
   type:
@@ -2349,7 +2156,6 @@ default:
   subtitle:
   capacity: 35
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly367.jpg
   buttons:
   policies:
   type:
@@ -2361,7 +2167,6 @@ default:
   subtitle:
   capacity: 33
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly369.jpg
   buttons:
   policies:
   type:
@@ -2373,7 +2178,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly370.jpg
   buttons:
   policies:
   type:
@@ -2385,7 +2189,6 @@ default:
   subtitle:
   capacity: 26
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_429.jpg
   buttons:
   policies:
   type:
@@ -2397,7 +2200,6 @@ default:
   subtitle:
   capacity: 33
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/waverly_431.jpg
   buttons:
   policies:
   type:
@@ -2409,7 +2211,6 @@ default:
   subtitle:
   capacity: 33
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_433.jpg
   buttons:
   policies:
   type:
@@ -2421,7 +2222,6 @@ default:
   subtitle:
   capacity: 33
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_435.jpg
   buttons:
   policies:
   type:
@@ -2433,7 +2233,6 @@ default:
   subtitle:
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566A.jpg
   buttons:
   policies:
   type:
@@ -2445,7 +2244,6 @@ default:
   subtitle:
   capacity: 20
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+566B.jpg
   buttons:
   policies:
   type:
@@ -2457,7 +2255,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+567.jpg
   buttons:
   policies:
   type:
@@ -2469,7 +2266,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+569.jpg
   buttons:
   policies:
   type:
@@ -2481,7 +2277,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly+570.jpg
   buttons:
   policies:
   type:
@@ -2493,7 +2288,6 @@ default:
   subtitle:
   capacity: 37
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly667.jpg
   buttons:
   policies:
   type:
@@ -2505,7 +2299,6 @@ default:
   subtitle:
   capacity: 35
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly_668.jpg
   buttons:
   policies:
   type:
@@ -2517,7 +2310,6 @@ default:
   subtitle:
   capacity: 27
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Waverly669.jpg
   buttons:
   policies:
   type:
@@ -2529,7 +2321,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -2541,7 +2332,6 @@ default:
   subtitle:
   capacity: 18
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Univ_Hall+C02A.jpg
   buttons:
   policies:
   type:
@@ -2553,7 +2343,6 @@ default:
   subtitle:
   capacity: 24
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-20.jpg
   buttons:
   policies:
   type:
@@ -2565,7 +2354,6 @@ default:
   subtitle:
   capacity: 16
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/WeinsteinSB-35.jpg
   buttons:
   policies:
   type:
@@ -2577,7 +2365,6 @@ default:
   subtitle:
   capacity: 18
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter274.jpg
   buttons:
   policies:
   type:
@@ -2589,7 +2376,6 @@ default:
   subtitle:
   capacity: 40
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter275.jpg
   buttons:
   policies:
   type:
@@ -2601,7 +2387,6 @@ default:
   subtitle:
   capacity: 48
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter279.jpg
   buttons:
   policies:
   type:
@@ -2613,7 +2398,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter288.jpg
   buttons:
   policies:
   type:
@@ -2625,7 +2409,6 @@ default:
   subtitle:
   capacity: 36
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter361.jpg
   buttons:
   policies:
   type:
@@ -2637,7 +2420,6 @@ default:
   subtitle:
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter365.jpg
   buttons:
   policies:
   type:
@@ -2649,7 +2431,6 @@ default:
   subtitle:
   capacity: 40
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter369.jpg
   buttons:
   policies:
   type:
@@ -2661,7 +2442,6 @@ default:
   subtitle:
   capacity: 18
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter374.jpg
   buttons:
   policies:
   type:
@@ -2673,7 +2453,6 @@ default:
   subtitle:
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter375.jpg
   buttons:
   policies:
   type:
@@ -2685,7 +2464,6 @@ default:
   subtitle:
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter379.jpg
   buttons:
   policies:
   type:
@@ -2697,7 +2475,6 @@ default:
   subtitle:
   capacity: 42
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter383.jpg
   buttons:
   policies:
   type:
@@ -2709,7 +2486,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter388.jpg
   buttons:
   policies:
   type:
@@ -2721,7 +2497,6 @@ default:
   subtitle:
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter461.jpg
   buttons:
   policies:
   type:
@@ -2733,7 +2508,6 @@ default:
   subtitle:
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter475.jpg
   buttons:
   policies:
   type:
@@ -2745,7 +2519,6 @@ default:
   subtitle:
   capacity: 257
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenterC95.jpg
   buttons:
   policies:
   type:
@@ -2757,7 +2530,6 @@ default:
   subtitle:
   capacity: 22
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GlobalCenter384.jpg
   buttons:
   policies:
   type:
@@ -2769,7 +2541,6 @@ default:
   subtitle:
   capacity: 22
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/GCASL_284.jpg
   buttons:
   policies:
   type: Computer Lab
@@ -2782,7 +2553,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin101.jpg
   buttons:
   policies:
   type:
@@ -2794,7 +2564,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin102.jpg
   buttons:
   policies:
   type:
@@ -2806,7 +2575,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin103.jpg
   buttons:
   policies:
   type:
@@ -2818,7 +2586,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin104.jpg
   buttons:
   policies:
   type:
@@ -2830,7 +2597,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin105.jpg
   buttons:
   policies:
   type:
@@ -2842,7 +2608,6 @@ default:
   subtitle:
   capacity: 14
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin106.jpg
   buttons:
   policies:
   type:
@@ -2854,7 +2619,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin107.jpg
   buttons:
   policies:
   type:
@@ -2866,7 +2630,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin108.jpg
   buttons:
   policies:
   type:
@@ -2878,7 +2641,6 @@ default:
   subtitle:
   capacity: 14
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin109.jpg
   buttons:
   policies:
   type:
@@ -2890,7 +2652,6 @@ default:
   subtitle:
   capacity: 15
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/Rubin110.jpg
   buttons:
   policies:
   type:
@@ -2902,7 +2663,6 @@ default:
   subtitle:
   capacity: 64
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_110.jpg
   buttons:
   policies:
   type:
@@ -2914,7 +2674,6 @@ default:
   subtitle:
   capacity: 34
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_125.jpg
   buttons:
   policies:
   type:
@@ -2926,7 +2685,6 @@ default:
   subtitle:
   capacity: 90
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_150.jpg
   buttons:
   policies:
   type:
@@ -2938,7 +2696,6 @@ default:
   subtitle:
   capacity: 31
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_161.jpg
   buttons:
   policies:
   type:
@@ -2950,7 +2707,6 @@ default:
   subtitle:
   capacity: 32
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_165.jpg
   buttons:
   policies:
   type:
@@ -2962,7 +2718,6 @@ default:
   subtitle:
   capacity: 12
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_202.jpg
   buttons:
   policies:
   type:
@@ -2974,7 +2729,6 @@ default:
   subtitle:
   capacity: 16
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_250.jpg
   buttons:
   policies:
   type:
@@ -2986,7 +2740,6 @@ default:
   subtitle:
   capacity: 26
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_261.jpg
   buttons:
   policies:
   type:
@@ -2998,7 +2751,6 @@ default:
   subtitle:
   capacity: 26
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_265.jpg
   buttons:
   policies:
   type:
@@ -3010,7 +2762,6 @@ default:
   subtitle:
   capacity: 33
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C03.jpg
   buttons:
   policies:
   type:
@@ -3022,7 +2773,6 @@ default:
   subtitle:
   capacity: 30
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C04.jpg
   buttons:
   policies:
   type:
@@ -3034,7 +2784,6 @@ default:
   subtitle:
   capacity: 39
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C10.jpg
   buttons:
   policies:
   type:
@@ -3046,7 +2795,6 @@ default:
   subtitle:
   capacity: 39
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C12.jpg
   buttons:
   policies:
   type:
@@ -3058,7 +2806,6 @@ default:
   subtitle:
   capacity: 31
   links:
-  image: https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/classrooms/60FA_C14.jpg
   buttons:
   policies:
   type:
@@ -3070,7 +2817,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -3082,7 +2828,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -3094,7 +2839,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -3106,7 +2850,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
@@ -3118,7 +2861,6 @@ default:
   subtitle:
   capacity:
   links:
-  image:
   buttons:
   policies:
   type:
