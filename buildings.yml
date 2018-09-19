@@ -8,6 +8,7 @@
   address: 111 2nd Avenue, New York, NY
   location: 111 2nd Avenue
 412:
+  display_building_address: false
   address: 19 University Place, New York, NY
   location: 19 University Place
   help:
