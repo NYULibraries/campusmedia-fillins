@@ -114,21 +114,21 @@
   location: Pless Building
 94:
   address: 100 Washington Square East, New York, NY
-  location: Silver Center, 4th Floor
+  location: Silver Center
   help:
     text: Silver Center Office, 100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
 198:
   address: 100 Washington Square East, New York, NY
-  location: Silver Center, 5th Floor
+  location: Silver Center
   help:
     text: Silver Center Office, 100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
 199:
   address: 100 Washington Square East, New York, NY
-  location: Silver Center, 6th Floor
+  location: Silver Center
   help:
     text: Silver Center Office, 100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
@@ -136,7 +136,7 @@
 202:
   published: false
   address: 100 Washington Square East, New York, NY
-  location: Silver Center, 9th Floor
+  location: Silver Center
 205:
   address: 40 West 4th Street, New York, NY
   location: Tisch Hall
@@ -208,14 +208,14 @@
   location: 100 Washington Square East
 2947:
   address: 100 Washington Square East
-  location: Silver Center, 1st Floor
+  location: Silver Center
   help:
     text: Silver Center Office, 100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
 2847:
   address: 100 Washington Square East
-  location: Silver Center, 2nd Floor
+  location: Silver Center
   help:
     text: Silver Center Office, 100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
