@@ -37,9 +37,6 @@ default:
   title: 194 Mercer Street, Room 201
   capacity: 24
   url: 194m-201
-5548:
-  title: 194 Mercer 202
-  capacity: 29
 5549:
   title: 194 Mercer Street, Room 203
   capacity: 56
@@ -52,9 +49,6 @@ default:
   title: 194 Mercer Street, Room 205
   capacity: 26
   url: 194m-205
-5552:
-  title: 194 Mercer 206
-  capacity: 26
 5553:
   title: 194 Mercer Street, Room 207
   capacity: 24
@@ -102,8 +96,6 @@ default:
   title: 194 Mercer Street, Room 308
   capacity: 25
   url: 194m-308
-5563:
-  title: 194 Mercer Office
 20195:
   title: 19 University Place, Room 102
   capacity: 120
@@ -223,14 +215,6 @@ default:
   title: Academic Resource Center, LL-05 (Seminar Room )
   capacity: 24
   url: arc-ll-05
-29372:
-  published: false
-  title: Academic Resource Center LL-16
-  capacity: 6
-29373:
-  published: false
-  title: Academic Resource Center LL-18
-  capacity: 6
 2082:
   title: Bobst Library, Room 836
   capacity: 15
@@ -303,9 +287,6 @@ default:
   title: Cantor Film Center, Room 200
   capacity: 319
   url: cant-200
-3167:
-  publish: false
-  title: Education Building 1231
 1213:
   title: Education Building, Room 176 (Loewe Theater)
   subtitle: Lowe Theater
@@ -423,12 +404,6 @@ default:
   title: Goddard Hall, Room B-07
   capacity: 20
   url: godd-b-07
-5206:
-  title: King Juan Carlos 404W
-2164:
-  title: King Juan Carlos 527
-2723:
-  title: Kimball Hall Lounge
 1350:
   title: Meyer Hall, Room 102
   capacity: 73
@@ -449,12 +424,6 @@ default:
   title: Silver Center, Room 101A (Jurow Lecture Hall)
   capacity: 80
   url: silv-101a-jurow
-1253:
-  title: Silver Center, Room 202
-  subtitle: Floor 2
-1254:
-  title: Silver Center, Room 203
-  subtitle: Floor 2
 1255:
   title: Silver Center, Room 206
   subtitle: Floor 2
@@ -605,21 +574,6 @@ default:
   subtitle: Floor 5
   capacity: 90
   url: silv-520
-5200:
-  title: Silver Center, Room 603
-  subtitle: Floor 6
-18913:
-  title: Silver Center, Room 604
-  subtitle: Floor 6
-18914:
-  title: Silver Center, Room 606
-  subtitle: Floor 6
-18971:
-  title: Silver Center, Room 610
-  subtitle: Floor 6
-1306:
-  title: Silver Center, Room 618
-  subtitle: Floor 6
 1307:
   title: Silver Center, Room 620
   subtitle: Floor 6
@@ -630,12 +584,6 @@ default:
   subtitle: Floor 6
   capacity: 33
   url: silv-621
-4941:
-  title: Silver Center, Room 907
-  subtitle: Floor 9
-5775:
-  title: Silver Center, Room 909D
-  subtitle: Floor 9
 1373:
   title: Tisch Hall, Room LC-01
   capacity: 20
@@ -687,8 +635,6 @@ default:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: tisc-lc-19
-1397:
-  title: Waverly 365
 1398:
   title: Waverly, Room 366
   capacity: 39
@@ -753,8 +699,6 @@ default:
   title: Waverly, Room 669
   capacity: 27
   url: wave-669
-1473:
-  title: Waverly Lounge
 27429:
   title: University Hall, Room C02A
   capacity: 18
