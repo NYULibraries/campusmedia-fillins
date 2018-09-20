@@ -10,7 +10,6 @@ default:
     Classroom Media Policies: "/services/campus-media/classroom-services/policies/"
   buttons:
     Reserve Classroom Equipment: https://nyu.qualtrics.com/jfe/form/SV_6MdlzUJ2iVPcTM9
-  keywords:
   type: Classroom
   help:
     text: Our main office is located in the Silver Center for Arts and Science at
@@ -24,3049 +23,858 @@ default:
     [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external }
 29686:
   title: GCASL, Room 261
-  subtitle:
   capacity: 36
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-261
 29687:
   title: GCASL, Room 265
-  subtitle:
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-265
 29690:
   title: GCASL, Room 269
-  subtitle:
   capacity: 40
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-269
 5547:
   title: 194 Mercer Street, Room 201
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-201
-5548:
-  title: 194 Mercer 202
-  subtitle:
-  capacity: 29
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 5549:
   title: 194 Mercer Street, Room 203
-  subtitle:
   capacity: 56
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-203
 5550:
   title: 194 Mercer Street, Room 204
-  subtitle:
   capacity: 26
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-204
 5551:
   title: 194 Mercer Street, Room 205
-  subtitle:
   capacity: 26
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-205
-5552:
-  title: 194 Mercer 206
-  subtitle:
-  capacity: 26
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 5553:
   title: 194 Mercer Street, Room 207
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-207
 5554:
   title: 194 Mercer Street, Room 208
-  subtitle:
   capacity: 26
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-208
 5555:
   title: 194 Mercer Street, Room 209
-  subtitle:
   capacity: 26
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-209
 5556:
   title: 194 Mercer Street, Room 210
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-210
 5557:
   title: 194 Mercer Street, Room 301
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-301
 5558:
   title: 194 Mercer Street, Room 303
-  subtitle:
   capacity: 17
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-303
 6768:
   title: 194 Mercer Street, Room 304
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
   type: Computer Lab
-  keywords:
-  help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: 194m-304
 5559:
   title: 194 Mercer Street, Room 305
-  subtitle:
   capacity: 47
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-305
 5560:
   title: 194 Mercer Street, Room 306
-  subtitle:
   capacity: 93
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-306
 5561:
   title: 194 Mercer Street, Room 307
-  subtitle:
   capacity: 47
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-307
 5562:
   title: 194 Mercer Street, Room 308
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 194m-308
-5563:
-  title: 194 Mercer Office
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 20195:
   title: 19 University Place, Room 102
-  subtitle:
   capacity: 120
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 19up-102
-4336:
-  title: 19 University Place 222
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-4568:
-  title: 19 University Place 223
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-9068:
-  title: 19 University Place 224
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-18862:
-  title: 19 University Place 228
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-2696:
-  title: 19 University Place 229
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-5320:
-  title: 19 University Place 305
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-21994:
-  title: 19 University Place 327
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-3937:
-  title: 19 University Place 337
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-19623:
-  title: 19 University Place 402
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-5347:
-  title: 19 University Place 405
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-19621:
-  title: 19 University Place 435
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-21752:
-  title: 19 University Place 505
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 21550:
   title: 19 West 4th Street, Room 101
-  subtitle:
   capacity: 188
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 19w4-101
 24527:
   title: 19 West 4th Street, Room 102
-  subtitle:
   capacity: 46
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 19w4-102
 237:
   title: 25 West 4th Street, Room C-01
-  subtitle:
   capacity: 27
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-01
 260:
   title: 25 West 4th Street, Room C-02
-  subtitle:
   capacity: 28
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-02
 261:
   title: 25 West 4th Street, Room C-03
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-03
 262:
   title: 25 West 4th Street, Room C-04
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-04
 263:
   title: 25 West 4th Street, Room C-05
-  subtitle:
   capacity: 22
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-05
 264:
   title: 25 West 4th Street, Room C-06
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
   type: Computer Lab
-  keywords:
-  help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: 25w4-c-06
 265:
   title: 25 West 4th Street, Room C-07
-  subtitle:
   capacity: 18
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-07
 266:
   title: 25 West 4th Street, Room C-08
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-08
 267:
   title: 25 West 4th Street, Room C-09
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-09
 268:
   title: 25 West 4th Street, Room C-10
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-10
 1145:
   title: 25 West 4th Street, Room C-11
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-11
 1146:
   title: 25 West 4th Street, Room C-12
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-12
 1147:
   title: 25 West 4th Street, Room C-13
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-13
 1149:
   title: 25 West 4th Street, Room C-14
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-14
 1151:
   title: 25 West 4th Street, Room C-15
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-15
 1152:
   title: 25 West 4th Street, Room C-16
-  subtitle:
   capacity: 18
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-16
 1153:
   title: 25 West 4th Street, Room C-17
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-17
 1155:
   title: 25 West 4th Street, Room C-18
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-18
 1156:
   title: 25 West 4th Street, Room C-19
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-19
 1157:
   title: 25 West 4th Street, Room C-20
-  subtitle:
   capacity: 40
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 25w4-c-20
 26004:
   title: 5 Washington Place, Room 101
-  subtitle:
   capacity: 120
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 5wp-101
-9067:
-  title: 721 Broadway Lounge)
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-3833:
-  title: 721 Broadway Lab
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-2080:
-  title: 726 Broadway 542
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 29365:
   title: Academic Resource Center, Room LL-01
-  subtitle:
   capacity: 28
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: arc-ll-01
 29366:
   title: Academic Resource Center, Room LL-02
-  subtitle:
   capacity: 28
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: arc-ll-02
 29369:
   title: Academic Resource Center, Room LL-03
-  subtitle:
   capacity: 21
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: arc-ll-03
 29370:
   title: Academic Resource Center, LL-04 (Seminar Room )
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: arc-ll-04
 29371:
   title: Academic Resource Center, LL-05 (Seminar Room )
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: arc-ll-05
-29372:
-  published: false
-  title: Academic Resource Center LL-16
-  subtitle:
-  capacity: 6
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-29373:
-  published: false
-  title: Academic Resource Center LL-18
-  subtitle:
-  capacity: 6
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 2082:
   title: Bobst Library, Room 836
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-836
 1166:
   title: Bobst Library, Room 837
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-837
 27999:
   title: Bobst Library, Room LL1.38
-  subtitle:
   capacity: 48
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-38
 28000:
   title: Bobst Library, Room LL1.39
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-39
 28001:
   title: Bobst Library, Room LL1.40
-  subtitle:
   capacity: 16
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-40
 28002:
   title: Bobst Library, Room LL1.41
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-41
 28003:
   title: Bobst Library, Room LL1.42
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-42
 28004:
   title: Bobst Library, Room LL1.43
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-43
 28006:
   title: Bobst Library, Room LL1.45
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-45
 28007:
   title: Bobst Library, Room LL1.46
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-46
 28008:
   title: Bobst Library, Room LL1.47
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-47
 28009:
   title: Bobst Library, Room LL1.48
-  subtitle:
   capacity: 16
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-48
 28010:
   title: Bobst Library, Room LL1.49
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-49
 28011:
   title: Bobst Library, Room LL1.50
-  subtitle:
   capacity: 48
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-50
 28111:
   title: Bobst Library, Room LL1.51
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: bobs-ll1-51
 2822:
   title: Cantor Film Center, Room 101
-  subtitle:
   capacity: 184
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: cant-101
 4570:
   title: Cantor Film Center, Room 102
-  subtitle:
   capacity: 177
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: cant-102
 2823:
   title: Cantor Film Center, Room 200
-  subtitle:
   capacity: 319
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: cant-200
-5322:
-  title: East Building 221
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-5321:
-  title: East Building 233
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-5768:
-  title: East Building 322
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-9069:
-  title: East Building 539
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-1211:
-  title: East Building 640
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-13968:
-  title: East Building 709
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-8706:
-  title: East Building 716
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-5002:
-  title: East Building 718
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-8353:
-  title: East Building 735
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-4335:
-  title: East Building Floor
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-3167:
-  publish: false
-  title: Education Building 1231
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 1213:
   title: Education Building, Room 176 (Loewe Theater)
   subtitle: Lowe Theater
   capacity: 330
-  links:
-  buttons:
-  policies:
   type: Theater
-  keywords:
-  help:
-  body:
   url: educ-176
 1216:
   title: Education Building, Room 303
-  subtitle:
   capacity: 74
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: educ-303
 1217:
   title: Education Building, Room 306
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: educ-306
 1219:
   title: Education Building, Room 307
-  subtitle:
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: educ-307
 29014:
   title: 12 Waverly Place, Room G08
-  subtitle:
   capacity: 138
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 12wv-g08
 29010:
   title: 12 Waverly Place, Room L111
-  subtitle:
   capacity: 22
-  links:
-  buttons:
-  policies:
   type: Computer Lab
-  keywords:
-  help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: 12wv-l111
 29011:
   title: 12 Waverly Place, Room L113
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 12wv-l113
 29012:
   title: 12 Waverly Place, Room L114
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 12wv-l114
 29013:
   title: 12 Waverly Place, Room L120
-  subtitle:
   capacity: 69
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 12wv-l120
 29382:
   title: 7 East 12th Street, Room 121
-  subtitle:
   capacity: 34
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-121
 29383:
   title: 7 East 12th Street, Room 123
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-123
 29384:
   title: 7 East 12th Street, Room 124
-  subtitle:
   capacity: 28
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-124
 29385:
   title: 7 East 12th Street, Room 125
-  subtitle:
   capacity: 35
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-125
 29386:
   title: 7 East 12th Street, Room 127
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-127
 29387:
   title: 7 East 12th Street, Room 129
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-129
 29388:
   title: 7 East 12th Street, Room 131
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-131
 29389:
   title: 7 East 12th Street, Room 134
-  subtitle:
   capacity: 27
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-134
 29374:
   title: 7 East 12th Street, Room LL21
-  subtitle:
   capacity: 28
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-ll21
 29376:
   title: 7 East 12th Street, Room LL23
-  subtitle:
   capacity: 50
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-ll23
 29377:
   title: 7 East 12th Street, Room LL25
-  subtitle:
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-ll25
 29378:
   title: 7 East 12th Street, Room LL27
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-ll27
 29379:
   title: 7 East 12th Street, Room LL31
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-ll31
 29380:
   title: 7 East 12th Street, Room LL33
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 7e12-ll33
 1233:
   title: Goddard Hall, Room B-01
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: godd-b-01
 1234:
   title: Goddard Hall, Room B-02
-  subtitle:
   capacity: 35
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: godd-b-02
 1235:
   title: Goddard Hall, Room B-04
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: godd-b-04
 1237:
   title: Goddard Hall, Room B-06
-  subtitle:
   capacity: 35
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: godd-b-06
 1239:
   title: Goddard Hall, Room B-07
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: godd-b-07
-5206:
-  title: King Juan Carlos 404W
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-2164:
-  title: King Juan Carlos 527
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-2723:
-  title: Kimball Hall Lounge
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 1350:
   title: Meyer Hall, Room 102
-  subtitle:
   capacity: 73
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: meyr-102
 1354:
   title: Meyer Hall, Room 121
-  subtitle:
   capacity: 185
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: meyr-121
 1356:
   title: Meyer Hall, Room 122
-  subtitle:
   capacity: 93
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: meyr-122
 1362:
   title: Meyer Hall, Room 261
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: meyr-261
-1365:
-  title: Meyer Building 307
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-2918:
-  title: Pless Building Lounge
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-3927:
-  title: Pless Building Lounge
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-21819:
-  title: Pless Building Sears
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-5275:
-  title: Pless Building Floor
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-2935:
-  title: Pless Building Room
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 1247:
   title: Silver Center, Room 101A (Jurow Lecture Hall)
-  subtitle:
   capacity: 80
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-101a-jurow
-1253:
-  title: Silver Center, Room 202
-  subtitle: Floor 2
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-1254:
-  title: Silver Center, Room 203
-  subtitle: Floor 2
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 1255:
   title: Silver Center, Room 206
   subtitle: Floor 2
   capacity: 88
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-206
 1257:
   title: Silver Center, Room 207
   subtitle: Floor 2
   capacity: 128
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-207
 1260:
   title: Silver Center, Room 208
   subtitle: Floor 2
   capacity: 61
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-208
 236:
   title: Silver Center, Room 401
   subtitle: Floor 4
   capacity: 70
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-401
 238:
   title: Silver Center, Room 402
   subtitle: Floor 4
   capacity: 18
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-402
 257:
   title: Silver Center, Room 403
   subtitle: Floor 4
   capacity: 33
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-403
 258:
   title: Silver Center, Room 404
   subtitle: Floor 4
   capacity: 27
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-404
 259:
   title: Silver Center, Room 405
   subtitle: Floor 4
   capacity: 108
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-405
 1265:
   title: Silver Center, Room 406
   subtitle: Floor 4
   capacity: 22
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-406
 1266:
   title: Silver Center, Room 407
   subtitle: Floor 4
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-407
 1268:
   title: Silver Center, Room 408
   subtitle: Floor 4
   capacity: 108
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-408
 1269:
   title: Silver Center, Room 409
   subtitle: Floor 4
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-409
 1271:
   title: Silver Center, Room 410
   subtitle: Floor 4
   capacity: 37
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-410
 1272:
   title: Silver Center, Room 411
   subtitle: Floor 4
   capacity: 71
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-411
 1274:
   title: Silver Center, Room 412
   subtitle: Floor 4
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-412
 1275:
   title: Silver Center, Room 413
   subtitle: Floor 4
   capacity: 8
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-413
 1277:
   title: Silver Center, Room 414
   subtitle: Floor 4
   capacity: 68
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-414
 1280:
   title: Silver Center, Room 500
   subtitle: Floor 5
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-500
 1282:
   title: Silver Center, Room 501
   subtitle: Floor 5
   capacity: 28
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-501
 1284:
   title: Silver Center, Room 504
   subtitle: Floor 5
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-504
 1287:
   title: Silver Center, Room 506
   subtitle: Floor 5
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-506
 1289:
   title: Silver Center, Room 507
   subtitle: Floor 5
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-507
 1291:
   title: Silver Center, Room 508
   subtitle: Floor 5
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-508
 1292:
   title: Silver Center, Room 509
   subtitle: Floor 5
   capacity: 36
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-509
 1293:
   title: Silver Center, Room 510
   subtitle: Floor 5
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-510
 1296:
   title: Silver Center, Room 512
   subtitle: Floor 5
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-512
 1297:
   title: Silver Center, Room 514
   subtitle: Floor 5
   capacity: 28
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-514
 1298:
   title: Silver Center, Room 515
   subtitle: Floor 5
   capacity: 25
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-515
 1299:
   title: Silver Center, Room 518
   subtitle: Floor 5
   capacity: 26
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-518
 1300:
   title: Silver Center, Room 520
   subtitle: Floor 5
   capacity: 90
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-520
-5200:
-  title: Silver Center, Room 603
-  subtitle: Floor 6
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-18913:
-  title: Silver Center, Room 604
-  subtitle: Floor 6
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-18914:
-  title: Silver Center, Room 606
-  subtitle: Floor 6
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-18971:
-  title: Silver Center, Room 610
-  subtitle: Floor 6
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-1306:
-  title: Silver Center, Room 618
-  subtitle: Floor 6
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 1307:
   title: Silver Center, Room 620
   subtitle: Floor 6
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-620
 1308:
   title: Silver Center, Room 621
   subtitle: Floor 6
   capacity: 33
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: silv-621
-4941:
-  title: Silver Center, Room 907
-  subtitle: Floor 9
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-5775:
-  title: Silver Center, Room 909D
-  subtitle: Floor 9
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 1373:
   title: Tisch Hall, Room LC-01
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-01
 1374:
   title: Tisch Hall, Room LC-02
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-02
 1375:
   title: Tisch Hall, Room LC-03
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-03
 1376:
   title: Tisch Hall, Room LC-04
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-04
 1377:
   title: Tisch Hall, Room LC-05
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-05
 27380:
   title: Tisch Hall, Room LC-06
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-06
 27381:
   title: Tisch Hall, Room LC-07
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-07
 27382:
   title: Tisch Hall, Room LC-09
-  subtitle:
   capacity: 45
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-09
 27383:
   title: Tisch Hall, Room LC-11
-  subtitle:
   capacity: 50
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-11
 27384:
   title: Tisch Hall, Room LC-13
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-13
 27385:
   title: Tisch Hall, Room LC-15
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: tisc-lc-15
 27438:
   title: Tisch Hall, Room LC-19
-  subtitle:
   capacity: 36
-  links:
-  buttons:
-  policies:
   type: Computer Lab
-  keywords:
-  help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: tisc-lc-19
-1397:
-  title: Waverly 365
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 1398:
   title: Waverly, Room 366
-  subtitle:
   capacity: 39
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-366
 1399:
   title: Waverly, Room 367
-  subtitle:
   capacity: 35
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-367
 1401:
   title: Waverly, Room 369
-  subtitle:
   capacity: 33
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-369
 1402:
   title: Waverly, Room 370
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-370
 1409:
   title: Waverly, Room 429
-  subtitle:
   capacity: 26
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-429
 1412:
   title: Waverly, Room 431
-  subtitle:
   capacity: 33
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-431
 1413:
   title: Waverly, Room 433
-  subtitle:
   capacity: 33
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-433
 1415:
   title: Waverly, Room 435
-  subtitle:
   capacity: 33
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-435
 2094:
   title: Waverly, Room 566A
-  subtitle:
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-566a
 1417:
   title: Waverly, Room 566B
-  subtitle:
   capacity: 20
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-566b
 1419:
   title: Waverly, Room 567
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-567
 1420:
   title: Waverly, Room 569
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-569
 2093:
   title: Waverly, Room 570
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-570
 1404:
   title: Waverly, Room 667
-  subtitle:
   capacity: 37
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-667
 1406:
   title: Waverly, Room 668
-  subtitle:
   capacity: 35
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-668
 1408:
   title: Waverly, Room 669
-  subtitle:
   capacity: 27
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wave-669
-1473:
-  title: Waverly Lounge
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
 27429:
   title: University Hall, Room C02A
-  subtitle:
   capacity: 18
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: uhal-c02a
 28022:
   title: Weinstein Hall, Room SB20
-  subtitle:
   capacity: 24
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wein-sb20
 28023:
   title: Weinstein Hall, Room SB35
-  subtitle:
   capacity: 16
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: wein-sb35
 29688:
   title: GCASL, Room 274
-  subtitle:
   capacity: 18
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-274
 29689:
   title: GCASL, Room 275
-  subtitle:
   capacity: 40
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-275
 29691:
   title: GCASL, Room 279
-  subtitle:
   capacity: 48
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-279
 29707:
   title: GCASL, Room 288
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-288
 29693:
   title: GCASL, Room 361
-  subtitle:
   capacity: 36
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-361
 29694:
   title: GCASL, Room 365
-  subtitle:
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-365
 29708:
   title: GCASL, Room 369
-  subtitle:
   capacity: 40
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-369
 29695:
   title: GCASL, Room 374
-  subtitle:
   capacity: 18
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-374
 29696:
   title: GCASL, Room 375
-  subtitle:
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-375
 29697:
   title: GCASL, Room 379
-  subtitle:
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-379
 29698:
   title: GCASL, Room 383
-  subtitle:
   capacity: 42
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-383
 29699:
   title: GCASL, Room 388
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-388
 29700:
   title: GCASL, Room 461
-  subtitle:
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-461
 29703:
   title: GCASL, Room 475
-  subtitle:
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-475
 29685:
   title: GCASL, Room C95
-  subtitle:
   capacity: 257
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-c95
 29773:
   title: GCASL, Room 384
-  subtitle:
   capacity: 22
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: gcasl-384
 29772:
   title: GCASL, Room 284
-  subtitle:
   capacity: 22
-  links:
-  buttons:
-  policies:
   type: Computer Lab
-  keywords:
-  help:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: gcasl-284
 32048:
   title: Rubin Hall, Room 101
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-101
 32049:
   title: Rubin Hall, Room 102
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-102
 32050:
   title: Rubin Hall, Room 103
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-103
 32051:
   title: Rubin Hall, Room 104
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-104
 32052:
   title: Rubin Hall, Room 105
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-105
 32053:
   title: Rubin Hall, Room 106
-  subtitle:
   capacity: 14
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-106
 32054:
   title: Rubin Hall, Room 107
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-107
 32055:
   title: Rubin Hall, Room 108
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-108
 32056:
   title: Rubin Hall, Room 109
-  subtitle:
   capacity: 14
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-109
 32057:
   title: Rubin Hall, Room 110
-  subtitle:
   capacity: 15
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: rubn-110
 32716:
   title: 60 Fifth Avenue, Room 110
-  subtitle:
   capacity: 64
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-110
 32718:
   title: 60 Fifth Avenue, Room 125
-  subtitle:
   capacity: 34
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-125
 32719:
   title: 60 Fifth Avenue, Room 150
-  subtitle:
   capacity: 90
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-150
 32720:
   title: 60 Fifth Avenue, Room 161
-  subtitle:
   capacity: 31
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-161
 32721:
   title: 60 Fifth Avenue, Room 165
-  subtitle:
   capacity: 32
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-165
 32722:
   title: 60 Fifth Avenue, Room 202
-  subtitle:
   capacity: 12
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-202
 32723:
   title: 60 Fifth Avenue, Room 250
-  subtitle:
   capacity: 16
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-250
 32724:
   title: 60 Fifth Avenue, Room 261
-  subtitle:
   capacity: 26
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-261
 32725:
   title: 60 Fifth Avenue, Room 265
-  subtitle:
   capacity: 26
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-265
 32726:
   title: 60 Fifth Avenue, Room C03
-  subtitle:
   capacity: 33
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-c03
 32727:
   title: 60 Fifth Avenue, Room C04
-  subtitle:
   capacity: 30
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-c04
 32728:
   title: 60 Fifth Avenue, Room C10
-  subtitle:
   capacity: 39
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-c10
 32729:
   title: 60 Fifth Avenue, Room C12
-  subtitle:
   capacity: 39
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-c12
 32730:
   title: 60 Fifth Avenue, Room C14
-  subtitle:
   capacity: 31
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
   url: 60fa-c14
-27886:
-  title: 19 University Place 605
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-29777:
-  title: 726 Broadway 543
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-30003:
-  title: 19 University Place 404
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-31121:
-  title: 19 University Place 336
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
-33666:
-  title: East Building 741
-  subtitle:
-  capacity:
-  links:
-  buttons:
-  policies:
-  type:
-  keywords:
-  help:
-  body:
