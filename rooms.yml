@@ -100,6 +100,7 @@ default:
   title: 19 University Place, Room 102
   capacity: 120
   url: 19up-102
+  type: Lecture Hall
 21550:
   title: 19 West 4th Street, Room 101
   capacity: 188
