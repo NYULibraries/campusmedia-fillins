@@ -1,5 +1,5 @@
 ---
-0:
+default:
   published: true
   display_building_address: true
   links:
