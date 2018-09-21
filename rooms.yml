@@ -21,98 +21,35 @@ default:
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body: |
     [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external }
-29686:
-  title: GCASL, Room 261
-  capacity: 36
-  url: gcasl-261
-29687:
-  title: GCASL, Room 265
-  capacity: 32
-  url: gcasl-265
-29690:
-  title: GCASL, Room 269
-  capacity: 40
-  url: gcasl-269
-5547:
-  title: 194 Mercer Street, Room 201
-  capacity: 24
-  url: 194m-201
-5549:
-  title: 194 Mercer Street, Room 203
-  capacity: 56
-  url: 194m-203
-5550:
-  title: 194 Mercer Street, Room 204
-  capacity: 26
-  url: 194m-204
-5551:
-  title: 194 Mercer Street, Room 205
-  capacity: 26
-  url: 194m-205
-5553:
-  title: 194 Mercer Street, Room 207
-  capacity: 24
-  url: 194m-207
-5554:
-  title: 194 Mercer Street, Room 208
-  capacity: 26
-  url: 194m-208
-5555:
-  title: 194 Mercer Street, Room 209
-  capacity: 26
-  url: 194m-209
-5556:
-  title: 194 Mercer Street, Room 210
-  capacity: 25
-  url: 194m-210
-5557:
-  title: 194 Mercer Street, Room 301
-  capacity: 25
-  url: 194m-301
-5558:
-  title: 194 Mercer Street, Room 303
-  capacity: 17
-  url: 194m-303
-6768:
-  title: 194 Mercer Street, Room 304
-  capacity: 30
-  type: Computer Lab
-  body: |
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
-  url: 194m-304
-5559:
-  title: 194 Mercer Street, Room 305
-  capacity: 47
-  url: 194m-305
-5560:
-  title: 194 Mercer Street, Room 306
-  capacity: 93
-  url: 194m-306
-5561:
-  title: 194 Mercer Street, Room 307
-  capacity: 47
-  url: 194m-307
-5562:
-  title: 194 Mercer Street, Room 308
-  capacity: 25
-  url: 194m-308
-20195:
-  title: 19 University Place, Room 102
-  capacity: 120
-  url: 19up-102
-  type: Lecture Hall
-21550:
-  title: 19 West 4th Street, Room 101
-  capacity: 188
-  url: 19w4-101
-24527:
-  title: 19 West 4th Street, Room 102
-  capacity: 46
-  url: 19w4-102
+236:
+  title: Silver Center, Room 401
+  subtitle: Floor 4
+  capacity: 70
+  url: silv-401
 237:
   title: 25 West 4th Street, Room C-01
   capacity: 27
   url: 25w4-c-01
+238:
+  title: Silver Center, Room 402
+  subtitle: Floor 4
+  capacity: 18
+  url: silv-402
+257:
+  title: Silver Center, Room 403
+  subtitle: Floor 4
+  capacity: 33
+  url: silv-403
+258:
+  title: Silver Center, Room 404
+  subtitle: Floor 4
+  capacity: 27
+  url: silv-404
+259:
+  title: Silver Center, Room 405
+  subtitle: Floor 4
+  capacity: 108
+  url: silv-405
 260:
   title: 25 West 4th Street, Room C-02
   capacity: 28
@@ -192,102 +129,10 @@ default:
   title: 25 West 4th Street, Room C-20
   capacity: 40
   url: 25w4-c-20
-26004:
-  title: 5 Washington Place, Room 101
-  capacity: 120
-  url: 5wp-101
-29365:
-  title: Academic Resource Center, Room LL-01
-  capacity: 28
-  url: arc-ll-01
-29366:
-  title: Academic Resource Center, Room LL-02
-  capacity: 28
-  url: arc-ll-02
-29369:
-  title: Academic Resource Center, Room LL-03
-  capacity: 21
-  url: arc-ll-03
-29370:
-  title: Academic Resource Center, LL-04 (Seminar Room )
-  capacity: 25
-  url: arc-ll-04
-29371:
-  title: Academic Resource Center, LL-05 (Seminar Room )
-  capacity: 24
-  url: arc-ll-05
-2082:
-  title: Bobst Library, Room 836
-  capacity: 15
-  url: bobs-836
 1166:
   title: Bobst Library, Room 837
   capacity: 15
   url: bobs-837
-27999:
-  title: Bobst Library, Room LL1.38
-  capacity: 48
-  url: bobs-ll1-38
-28000:
-  title: Bobst Library, Room LL1.39
-  capacity: 30
-  url: bobs-ll1-39
-28001:
-  title: Bobst Library, Room LL1.40
-  capacity: 16
-  url: bobs-ll1-40
-28002:
-  title: Bobst Library, Room LL1.41
-  capacity: 24
-  url: bobs-ll1-41
-28003:
-  title: Bobst Library, Room LL1.42
-  capacity: 20
-  url: bobs-ll1-42
-28004:
-  title: Bobst Library, Room LL1.43
-  capacity: 24
-  url: bobs-ll1-43
-28006:
-  title: Bobst Library, Room LL1.45
-  capacity: 24
-  url: bobs-ll1-45
-28007:
-  title: Bobst Library, Room LL1.46
-  capacity: 20
-  url: bobs-ll1-46
-28008:
-  title: Bobst Library, Room LL1.47
-  capacity: 24
-  url: bobs-ll1-47
-28009:
-  title: Bobst Library, Room LL1.48
-  capacity: 16
-  url: bobs-ll1-48
-28010:
-  title: Bobst Library, Room LL1.49
-  capacity: 30
-  url: bobs-ll1-49
-28011:
-  title: Bobst Library, Room LL1.50
-  capacity: 48
-  url: bobs-ll1-50
-28111:
-  title: Bobst Library, Room LL1.51
-  capacity: 30
-  url: bobs-ll1-51
-2822:
-  title: Cantor Film Center, Room 101
-  capacity: 184
-  url: cant-101
-4570:
-  title: Cantor Film Center, Room 102
-  capacity: 177
-  url: cant-102
-2823:
-  title: Cantor Film Center, Room 200
-  capacity: 319
-  url: cant-200
 1213:
   title: Education Building, Room 176 (Loewe Theater)
   subtitle: Lowe Theater
@@ -306,85 +151,6 @@ default:
   title: Education Building, Room 307
   capacity: 25
   url: educ-307
-29014:
-  title: 12 Waverly Place, Room G08
-  capacity: 138
-  url: 12wv-g08
-29010:
-  title: 12 Waverly Place, Room L111
-  capacity: 22
-  type: Computer Lab
-  body: |
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
-  url: 12wv-l111
-29011:
-  title: 12 Waverly Place, Room L113
-  capacity: 20
-  url: 12wv-l113
-29012:
-  title: 12 Waverly Place, Room L114
-  capacity: 20
-  url: 12wv-l114
-29013:
-  title: 12 Waverly Place, Room L120
-  capacity: 69
-  url: 12wv-l120
-29382:
-  title: 7 East 12th Street, Room 121
-  capacity: 34
-  url: 7e12-121
-29383:
-  title: 7 East 12th Street, Room 123
-  capacity: 30
-  url: 7e12-123
-29384:
-  title: 7 East 12th Street, Room 124
-  capacity: 28
-  url: 7e12-124
-29385:
-  title: 7 East 12th Street, Room 125
-  capacity: 35
-  url: 7e12-125
-29386:
-  title: 7 East 12th Street, Room 127
-  capacity: 24
-  url: 7e12-127
-29387:
-  title: 7 East 12th Street, Room 129
-  capacity: 30
-  url: 7e12-129
-29388:
-  title: 7 East 12th Street, Room 131
-  capacity: 20
-  url: 7e12-131
-29389:
-  title: 7 East 12th Street, Room 134
-  capacity: 27
-  url: 7e12-134
-29374:
-  title: 7 East 12th Street, Room LL21
-  capacity: 28
-  url: 7e12-ll21
-29376:
-  title: 7 East 12th Street, Room LL23
-  capacity: 50
-  url: 7e12-ll23
-29377:
-  title: 7 East 12th Street, Room LL25
-  capacity: 32
-  url: 7e12-ll25
-29378:
-  title: 7 East 12th Street, Room LL27
-  capacity: 30
-  url: 7e12-ll27
-29379:
-  title: 7 East 12th Street, Room LL31
-  capacity: 24
-  url: 7e12-ll31
-29380:
-  title: 7 East 12th Street, Room LL33
-  capacity: 30
-  url: 7e12-ll33
 1233:
   title: Goddard Hall, Room B-01
   capacity: 24
@@ -405,22 +171,6 @@ default:
   title: Goddard Hall, Room B-07
   capacity: 20
   url: godd-b-07
-1350:
-  title: Meyer Hall, Room 102
-  capacity: 73
-  url: meyr-102
-1354:
-  title: Meyer Hall, Room 121
-  capacity: 185
-  url: meyr-121
-1356:
-  title: Meyer Hall, Room 122
-  capacity: 93
-  url: meyr-122
-1362:
-  title: Meyer Hall, Room 261
-  capacity: 30
-  url: meyr-261
 1247:
   title: Silver Center, Room 101A (Jurow Lecture Hall)
   capacity: 80
@@ -440,31 +190,6 @@ default:
   subtitle: Floor 2
   capacity: 61
   url: silv-208
-236:
-  title: Silver Center, Room 401
-  subtitle: Floor 4
-  capacity: 70
-  url: silv-401
-238:
-  title: Silver Center, Room 402
-  subtitle: Floor 4
-  capacity: 18
-  url: silv-402
-257:
-  title: Silver Center, Room 403
-  subtitle: Floor 4
-  capacity: 33
-  url: silv-403
-258:
-  title: Silver Center, Room 404
-  subtitle: Floor 4
-  capacity: 27
-  url: silv-404
-259:
-  title: Silver Center, Room 405
-  subtitle: Floor 4
-  capacity: 108
-  url: silv-405
 1265:
   title: Silver Center, Room 406
   subtitle: Floor 4
@@ -585,6 +310,22 @@ default:
   subtitle: Floor 6
   capacity: 33
   url: silv-621
+1350:
+  title: Meyer Hall, Room 102
+  capacity: 73
+  url: meyr-102
+1354:
+  title: Meyer Hall, Room 121
+  capacity: 185
+  url: meyr-121
+1356:
+  title: Meyer Hall, Room 122
+  capacity: 93
+  url: meyr-122
+1362:
+  title: Meyer Hall, Room 261
+  capacity: 30
+  url: meyr-261
 1373:
   title: Tisch Hall, Room LC-01
   capacity: 20
@@ -605,6 +346,166 @@ default:
   title: Tisch Hall, Room LC-05
   capacity: 20
   url: tisc-lc-05
+1398:
+  title: Waverly, Room 366
+  capacity: 39
+  url: wave-366
+1399:
+  title: Waverly, Room 367
+  capacity: 35
+  url: wave-367
+1401:
+  title: Waverly, Room 369
+  capacity: 33
+  url: wave-369
+1402:
+  title: Waverly, Room 370
+  capacity: 30
+  url: wave-370
+1404:
+  title: Waverly, Room 667
+  capacity: 37
+  url: wave-667
+1406:
+  title: Waverly, Room 668
+  capacity: 35
+  url: wave-668
+1408:
+  title: Waverly, Room 669
+  capacity: 27
+  url: wave-669
+1409:
+  title: Waverly, Room 429
+  capacity: 26
+  url: wave-429
+1412:
+  title: Waverly, Room 431
+  capacity: 33
+  url: wave-431
+1413:
+  title: Waverly, Room 433
+  capacity: 33
+  url: wave-433
+1415:
+  title: Waverly, Room 435
+  capacity: 33
+  url: wave-435
+1417:
+  title: Waverly, Room 566B
+  capacity: 20
+  url: wave-566b
+1419:
+  title: Waverly, Room 567
+  capacity: 30
+  url: wave-567
+1420:
+  title: Waverly, Room 569
+  capacity: 30
+  url: wave-569
+2082:
+  title: Bobst Library, Room 836
+  capacity: 15
+  url: bobs-836
+2093:
+  title: Waverly, Room 570
+  capacity: 24
+  url: wave-570
+2094:
+  title: Waverly, Room 566A
+  capacity: 32
+  url: wave-566a
+2822:
+  title: Cantor Film Center, Room 101
+  capacity: 184
+  url: cant-101
+2823:
+  title: Cantor Film Center, Room 200
+  capacity: 319
+  url: cant-200
+4570:
+  title: Cantor Film Center, Room 102
+  capacity: 177
+  url: cant-102
+5547:
+  title: 194 Mercer Street, Room 201
+  capacity: 24
+  url: 194m-201
+5549:
+  title: 194 Mercer Street, Room 203
+  capacity: 56
+  url: 194m-203
+5550:
+  title: 194 Mercer Street, Room 204
+  capacity: 26
+  url: 194m-204
+5551:
+  title: 194 Mercer Street, Room 205
+  capacity: 26
+  url: 194m-205
+5553:
+  title: 194 Mercer Street, Room 207
+  capacity: 24
+  url: 194m-207
+5554:
+  title: 194 Mercer Street, Room 208
+  capacity: 26
+  url: 194m-208
+5555:
+  title: 194 Mercer Street, Room 209
+  capacity: 26
+  url: 194m-209
+5556:
+  title: 194 Mercer Street, Room 210
+  capacity: 25
+  url: 194m-210
+5557:
+  title: 194 Mercer Street, Room 301
+  capacity: 25
+  url: 194m-301
+5558:
+  title: 194 Mercer Street, Room 303
+  capacity: 17
+  url: 194m-303
+5559:
+  title: 194 Mercer Street, Room 305
+  capacity: 47
+  url: 194m-305
+5560:
+  title: 194 Mercer Street, Room 306
+  capacity: 93
+  url: 194m-306
+5561:
+  title: 194 Mercer Street, Room 307
+  capacity: 47
+  url: 194m-307
+5562:
+  title: 194 Mercer Street, Room 308
+  capacity: 25
+  url: 194m-308
+6768:
+  title: 194 Mercer Street, Room 304
+  capacity: 30
+  type: Computer Lab
+  body: |
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
+  url: 194m-304
+20195:
+  title: 19 University Place, Room 102
+  capacity: 120
+  url: 19up-102
+  type: Lecture Hall
+21550:
+  title: 19 West 4th Street, Room 101
+  capacity: 188
+  url: 19w4-101
+24527:
+  title: 19 West 4th Street, Room 102
+  capacity: 46
+  url: 19w4-102
+26004:
+  title: 5 Washington Place, Room 101
+  capacity: 120
+  url: 5wp-101
 27380:
   title: Tisch Hall, Room LC-06
   capacity: 20
@@ -629,6 +530,10 @@ default:
   title: Tisch Hall, Room LC-15
   capacity: 20
   url: tisc-lc-15
+27429:
+  title: University Hall, Room C02A
+  capacity: 18
+  url: uhal-c02a
 27438:
   title: Tisch Hall, Room LC-19
   capacity: 36
@@ -636,74 +541,54 @@ default:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: tisc-lc-19
-1398:
-  title: Waverly, Room 366
-  capacity: 39
-  url: wave-366
-1399:
-  title: Waverly, Room 367
-  capacity: 35
-  url: wave-367
-1401:
-  title: Waverly, Room 369
-  capacity: 33
-  url: wave-369
-1402:
-  title: Waverly, Room 370
+27999:
+  title: Bobst Library, Room LL1.38
+  capacity: 48
+  url: bobs-ll1-38
+28000:
+  title: Bobst Library, Room LL1.39
   capacity: 30
-  url: wave-370
-1409:
-  title: Waverly, Room 429
-  capacity: 26
-  url: wave-429
-1412:
-  title: Waverly, Room 431
-  capacity: 33
-  url: wave-431
-1413:
-  title: Waverly, Room 433
-  capacity: 33
-  url: wave-433
-1415:
-  title: Waverly, Room 435
-  capacity: 33
-  url: wave-435
-2094:
-  title: Waverly, Room 566A
-  capacity: 32
-  url: wave-566a
-1417:
-  title: Waverly, Room 566B
-  capacity: 20
-  url: wave-566b
-1419:
-  title: Waverly, Room 567
-  capacity: 30
-  url: wave-567
-1420:
-  title: Waverly, Room 569
-  capacity: 30
-  url: wave-569
-2093:
-  title: Waverly, Room 570
+  url: bobs-ll1-39
+28001:
+  title: Bobst Library, Room LL1.40
+  capacity: 16
+  url: bobs-ll1-40
+28002:
+  title: Bobst Library, Room LL1.41
   capacity: 24
-  url: wave-570
-1404:
-  title: Waverly, Room 667
-  capacity: 37
-  url: wave-667
-1406:
-  title: Waverly, Room 668
-  capacity: 35
-  url: wave-668
-1408:
-  title: Waverly, Room 669
-  capacity: 27
-  url: wave-669
-27429:
-  title: University Hall, Room C02A
-  capacity: 18
-  url: uhal-c02a
+  url: bobs-ll1-41
+28003:
+  title: Bobst Library, Room LL1.42
+  capacity: 20
+  url: bobs-ll1-42
+28004:
+  title: Bobst Library, Room LL1.43
+  capacity: 24
+  url: bobs-ll1-43
+28006:
+  title: Bobst Library, Room LL1.45
+  capacity: 24
+  url: bobs-ll1-45
+28007:
+  title: Bobst Library, Room LL1.46
+  capacity: 20
+  url: bobs-ll1-46
+28008:
+  title: Bobst Library, Room LL1.47
+  capacity: 24
+  url: bobs-ll1-47
+28009:
+  title: Bobst Library, Room LL1.48
+  capacity: 16
+  url: bobs-ll1-48
+28010:
+  title: Bobst Library, Room LL1.49
+  capacity: 30
+  url: bobs-ll1-49
+28011:
+  title: Bobst Library, Room LL1.50
+  capacity: 48
+  url: bobs-ll1-50
 28022:
   title: Weinstein Hall, Room SB20
   capacity: 24
@@ -712,6 +597,121 @@ default:
   title: Weinstein Hall, Room SB35
   capacity: 16
   url: wein-sb35
+28111:
+  title: Bobst Library, Room LL1.51
+  capacity: 30
+  url: bobs-ll1-51
+29010:
+  title: 12 Waverly Place, Room L111
+  capacity: 22
+  type: Computer Lab
+  body: |
+    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
+  url: 12wv-l111
+29011:
+  title: 12 Waverly Place, Room L113
+  capacity: 20
+  url: 12wv-l113
+29012:
+  title: 12 Waverly Place, Room L114
+  capacity: 20
+  url: 12wv-l114
+29013:
+  title: 12 Waverly Place, Room L120
+  capacity: 69
+  url: 12wv-l120
+29014:
+  title: 12 Waverly Place, Room G08
+  capacity: 138
+  url: 12wv-g08
+29365:
+  title: Academic Resource Center, Room LL-01
+  capacity: 28
+  url: arc-ll-01
+29366:
+  title: Academic Resource Center, Room LL-02
+  capacity: 28
+  url: arc-ll-02
+29369:
+  title: Academic Resource Center, Room LL-03
+  capacity: 21
+  url: arc-ll-03
+29370:
+  title: Academic Resource Center, LL-04 (Seminar Room )
+  capacity: 25
+  url: arc-ll-04
+29371:
+  title: Academic Resource Center, LL-05 (Seminar Room )
+  capacity: 24
+  url: arc-ll-05
+29374:
+  title: 7 East 12th Street, Room LL21
+  capacity: 28
+  url: 7e12-ll21
+29376:
+  title: 7 East 12th Street, Room LL23
+  capacity: 50
+  url: 7e12-ll23
+29377:
+  title: 7 East 12th Street, Room LL25
+  capacity: 32
+  url: 7e12-ll25
+29378:
+  title: 7 East 12th Street, Room LL27
+  capacity: 30
+  url: 7e12-ll27
+29379:
+  title: 7 East 12th Street, Room LL31
+  capacity: 24
+  url: 7e12-ll31
+29380:
+  title: 7 East 12th Street, Room LL33
+  capacity: 30
+  url: 7e12-ll33
+29382:
+  title: 7 East 12th Street, Room 121
+  capacity: 34
+  url: 7e12-121
+29383:
+  title: 7 East 12th Street, Room 123
+  capacity: 30
+  url: 7e12-123
+29384:
+  title: 7 East 12th Street, Room 124
+  capacity: 28
+  url: 7e12-124
+29385:
+  title: 7 East 12th Street, Room 125
+  capacity: 35
+  url: 7e12-125
+29386:
+  title: 7 East 12th Street, Room 127
+  capacity: 24
+  url: 7e12-127
+29387:
+  title: 7 East 12th Street, Room 129
+  capacity: 30
+  url: 7e12-129
+29388:
+  title: 7 East 12th Street, Room 131
+  capacity: 20
+  url: 7e12-131
+29389:
+  title: 7 East 12th Street, Room 134
+  capacity: 27
+  url: 7e12-134
+29685:
+  title: GCASL, Room C95
+  capacity: 257
+  url: gcasl-c95
+29686:
+  title: GCASL, Room 261
+  capacity: 36
+  url: gcasl-261
+29687:
+  title: GCASL, Room 265
+  capacity: 32
+  url: gcasl-265
 29688:
   title: GCASL, Room 274
   capacity: 18
@@ -720,14 +720,14 @@ default:
   title: GCASL, Room 275
   capacity: 40
   url: gcasl-275
+29690:
+  title: GCASL, Room 269
+  capacity: 40
+  url: gcasl-269
 29691:
   title: GCASL, Room 279
   capacity: 48
   url: gcasl-279
-29707:
-  title: GCASL, Room 288
-  capacity: 30
-  url: gcasl-288
 29693:
   title: GCASL, Room 361
   capacity: 36
@@ -736,10 +736,6 @@ default:
   title: GCASL, Room 365
   capacity: 32
   url: gcasl-365
-29708:
-  title: GCASL, Room 369
-  capacity: 40
-  url: gcasl-369
 29695:
   title: GCASL, Room 374
   capacity: 18
@@ -768,14 +764,14 @@ default:
   title: GCASL, Room 475
   capacity: 32
   url: gcasl-475
-29685:
-  title: GCASL, Room C95
-  capacity: 257
-  url: gcasl-c95
-29773:
-  title: GCASL, Room 384
-  capacity: 22
-  url: gcasl-384
+29707:
+  title: GCASL, Room 288
+  capacity: 30
+  url: gcasl-288
+29708:
+  title: GCASL, Room 369
+  capacity: 40
+  url: gcasl-369
 29772:
   title: GCASL, Room 284
   capacity: 22
@@ -783,6 +779,10 @@ default:
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: gcasl-284
+29773:
+  title: GCASL, Room 384
+  capacity: 22
+  url: gcasl-384
 32048:
   title: Rubin Hall, Room 101
   capacity: 15
