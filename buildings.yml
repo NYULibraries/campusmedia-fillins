@@ -8,14 +8,14 @@
   address: 111 2nd Avenue, New York, NY
   location: 111 2nd Avenue
 412:
-  display_building_address: false
+  display_location: false
   address: 19 University Place, New York, NY
   location: 19 University Place
   help:
     text: Silver Center Office, 100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
 792:
-  display_building_address: false
+  display_location: false
   address: 194 Mercer Street, New York, NY
   location: 194 Mercer
   help:
@@ -23,7 +23,7 @@
     phone: +1 212 992 8563
     email: campusmedia@nyu.edu
 2055:
-  display_building_address: false
+  display_location: false
   address: 19 West 4th Street, New York, NY
   location: 19 West 4th Street
   help:
@@ -31,7 +31,7 @@
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
 96:
-  display_building_address: false
+  display_location: false
   address: 25 West 4th Street, New York, NY
   location: 25 West 4th Street
   help:
@@ -39,7 +39,7 @@
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
 1938:
-  display_building_address: false
+  display_location: false
   address: 5 Washington Place, New York, NY
   location: 5 Washington Place
   help:
@@ -74,7 +74,7 @@
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
 2667:
-  display_building_address: false
+  display_location: false
   address: 7 East 12th Street, New York, NY
   location: 7 East 12th Street (NYU SPS)
   help:
@@ -159,7 +159,7 @@
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
 2924:
-  display_building_address: false
+  display_location: false
   address: 60 Fifth Avenue, New York, NY
   location: 60 Fifth Avenue
   help:
