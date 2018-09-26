@@ -879,3 +879,11 @@ default:
   title: 60 Fifth Avenue, Room C14
   capacity: 31
   url: 60fa-c14
+5548:
+  title: 194 Mercer Street, Room 202
+  capacity: 29
+  url: 194m-202
+5552:
+  title: 194 Mercer Street, Room 206
+  capacity: 26
+  url: 194m-206
