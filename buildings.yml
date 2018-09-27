@@ -12,43 +12,60 @@
   address: 19 University Place, New York, NY 10003
   location: 19 University Place
   help:
-    text:  |
+    text: |
       Silver Center Office
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
+  keywords:
+    - 19UP
 792:
   display_location: false
   address: 194 Mercer Street, New York, NY 10012
   location: 194 Mercer Street
   help:
     text: | 
-      Mercer Street Office, 194 Mercer Street, Room 302
-      phone: +1 212 992 8563
+      Mercer Street Office
+      194 Mercer Street, Room 302
+    phone: +1 212 992 8563
     email: campusmedia@nyu.edu
+  keywords:
+    - 194M
 2055:
   display_location: false
   address: 19 West 4th Street, New York, NY 10014
   location: 19 West 4th Street
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - 19W4
 96:
   display_location: false
   address: 25 West 4th Street, New York, NY 10012
   location: 25 West 4th Street
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - 25W4
 1938:
   display_location: false
   address: 5 Washington Place, New York, NY 10003
   location: 5 Washington Place
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - 5WP
 206:
   publish: false
   address: 715 Broadway, New York, NY
@@ -57,9 +74,13 @@
   address: 70 Washington Square South, New York, NY 10012
   location: Bobst Library (BOBS)
   help:
-    text: Bobst Library Office, 70 Washington Square South, Room LL1-44a
+    text: |
+      Bobst Library Office
+      70 Washington Square South, Room LL144a
     phone: +1 212 992 7306
     email: campusmedia@nyu.edu
+  keywords:
+    - BOBS
 211:
   published: false
   address: 239 Greene Street, New York, NY
@@ -69,34 +90,56 @@
   location: Education Building (EDUC)
   help:
     text: This classroom is not supported by Campus Media.
+  keywords:
+    - EDUC
 2666:
   address: 18 Washington Place, New York, NY 10003
   location: Academic Resource Center (ARC)
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - ARC
 2667:
   display_location: false
   address: 7 East 12th Street, New York, NY 10003
   location: 7 East 12th Street (NYU SPS)
   help:
-    text: This classroom is not supported by Campus Media. For assistance, please contact SPS at 212-998-7232 or av.7e12@nyu.edu
+    text: |
+      This classroom is not supported by Campus Media. 
+      **For assistance, please contact SPS**
+    phone: +1 212 998 7232
+    email: av.7e1@nyu.edu
+  keywords:
+    - 7E12
 2677:
   address: 238 Thompson Street, New York, NY 10012
   location: Global Center for Academic & Spiritual Life (GCASL)
   help:
-    text: Global Center for Academic & Spiritual Life (GCASL) Office, 238 Thompson Street, Room 364
+    text: |
+      Global Center for Academic & Spiritual Life (GCASL) Office
+      238 Thompson Street, Room 364
     phone: + 1 212 998 4400
     email: campusmedia@nyu.edu
+  keywords:
+    - GCASL
 214:
   display_location: false
   address: 45 West 4th Street, New York, NY 10012
   location: 45 West 4th Street
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - 45W4
+    - Goddard
+    - GODD
 220:
   published: false
   address: 246 Greene Street, New York, NY
@@ -109,74 +152,113 @@
   address: 4 Washington Place, New York, NY 10003
   location: Meyer Hall (MEYR)
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - MEYR
 223:
   publish: false
   address: 82 Washington Square East, New York, NY
   location: Pless Building
 94:
   address: 100 Washington Square East, New York, NY 10003
-  location: Silver Center for Arts & Science
+  location: Silver Center for Arts & Science (SILV)
+  subtitle: Floor 4
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - SILV
 198:
   address: 100 Washington Square East, New York, NY 10003
-  location: Silver Center for Arts & Science
+  location: Silver Center for Arts & Science (SILV)
+  subtitle: Floor 5
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - SILV
 199:
   address: 100 Washington Square East, New York, NY 10003
-  location: Silver Center for Arts & Science
+  location: Silver Center for Arts & Science (SILV)
+  subtitle: FLoor 6
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - SILV
 202:
   published: false
   address: 100 Washington Square East, New York, NY 10003
-  location: Silver Center for Arts & Science
+  location: Silver Center for Arts & Science (SILV)
 205:
   address: 40 West 4th Street, New York, NY 10012
   location: Tisch Hall (TISC)
   help:
-    text: Tisch Hall Office, 40 West 4th Street, Room LC-30
+    text: |
+      Tisch Hall Office
+      40 West 4th Street, Room LC-30
     phone: +1 212 998 7299
     email: campusmedia@nyu.edu
+  keywords:
+    - TISC
 194:
   address: 24 Waverly Place, New York, NY 10003
   location: Waverly Building (WAVE)
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - WAVE
 2638:
   address: 12 Waverly Place, New York, NY 10003
   location: 12 Waverly Place (Genomics)
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - 12WV
 2924:
   display_location: false
   address: 60 Fifth Avenue, New York, NY 10011
-  location: 60 Fifth Avenue (60FA)
+  location: 60 Fifth Avenue
   help:
-    text: Fifth Avenue Office, 60 5th Avenue, Room 200
+    text: |
+      Fifth Avenue Office
+      60 Fifth Avenue, Room 200
     phone: +1 212 992 7300
     email: campusmedia@nyu.edu
+  keywords:
+    - 60FA
 2853:
   address: 35 Fifth Avenue, New York, NY 10003
   location: Rubin Hall (RUBN)
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - RUBN
 222:
   address: 1 Washington Square North, New York, NY
   location: 1 Washington Square North
@@ -204,41 +286,66 @@
   address: 726 Broadway, New York, NY
   location: 726 Broadway
 2615:
-  address: 36 East 8th Street
-  location: Cantor Film Center
+  address: 36 East 8th Street, New York, NY 10003
+  location: Cantor Film Center (CANT)
+  help:
+    text: |
+      This classroom is not supported by Campus Media.
+      For assistance, please contact Cantor Media Support
+    phone: +1 212 998 4104
+  keywords:
+    - CANT
 203:
   published: false
   address: 100 Washington Square East, New York, NY
   location: 100 Washington Square East
 2947:
-  address: 100 Washington Square East
-  location: Silver Center
+  address: 100 Washington Square East, New York, NY 10003
+  location: Silver Center for Arts & Science (SILV)
+  subtitle: Floor 1
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - SILV
 2847:
-  address: 100 Washington Square East
-  location: Silver Center
+  address: 100 Washington Square East, New York, NY 10003
+  location: Silver Center for Arts & Science (SILV)
+  subtitle: Floor 2
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - SILV
 209:
   published: false
   address:
   location: Warren Weaver Hall
 2559:
-  address: 110 East 14 Street
-  location: University Hall
+  address: 110 East 14th Street, New York, NY 10003
+  location: University Hall (UHAL)
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - UHAL
 2590:
-  address: 11 University Place, New York, NY
-  location: Weinstein Hall
+  address: 11 University Place, New York, NY 10003
+  location: Weinstein Residence Hall (WEIN)
   help:
-    text: Silver Center Office, 100 Washington Square East, Room LL7A
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
+  keywords:
+    - WEIN
