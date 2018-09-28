@@ -1,10 +1,10 @@
 ---
 2114:
-  publish: false
+  published: false
   address: 110 5th Avenue, New York, NY
   location: 110 5th Avenue
 244:
-  publish: false
+  published: false
   address: 111 2nd Avenue, New York, NY
   location: 111 2nd Avenue
 412:
@@ -72,7 +72,7 @@
   keywords:
     - 5WP
 206:
-  publish: false
+  published: false
   address: 715 Broadway, New York, NY
   location: Gallatin 1 Wash Pl
 210:
@@ -168,7 +168,7 @@
   keywords:
     - MEYR
 223:
-  publish: false
+  published: false
   address: 82 Washington Square East, New York, NY
   location: Pless Building
 94:
@@ -362,7 +362,7 @@
   help:
     text: |
       Silver Center Office
-      
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
