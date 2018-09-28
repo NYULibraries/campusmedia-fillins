@@ -50,7 +50,9 @@ Similarly, data in YAML files is nested to indicate a hierarcy.
 body: |
   I can write arbitrary text here:
   Including [formatted markdown](https://guides.github.com/features/mastering-markdown/)!
+
   I can even write multiple lines.
+
   # With headers!
   * But I always make sure each subsequent line is indented!
   * YAML understands when my text ends when it sees an unindented line.
