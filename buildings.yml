@@ -13,7 +13,8 @@
   location: 19 University Place
   help:
     text: |
-      Silver Center Office,
+      Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
   keywords:
@@ -23,7 +24,7 @@
   address: 194 Mercer Street, New York, NY 10012
   location: 194 Mercer Street
   help:
-    text: | 
+    text: |
       Mercer Street Office
 
       194 Mercer Street, Room 302
@@ -38,6 +39,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -50,6 +52,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -62,6 +65,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -77,6 +81,7 @@
   help:
     text: |
       Bobst Library Office
+
       70 Washington Square South, Room LL144a
     phone: +1 212 992 7306
     email: campusmedia@nyu.edu
@@ -110,7 +115,8 @@
   location: 7 East 12th Street (NYU SPS)
   help:
     text: |
-      This classroom is not supported by Campus Media. 
+      This classroom is not supported by Campus Media.
+
       **For assistance, please contact SPS**
     phone: +1 212 998 7232
     email: av.7e1@nyu.edu
@@ -134,6 +140,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -171,6 +178,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -195,6 +203,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -210,6 +219,7 @@
   help:
     text: |
       Tisch Hall Office
+
       40 West 4th Street, Room LC-30
     phone: +1 212 998 7299
     email: campusmedia@nyu.edu
@@ -221,6 +231,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -232,6 +243,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -244,6 +256,7 @@
   help:
     text: |
       Fifth Avenue Office
+
       60 Fifth Avenue, Room 200
     phone: +1 212 992 7300
     email: campusmedia@nyu.edu
@@ -255,6 +268,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -292,6 +306,7 @@
   help:
     text: |
       This classroom is not supported by Campus Media.
+
       For assistance, please contact Cantor Media Support
     phone: +1 212 998 4104
   keywords:
@@ -319,6 +334,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -334,6 +350,7 @@
   help:
     text: |
       Silver Center Office
+
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
@@ -345,6 +362,7 @@
   help:
     text: |
       Silver Center Office
+      
       100 Washington Square East, Room LL7A
     phone: +1 212 998 2655
     email: campusmedia@nyu.edu
