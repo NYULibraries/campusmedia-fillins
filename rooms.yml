@@ -3,18 +3,18 @@ default:
   published: true
   display_location: true
   links:
-    Search Buildings and Rooms: "/services/campus-media/classrooms/"
+    Search Buildings and Rooms: /services/campus-media/classrooms/
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_8BQofJXUx8q2RFz
-    Campus Media Services: "/services/campus-media/"
+    Campus Media Services: /services/campus-media/
   policies:
-    Classroom Media Policies: "/services/campus-media/classroom-services/policies/"
+    Classroom Media Policies: /services/campus-media/classroom-services/policies/
   buttons:
     Reserve Classroom Equipment: https://nyu.qualtrics.com/jfe/form/SV_6MdlzUJ2iVPcTM9
   type: Classroom
   help:
-    text: Our main office is located in the Silver Center for Arts and Science at
-      100 Washington Sq. East, LL7A, New York, NY 10003
-    phone: "+1 212 998 2655"
+    text: |
+      Our main office is located in the Silver Center for Arts and Science at 100 Washington Sq. East, LL7A, New York, NY 10003
+    phone: +1 212 998 2655
     email: campusmedia-help@nyu.edu
   libanswers:
     topic_ids: 46490
@@ -154,27 +154,27 @@ default:
 1233:
   title: Goddard Hall, Room B-01
   capacity: 24
-  url: godd-b-01
+  url: 45w4-b1
 1234:
   title: Goddard Hall, Room B-02
   capacity: 35
-  url: godd-b-02
+  url: 45w4-b2
 1235:
   title: Goddard Hall, Room B-04
   capacity: 20
-  url: godd-b-04
+  url: 45w4-b4
 1237:
   title: Goddard Hall, Room B-06
   capacity: 35
-  url: godd-b-06
+  url: 45w4-b6
 1239:
   title: Goddard Hall, Room B-07
   capacity: 20
-  url: godd-b-07
+  url: 45w4-b7
 1247:
   title: Silver Center, Room 101A (Jurow Lecture Hall)
   capacity: 80
-  url: silv-101a-jurow
+  url: silv-101a
 1255:
   title: Silver Center, Room 206
   subtitle: Floor 2
@@ -329,23 +329,23 @@ default:
 1373:
   title: Tisch Hall, Room LC-01
   capacity: 20
-  url: tisc-lc-01
+  url: tisc-lc1
 1374:
   title: Tisch Hall, Room LC-02
   capacity: 20
-  url: tisc-lc-02
+  url: tisc-lc2
 1375:
   title: Tisch Hall, Room LC-03
   capacity: 20
-  url: tisc-lc-03
+  url: tisc-lc3
 1376:
   title: Tisch Hall, Room LC-04
   capacity: 20
-  url: tisc-lc-04
+  url: tisc-lc4
 1377:
   title: Tisch Hall, Room LC-05
   capacity: 20
-  url: tisc-lc-05
+  url: tisc-lc5
 1398:
   title: Waverly, Room 366
   capacity: 39
@@ -486,6 +486,7 @@ default:
   title: 194 Mercer Street, Room 304
   capacity: 30
   type: Computer Lab
+  image: ''
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: 194m-304
@@ -509,27 +510,27 @@ default:
 27380:
   title: Tisch Hall, Room LC-06
   capacity: 20
-  url: tisc-lc-06
+  url: tisc-lc6
 27381:
   title: Tisch Hall, Room LC-07
   capacity: 20
-  url: tisc-lc-07
+  url: tisc-lc7
 27382:
   title: Tisch Hall, Room LC-09
   capacity: 45
-  url: tisc-lc-09
+  url: tisc-lc9
 27383:
   title: Tisch Hall, Room LC-11
   capacity: 50
-  url: tisc-lc-11
+  url: tisc-lc11
 27384:
   title: Tisch Hall, Room LC-13
   capacity: 20
-  url: tisc-lc-13
+  url: tisc-lc13
 27385:
   title: Tisch Hall, Room LC-15
   capacity: 20
-  url: tisc-lc-15
+  url: tisc-lc15
 27429:
   title: University Hall, Room C02A
   capacity: 18
@@ -540,55 +541,55 @@ default:
   type: Computer Lab
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
-  url: tisc-lc-19
+  url: tisc-lc19
 27999:
   title: Bobst Library, Room LL1.38
   capacity: 48
-  url: bobs-ll1-38
+  url: bobs-ll138
 28000:
   title: Bobst Library, Room LL1.39
   capacity: 30
-  url: bobs-ll1-39
+  url: bobs-ll139
 28001:
   title: Bobst Library, Room LL1.40
   capacity: 16
-  url: bobs-ll1-40
+  url: bobs-ll140
 28002:
   title: Bobst Library, Room LL1.41
   capacity: 24
-  url: bobs-ll1-41
+  url: bobs-ll141
 28003:
   title: Bobst Library, Room LL1.42
   capacity: 20
-  url: bobs-ll1-42
+  url: bobs-ll142
 28004:
   title: Bobst Library, Room LL1.43
   capacity: 24
-  url: bobs-ll1-43
+  url: bobs-ll143
 28006:
   title: Bobst Library, Room LL1.45
   capacity: 24
-  url: bobs-ll1-45
+  url: bobs-ll145
 28007:
   title: Bobst Library, Room LL1.46
   capacity: 20
-  url: bobs-ll1-46
+  url: bobs-ll146
 28008:
   title: Bobst Library, Room LL1.47
   capacity: 24
-  url: bobs-ll1-47
+  url: bobs-ll147
 28009:
   title: Bobst Library, Room LL1.48
   capacity: 16
-  url: bobs-ll1-48
+  url: bobs-ll148
 28010:
   title: Bobst Library, Room LL1.49
   capacity: 30
-  url: bobs-ll1-49
+  url: bobs-ll149
 28011:
   title: Bobst Library, Room LL1.50
   capacity: 48
-  url: bobs-ll1-50
+  url: bobs-ll150
 28022:
   title: Weinstein Hall, Room SB20
   capacity: 24
@@ -600,7 +601,7 @@ default:
 28111:
   title: Bobst Library, Room LL1.51
   capacity: 30
-  url: bobs-ll1-51
+  url: bobs-ll151
 29010:
   title: 12 Waverly Place, Room L111
   capacity: 22
@@ -627,23 +628,23 @@ default:
 29365:
   title: Academic Resource Center, Room LL-01
   capacity: 28
-  url: arc-ll-01
+  url: arc-ll01
 29366:
   title: Academic Resource Center, Room LL-02
   capacity: 28
-  url: arc-ll-02
+  url: arc-ll02
 29369:
   title: Academic Resource Center, Room LL-03
   capacity: 21
-  url: arc-ll-03
+  url: arc-ll03
 29370:
   title: Academic Resource Center, LL-04 (Seminar Room )
   capacity: 25
-  url: arc-ll-04
+  url: arc-ll04
 29371:
   title: Academic Resource Center, LL-05 (Seminar Room )
   capacity: 24
-  url: arc-ll-05
+  url: arc-ll05
 29374:
   title: 7 East 12th Street, Room LL21
   capacity: 28
