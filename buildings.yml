@@ -25,8 +25,7 @@
   location: 194 Mercer Street
   help:
     text: |
-      Mercer Street Office
-
+      Mercer Street Office <br>
       194 Mercer Street, Room 302
     phone: +1 212 992 8563
     email: campusmedia@nyu.edu
