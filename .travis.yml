@@ -7,3 +7,7 @@ install:
   - pip install yamllint
 script:
   - yamllint -c linter/rules.yml .
+notifications:
+  slack:
+    rooms:
+      - libtechnyu:LlugsWft1yLn0vVSO052wfu3#campusmedia
