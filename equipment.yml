@@ -133,3 +133,15 @@ CM-Installed AirMedia:
   label: AirMedia
   type: technology
   description:
+CM-Installed Adapter Ring:
+  label: Adapter Ring
+  type: feature
+  description:
+CM-Installed Wireless Presenter:
+  label: Wireless Presenter
+  type: feature
+  description:
+CM-Installed ADA Table:
+  label: ADA Table
+  type: feature
+  description:
