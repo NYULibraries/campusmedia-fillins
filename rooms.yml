@@ -4,12 +4,12 @@ default:
   display_location: true
   links:
     Search Buildings and Rooms: /services/campus-media/classrooms/
-    Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_8BQofJXUx8q2RFz
+    Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_6M3gS7xyGFlHEnH
     Campus Media Services: /services/campus-media/
   policies:
     Classroom Media Policies: /services/campus-media/classroom-services/policies/
   buttons:
-    Reserve Classroom Equipment: https://nyu.qualtrics.com/jfe/form/SV_6MdlzUJ2iVPcTM9
+    Reserve Classroom Equipment: https://nyu.qualtrics.com/jfe/form/SV_3WulcM69ZsPPxdP
   type: Classroom
   help:
     text: |
