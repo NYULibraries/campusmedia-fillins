@@ -52,6 +52,12 @@ default:
   title: Silver Center, Room 405
   subtitle: Floor 4
   capacity: 108
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: silv-405
 260:
   title: 25 West 4th Street, Room C-02
@@ -302,6 +308,12 @@ default:
   title: Silver Center, Room 520
   subtitle: Floor 5
   capacity: 90
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: silv-520
 1307:
   title: Silver Center, Room 620
@@ -320,10 +332,22 @@ default:
 1354:
   title: Meyer Hall, Room 121
   capacity: 185
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: meyr-121
 1356:
   title: Meyer Hall, Room 122
   capacity: 93
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: meyr-122
 1362:
   title: Meyer Hall, Room 261
@@ -761,6 +785,12 @@ default:
 29685:
   title: GCASL, Room C95
   capacity: 257
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: gcasl-c95
 29686:
   title: GCASL, Room 261
