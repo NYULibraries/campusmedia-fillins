@@ -20,7 +20,10 @@ default:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body: |
-    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external }
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
 236:
   title: Silver Center, Room 401
   subtitle: Floor 4
