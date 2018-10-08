@@ -143,7 +143,7 @@ default:
   capacity: 15
   url: bobs-837
 1213:
-  title: Education Building, Room 176 (Loewe Theater)
+  title: Education Building, Room 176 (Lowe Theater)
   subtitle: Lowe Theater
   capacity: 330
   type: Theater
@@ -161,23 +161,23 @@ default:
   capacity: 25
   url: educ-307
 1233:
-  title: Goddard Hall, Room B-01
+  title: 45 West 4th Street, Room B01
   capacity: 24
   url: 45w4-b1
 1234:
-  title: Goddard Hall, Room B-02
+  title: 45 West 4th Street, Room B02
   capacity: 35
   url: 45w4-b2
 1235:
-  title: Goddard Hall, Room B-04
+  title: 45 West 4th Street, Room B04
   capacity: 20
   url: 45w4-b4
 1237:
-  title: Goddard Hall, Room B-06
+  title: 45 West 4th Street, Room B06
   capacity: 35
   url: 45w4-b6
 1239:
-  title: Goddard Hall, Room B-07
+  title: 45 West 4th Street, Room B07
   capacity: 20
   url: 45w4-b7
 1247:
@@ -354,79 +354,79 @@ default:
   capacity: 30
   url: meyr-261
 1373:
-  title: Tisch Hall, Room LC-01
+  title: Tisch Hall, Room LC1
   capacity: 20
   url: tisc-lc1
 1374:
-  title: Tisch Hall, Room LC-02
+  title: Tisch Hall, Room LC2
   capacity: 20
   url: tisc-lc2
 1375:
-  title: Tisch Hall, Room LC-03
+  title: Tisch Hall, Room LC3
   capacity: 20
   url: tisc-lc3
 1376:
-  title: Tisch Hall, Room LC-04
+  title: Tisch Hall, Room LC4
   capacity: 20
   url: tisc-lc4
 1377:
-  title: Tisch Hall, Room LC-05
+  title: Tisch Hall, Room LC5
   capacity: 20
   url: tisc-lc5
 1398:
-  title: Waverly, Room 366
+  title: Waverly Hall, Room 366
   capacity: 39
   url: wave-366
 1399:
-  title: Waverly, Room 367
+  title: Waverly Hall, Room 367
   capacity: 35
   url: wave-367
 1401:
-  title: Waverly, Room 369
+  title: Waverly Hall, Room 369
   capacity: 33
   url: wave-369
 1402:
-  title: Waverly, Room 370
+  title: Waverly Hall, Room 370
   capacity: 30
   url: wave-370
 1404:
-  title: Waverly, Room 667
+  title: Waverly Hall, Room 667
   capacity: 37
   url: wave-667
 1406:
-  title: Waverly, Room 668
+  title: Waverly Hall, Room 668
   capacity: 35
   url: wave-668
 1408:
-  title: Waverly, Room 669
+  title: Waverly Hall, Room 669
   capacity: 27
   url: wave-669
 1409:
-  title: Waverly, Room 429
+  title: Waverly Hall, Room 429
   capacity: 26
   url: wave-429
 1412:
-  title: Waverly, Room 431
+  title: Waverly Hall, Room 431
   capacity: 33
   url: wave-431
 1413:
-  title: Waverly, Room 433
+  title: Waverly Hall, Room 433
   capacity: 33
   url: wave-433
 1415:
-  title: Waverly, Room 435
+  title: Waverly Hall, Room 435
   capacity: 33
   url: wave-435
 1417:
-  title: Waverly, Room 566B
+  title: Waverly Hall, Room 566B
   capacity: 20
   url: wave-566b
 1419:
-  title: Waverly, Room 567
+  title: Waverly Hall, Room 567
   capacity: 30
   url: wave-567
 1420:
-  title: Waverly, Room 569
+  title: Waverly Hall, Room 569
   capacity: 30
   url: wave-569
 2082:
@@ -434,11 +434,11 @@ default:
   capacity: 15
   url: bobs-836
 2093:
-  title: Waverly, Room 570
+  title: Waverly Hall, Room 570
   capacity: 24
   url: wave-570
 2094:
-  title: Waverly, Room 566A
+  title: Waverly Hall, Room 566A
   capacity: 32
   url: wave-566a
 2822:
@@ -535,27 +535,27 @@ default:
   capacity: 120
   url: 5wp-101
 27380:
-  title: Tisch Hall, Room LC-06
+  title: Tisch Hall, Room LC6
   capacity: 20
   url: tisc-lc6
 27381:
-  title: Tisch Hall, Room LC-07
+  title: Tisch Hall, Room LC7
   capacity: 20
   url: tisc-lc7
 27382:
-  title: Tisch Hall, Room LC-09
+  title: Tisch Hall, Room LC9
   capacity: 45
   url: tisc-lc9
 27383:
-  title: Tisch Hall, Room LC-11
+  title: Tisch Hall, Room LC11
   capacity: 50
   url: tisc-lc11
 27384:
-  title: Tisch Hall, Room LC-13
+  title: Tisch Hall, Room LC13
   capacity: 20
   url: tisc-lc13
 27385:
-  title: Tisch Hall, Room LC-15
+  title: Tisch Hall, Room LC15
   capacity: 20
   url: tisc-lc15
 27429:
@@ -563,14 +563,14 @@ default:
   capacity: 18
   url: uhal-c02a
 27438:
-  title: Tisch Hall, Room LC-19
+  title: Tisch Hall, Room LC19
   capacity: 36
   type: Computer Lab
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: tisc-lc19
 27999:
-  title: Bobst Library, Room LL1.38
+  title: Bobst Library, Room LL138
   capacity: 48
   body: |
     ## Software
@@ -580,15 +580,15 @@ default:
     [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: bobs-ll138
 28000:
-  title: Bobst Library, Room LL1.39
+  title: Bobst Library, Room LL139
   capacity: 30
   url: bobs-ll139
 28001:
-  title: Bobst Library, Room LL1.40
+  title: Bobst Library, Room LL140
   capacity: 16
   url: bobs-ll140
 28002:
-  title: Bobst Library, Room LL1.41
+  title: Bobst Library, Room LL141
   capacity: 24
   body: |
     ## Software
@@ -598,11 +598,11 @@ default:
     [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: bobs-ll141
 28003:
-  title: Bobst Library, Room LL1.42
+  title: Bobst Library, Room LL142
   capacity: 20
   url: bobs-ll142
 28004:
-  title: Bobst Library, Room LL1.43
+  title: Bobst Library, Room LL143
   capacity: 24
   body: |
     ## Software
@@ -612,27 +612,27 @@ default:
     [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: bobs-ll143
 28006:
-  title: Bobst Library, Room LL1.45
+  title: Bobst Library, Room LL145
   capacity: 24
   url: bobs-ll145
 28007:
-  title: Bobst Library, Room LL1.46
+  title: Bobst Library, Room LL146
   capacity: 20
   url: bobs-ll146
 28008:
-  title: Bobst Library, Room LL1.47
+  title: Bobst Library, Room LL147
   capacity: 24
   url: bobs-ll147
 28009:
-  title: Bobst Library, Room LL1.48
+  title: Bobst Library, Room LL148
   capacity: 16
   url: bobs-ll148
 28010:
-  title: Bobst Library, Room LL1.49
+  title: Bobst Library, Room LL149
   capacity: 30
   url: bobs-ll149
 28011:
-  title: Bobst Library, Room LL1.50
+  title: Bobst Library, Room LL150
   capacity: 48
   body: |
     ## Software
@@ -642,15 +642,15 @@ default:
     [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: bobs-ll150
 28022:
-  title: Weinstein Hall, Room SB20
+  title: Weinstein Residence Hall, Room SB20
   capacity: 24
   url: wein-sb20
 28023:
-  title: Weinstein Hall, Room SB35
+  title: Weinstein Residence Hall, Room SB35
   capacity: 16
   url: wein-sb35
 28111:
-  title: Bobst Library, Room LL1.51
+  title: Bobst Library, Room LL151
   capacity: 30
   url: bobs-ll151
 29010:
@@ -701,19 +701,19 @@ default:
     [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: 12wv-g08
 29365:
-  title: Academic Resource Center, Room LL-01
+  title: Academic Resource Center, Room LL01
   capacity: 28
   url: arc-ll01
 29366:
-  title: Academic Resource Center, Room LL-02
+  title: Academic Resource Center, Room LL02
   capacity: 28
   url: arc-ll02
 29369:
-  title: Academic Resource Center, Room LL-03
+  title: Academic Resource Center, Room LL03
   capacity: 21
   url: arc-ll03
 29370:
-  title: Academic Resource Center, LL-04 (Seminar Room )
+  title: Academic Resource Center, Room LL04
   capacity: 25
   body: |
     ## Software
@@ -723,7 +723,7 @@ default:
     [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: arc-ll04
 29371:
-  title: Academic Resource Center, LL-05 (Seminar Room )
+  title: Academic Resource Center, Room LL05
   capacity: 24
   url: arc-ll05
 29374:
