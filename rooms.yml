@@ -548,6 +548,12 @@ default:
 27999:
   title: Bobst Library, Room LL1.38
   capacity: 48
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: bobs-ll138
 28000:
   title: Bobst Library, Room LL1.39
@@ -560,6 +566,12 @@ default:
 28002:
   title: Bobst Library, Room LL1.41
   capacity: 24
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: bobs-ll141
 28003:
   title: Bobst Library, Room LL1.42
@@ -568,6 +580,12 @@ default:
 28004:
   title: Bobst Library, Room LL1.43
   capacity: 24
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: bobs-ll143
 28006:
   title: Bobst Library, Room LL1.45
@@ -592,6 +610,12 @@ default:
 28011:
   title: Bobst Library, Room LL1.50
   capacity: 48
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: bobs-ll150
 28022:
   title: Weinstein Hall, Room SB20
@@ -615,18 +639,42 @@ default:
 29011:
   title: 12 Waverly Place, Room L113
   capacity: 20
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: 12wv-l113
 29012:
   title: 12 Waverly Place, Room L114
   capacity: 20
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: 12wv-l114
 29013:
   title: 12 Waverly Place, Room L120
   capacity: 69
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: 12wv-l120
 29014:
   title: 12 Waverly Place, Room G08
   capacity: 138
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: 12wv-g08
 29365:
   title: Academic Resource Center, Room LL-01
@@ -643,6 +691,12 @@ default:
 29370:
   title: Academic Resource Center, LL-04 (Seminar Room )
   capacity: 25
+  body: |
+    ## Software
+    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
+    ## Guides
+    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
+    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
   url: arc-ll04
 29371:
   title: Academic Resource Center, LL-05 (Seminar Room )
