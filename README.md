@@ -3,10 +3,45 @@
 # campusmedia-fillins
 Campus Media Reference Configuration
 
-**Inheritence hierarchy**
+## Inheritence Hierarchy
   * [Rooms](https://github.com/NYULibraries/campusmedia-fillins/blob/master/rooms.yml) > [Buildings](https://github.com/NYULibraries/campusmedia-fillins/blob/master/buildings.yml) > [Default](https://github.com/NYULibraries/campusmedia-fillins/blob/master/rooms.yml#L2)
   
 First, default values are applied to all rooms. Then, building values override default values. Finally, specific room values override values set by either by default or the building the room lives in.
+
+## Merging Behavior
+
+Lists and key-value dictionaries (i.e. arrays and hashes) are set to 'merge' by finding the [union](https://en.wikipedia.org/wiki/Union_(set_theory)) of both sets.
+
+### Lists: `keywords`, `technology`, `features`
+Lists are merged based on the unique values common to all the lists. The displayed order is the reverse of the inheritence hierarchy.
+
+#### Example
+`rooms.yml`
+```yaml
+default:
+  keywords:
+    - campus media
+'7890':
+  title: Campus Media Center, Room 777
+  url: campus-media-777
+  keywords:
+    - casino
+```
+`buildings.yml`
+```yaml
+'123'
+  location: Campus Media Center
+  keywords:
+    - media lab
+```
+OUTPUT: `/classrooms/campus-media-777`
+```
+title: Campus Media Center, Room 777
+keywords:
+  - casino
+  - media lab
+  - campus media
+```
 
 ## Writing in YAML
 
