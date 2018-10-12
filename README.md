@@ -89,13 +89,13 @@ links:
   Library website: http://library.edu/
   Campus Media Center Accessibility Guide: http://library.edu/cm-guide.pdf
   Room 777 Instructions: http://library.edu/room-777.pdf
-buttons: # Note: Only the most specific button is displayed.
+buttons:
   Reserve Room 777: https://library.qualtrics.com/1234abcd
 help:
-  text: | # From room data
+  text: |
     *Note*: This room requires special access priviledges.
-  phone: 212-555-5555 # From default data
-  email: campusmedia@library.edu # From building data
+  phone: 212-555-5555
+  email: campusmedia@library.edu
 ```
 
 
