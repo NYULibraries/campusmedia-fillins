@@ -38,10 +38,19 @@ OUTPUT: `/classrooms/campus-media-777`
 ```
 title: Campus Media Center, Room 777
 keywords:
-  - casino
-  - media lab
   - campus media
+  - media lab
+  - casino
 ```
+
+### Dictionaries: `links`, `buttons`, `help`, `policies`
+Lists are merged based on the unique values common to all the lists. The displayed order is the same as the inheritence hierarchy.
+
+**Note**: `buttons` has been customized to only display the 'most important' merged value, since the behavior to display multiple buttons (unlike `links` and `policies`) is undesirable. Again, this follows the inheritence hierarchy.
+
+#### Example
+`forthcoming`
+
 
 ## Writing in YAML
 
