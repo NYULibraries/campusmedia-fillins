@@ -6,7 +6,7 @@ default:
     Search Buildings and Rooms: /services/campus-media/classrooms/
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_6M3gS7xyGFlHEnH
     Campus Media Services: /services/campus-media/
-    Instruction Guide Classroom Equipment (PDF):https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf
+    Instruction Guide Classroom Equipment (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf
   policies:
     Classroom Media Policies: /services/campus-media/classroom-services/policies/
   buttons:
