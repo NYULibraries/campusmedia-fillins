@@ -46,6 +46,8 @@ keywords:
 ### Dictionaries: `links`, `buttons`, `help`, `policies`
 Lists are merged based on the unique values common to all the lists. The displayed order is `default`, `building`, then `room` values.
 
+When the values of a dictionary are themselves dictionaries (i.e. `help`), these values are merged as well.
+
 **Note**: `buttons` has been customized to only display the 'most important' (last) merged value, since the behavior to display multiple buttons (unlike `links` and `policies`) is undesirable.
 
 #### Example
@@ -56,6 +58,10 @@ default:
     Library website: http://library.edu/
   buttons:
     Reserve Classroom Equipment: https://library.qualtrics.com/1234abcd
+  help:
+    text: University Library System
+    phone: 212-555-5555
+    email: uni@library.edu
 7890:
   title: Campus Media Center, Room 777
   url: campus-media-777
@@ -63,6 +69,9 @@ default:
     Room 777 Instructions: http://library.edu/room-777.pdf
   buttons:
     Reserve Room 777: https://library.qualtrics.com/1234abcd
+  help:
+    text: |
+      *Note*: This room requires special access priviledges.
 ```
 `buildings.yml`
 ```yaml
@@ -70,6 +79,8 @@ default:
   location: Campus Media Center
   links:
     Campus Media Center Accessibility Guide: http://library.edu/cm-guide.pdf
+  help:
+    email: campusmedia@library.edu
 ```
 OUTPUT: `/classrooms/campus-media-777`
 ```yaml
@@ -80,6 +91,11 @@ links:
   Room 777 Instructions: http://library.edu/room-777.pdf
 buttons: # Note: Only the most specific button is displayed.
   Reserve Room 777: https://library.qualtrics.com/1234abcd
+help:
+  text: | # From room data
+    *Note*: This room requires special access priviledges.
+  phone: 212-555-5555 # From default data
+  email: campusmedia@library.edu # From building data
 ```
 
 
