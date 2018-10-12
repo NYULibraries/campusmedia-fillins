@@ -6,6 +6,7 @@ default:
     Search Buildings and Rooms: /services/campus-media/classrooms/
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_6M3gS7xyGFlHEnH
     Campus Media Services: /services/campus-media/
+    Instruction Guide Classroom Equipment (PDF):https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf
   policies:
     Classroom Media Policies: /services/campus-media/classroom-services/policies/
   buttons:
@@ -20,10 +21,7 @@ default:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body: |
-    ## Software
     [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external }
-    ## Guides
-    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
 236:
   title: Silver Center, Room 401
   subtitle: Floor 4
