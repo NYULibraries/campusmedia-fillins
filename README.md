@@ -21,7 +21,7 @@ Lists are merged based on the unique values common to all the lists. The display
 default:
   keywords:
     - campus media
-'7890':
+7890:
   title: Campus Media Center, Room 777
   url: campus-media-777
   keywords:
@@ -29,7 +29,7 @@ default:
 ```
 `buildings.yml`
 ```yaml
-'123'
+123:
   location: Campus Media Center
   keywords:
     - media lab
@@ -56,7 +56,7 @@ default:
     Library website: http://library.edu/
   buttons:
     Reserve Classroom Equipment: https://library.qualtrics.com/1234abcd
-'7890':
+7890:
   title: Campus Media Center, Room 777
   url: campus-media-777
   links:
@@ -66,7 +66,7 @@ default:
 ```
 `buildings.yml`
 ```yaml
-'123'
+123:
   location: Campus Media Center
   links:
     Campus Media Center Accessibility Guide: http://library.edu/cm-guide.pdf
