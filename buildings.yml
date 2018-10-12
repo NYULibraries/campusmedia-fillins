@@ -240,12 +240,8 @@
   display_location: false
   address: 60 Fifth Avenue, New York, NY 10011
   location: 60 Fifth Avenue
-  body: |
-    ## Software
-    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
-    ## Guides
-    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
-    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
+  links:
+    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   help:
     text: |
       Fifth Avenue Office  
@@ -321,12 +317,8 @@
   address: 100 Washington Square East, New York, NY 10003
   location: Silver Center for Arts & Science (SILV)
   subtitle: Floor 2
-  body: |
-    ## Software
-    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external } 
-    ## Guides
-    [Classroom Equipment Instructional Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf){: .external}
-    [Specialty Services Guide (PDF)](https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf){: .external}
+  links:
+    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   help:
     text: |
       Silver Center Office  
