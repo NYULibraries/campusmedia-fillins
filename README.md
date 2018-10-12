@@ -13,7 +13,7 @@ First, default values are applied to all rooms. Then, building values override d
 Lists and key-value dictionaries (i.e. arrays and hashes) are set to 'merge' by finding the [union](https://en.wikipedia.org/wiki/Union_(set_theory)) of both sets.
 
 ### Lists: `keywords`, `technology`, `features`
-Lists are merged based on the unique values common to all the lists. The displayed order is the reverse of the inheritence hierarchy.
+Lists are merged based on the unique values common to all the lists. The displayed order is `default`, `building`, then `room` values.
 
 #### Example
 `rooms.yml`
@@ -25,7 +25,7 @@ default:
   title: Campus Media Center, Room 777
   url: campus-media-777
   keywords:
-    - casino
+    - lucky
 ```
 `buildings.yml`
 ```yaml
@@ -35,21 +35,52 @@ default:
     - media lab
 ```
 OUTPUT: `/classrooms/campus-media-777`
-```
+```yaml
 title: Campus Media Center, Room 777
 keywords:
   - campus media
   - media lab
-  - casino
+  - lucky
 ```
 
 ### Dictionaries: `links`, `buttons`, `help`, `policies`
-Lists are merged based on the unique values common to all the lists. The displayed order is the same as the inheritence hierarchy.
+Lists are merged based on the unique values common to all the lists. The displayed order is `default`, `building`, then `room` values.
 
-**Note**: `buttons` has been customized to only display the 'most important' merged value, since the behavior to display multiple buttons (unlike `links` and `policies`) is undesirable. Again, this follows the inheritence hierarchy.
+**Note**: `buttons` has been customized to only display the 'most important' (last) merged value, since the behavior to display multiple buttons (unlike `links` and `policies`) is undesirable.
 
 #### Example
-`forthcoming`
+`rooms.yml`
+```yaml
+default:
+  links:
+    Library website: http://library.edu/
+  buttons:
+    Reserve Classroom Equipment: https://library.qualtrics.com/1234abcd
+'7890':
+  title: Campus Media Center, Room 777
+  url: campus-media-777
+  links:
+    Room 777 Instructions: http://library.edu/room-777.pdf
+  buttons:
+    Reserve Room 777: https://library.qualtrics.com/1234abcd
+```
+`buildings.yml`
+```yaml
+'123'
+  location: Campus Media Center
+  links:
+    Campus Media Center Accessibility Guide: http://library.edu/cm-guide.pdf
+```
+OUTPUT: `/classrooms/campus-media-777`
+```yaml
+title: Campus Media Center, Room 777
+links:
+  Library website: http://library.edu/
+  Campus Media Center Accessibility Guide: http://library.edu/cm-guide.pdf
+  Room 777 Instructions: http://library.edu/room-777.pdf
+buttons: # Note: Only the most specific button is displayed.
+  Reserve Room 777: https://library.qualtrics.com/1234abcd
+```
 
 
 ## Writing in YAML
