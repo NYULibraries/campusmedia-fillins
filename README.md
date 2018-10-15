@@ -165,3 +165,9 @@ key:
   - value 1
   - value 2
 ```
+
+**To Not Display Images**
+Prevent broken image icons showing up for a room that doesn't have an image use double quotes:
+```yaml
+images: ""
+```
