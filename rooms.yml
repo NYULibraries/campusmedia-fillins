@@ -495,7 +495,7 @@ default:
   title: 194 Mercer Street, Room 304
   capacity: 30
   type: Computer Lab
-  image: ' '
+  image: ""
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: 194m-304
@@ -622,7 +622,6 @@ default:
 29010:
   title: 12 Waverly Place, Room L111
   capacity: 22
-  image: ''
   type: Computer Lab
   body: |
     [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
