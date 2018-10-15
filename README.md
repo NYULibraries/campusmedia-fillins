@@ -111,4 +111,4 @@ To prevent broken image icons showing up for a room that doesn't have an image:
 
 ## Writing in YAML
 
-[Writing in YAML Guide]
+[Writing in YAML Guide](https://github.com/NYULibraries/campusmedia-fillins/wiki/Writing-in-YAML)
