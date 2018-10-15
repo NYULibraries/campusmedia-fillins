@@ -167,7 +167,7 @@ key:
 ```
 
 **To Not Display Images**
-Prevent broken image icons showing up for a room that doesn't have an image use double quotes:
+Prevent broken image icons showing up for a room that doesn't have an image:
 ```yaml
-images: ""
+images: false
 ```
