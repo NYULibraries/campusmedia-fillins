@@ -13,7 +13,7 @@ First, default values are applied to all rooms. Then, building values override d
 Lists and key-value dictionaries (i.e. arrays and hashes) are set to 'merge' by finding the [union](https://en.wikipedia.org/wiki/Union_(set_theory)) of both sets.
 
 ### Lists: `keywords`, `technology`, `features`
-Lists are merged based on the unique values common to all the lists. The displayed order is `default`, `building`, then `room` values.
+Lists are merged based on the unique values among the lists. The displayed order is `default`, `building`, then `room` values.
 
 #### Example
 `rooms.yml`
@@ -44,7 +44,7 @@ keywords:
 ```
 
 ### Dictionaries: `links`, `buttons`, `help`, `policies`
-Lists are merged based on the unique values common to all the lists. The displayed order is `default`, `building`, then `room` values.
+Dictionaries are merged based on unique values among the keys. The displayed order is `default`, `building`, then `room` values.
 
 When the values of a dictionary are themselves dictionaries (i.e. `help`), these values are merged as well.
 
