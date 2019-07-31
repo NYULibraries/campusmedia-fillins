@@ -936,5 +936,9 @@ default:
   title: Silver 618
 33734:
   title: 370 Jay Street, Room 202
-  capacity: 0 
+  capacity: 193 
   url: 370J-202
+34696:
+  title: MetroTech Center, Room 802
+  capacity: 24 
+  url: 2MTC-802
