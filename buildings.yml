@@ -354,6 +354,7 @@
   keywords:
     - WEIN
 3018:
+  display_location: false
   address: 370 Jay Street, Brooklyn, NY 11201
   location: 370 Jay Street (370J)
   help:
@@ -365,6 +366,7 @@
   keywords:
     - 370J
 3019:
+  display_location: false
   address: 2 MetroTech Center, Brooklyn, NY 11201
   location: 2 MetroTech Center (2MTC)
   help:
