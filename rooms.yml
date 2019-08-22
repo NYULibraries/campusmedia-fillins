@@ -941,12 +941,8 @@ default:
   url: 370J-202
 34696:
   title: MetroTech Center, Room 802
-  capacity: 024 
+  capacity: 24 
   url: 2MTC-802
-34697:
-  title: MetroTech Center, Room 803
-  capacity: 15 
-  url: 2MTC-803
 34698:
   title: MetroTech Center, Room 804
   capacity: 15
@@ -963,18 +959,26 @@ default:
   title: MetroTech Center, Room 812
   capacity: 40
   url: 2MTC-812
+34697:
+  title: MetroTech Center, Room 813
+  capacity: 24 
+  url: 2MTC-813
 34702:
   title: MetroTech Center, Room 816
   capacity: 24 
   url: 2MTC-816
 34703:
   title: MetroTech Center, Room 817
-  capacity: 15
+  capacity: 20
   url: 2MTC-817
 34704:
   title: MetroTech Center, Room 820
   capacity: 50
   url: 2MTC-820
+35041:
+  title: MetroTech Center, Room 825
+  capacity: 20
+  url: 2MTC-825
 34705:
   title: MetroTech Center, Room 830
   capacity: 15
