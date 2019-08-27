@@ -479,10 +479,14 @@ default:
   title: 194 Mercer Street, Room 305
   capacity: 47
   url: 194m-305
+35006:
+  title: 194 Mercer Street, Room 306A
+  capacity: 38
+  url: 194m-306A
 5560:
-  title: 194 Mercer Street, Room 306
-  capacity: 93
-  url: 194m-306
+  title: 194 Mercer Street, Room 306B
+  capacity: 38
+  url: 194m-306B
 5561:
   title: 194 Mercer Street, Room 307
   capacity: 47
