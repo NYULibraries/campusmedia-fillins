@@ -72,9 +72,6 @@ default:
 264:
   title: 25 West 4th Street, Room C-06
   capacity: 24
-  type: Computer Lab
-  body: |
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: 25w4-c-06
 265:
   title: 25 West 4th Street, Room C-07
