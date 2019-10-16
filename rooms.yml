@@ -174,6 +174,7 @@ default:
 1247:
   title: Silver Center, Room 101A (Jurow Lecture Hall)
   capacity: 80
+  type: Lecture Hall
   url: silv-101a
 1255:
   title: Silver Center, Room 206
@@ -319,12 +320,14 @@ default:
 1354:
   title: Meyer Hall, Room 121
   capacity: 185
+  type: Lecture Hall
   links:
     Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: meyr-121
 1356:
   title: Meyer Hall, Room 122
   capacity: 93
+  type: Lecture Hall
   links:
     Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: meyr-122
@@ -507,6 +510,7 @@ default:
 21550:
   title: 19 West 4th Street, Room 101
   capacity: 188
+  type: Lecture Hall
   url: 19w4-101
 24527:
   title: 19 West 4th Street, Room 102
@@ -515,6 +519,7 @@ default:
 26004:
   title: 5 Washington Place, Room 101
   capacity: 120
+  type: Lecture Hall
   url: 5wp-101
 27380:
   title: Tisch Hall, Room LC6
@@ -647,6 +652,7 @@ default:
 29014:
   title: 12 Waverly Place, Room G08
   capacity: 138
+  type: Lecture Hall
   links:
     Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: 12wv-g08
@@ -731,6 +737,7 @@ default:
 29685:
   title: GCASL, Room C95
   capacity: 257
+  type: Lecture Hall
   links:
     Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: gcasl-c95
@@ -864,6 +871,7 @@ default:
 32719:
   title: 60 Fifth Avenue, Room 150
   capacity: 90
+  type: Lecture Hall
   url: 60fa-150
 32720:
   title: 60 Fifth Avenue, Room 161
