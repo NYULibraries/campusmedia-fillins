@@ -3,6 +3,7 @@ default:
   published: true
   display_location: true
   links:
+    NYU Zoom Classrooms Info and Help: http://www.nyu.edu/it/zoom
     Search Buildings and Rooms: /services/campus-media/classrooms/
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_6M3gS7xyGFlHEnH
     Campus Media Services: /services/campus-media/
