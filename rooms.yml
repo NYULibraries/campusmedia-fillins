@@ -470,6 +470,7 @@ default:
   title: 194 Mercer Street, Room 207
   capacity: 24
   url: 194m-207
+  published: false
 5554:
   title: 194 Mercer Street, Room 208
   capacity: 26
