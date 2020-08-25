@@ -145,3 +145,11 @@ CM-Installed ADA Table:
   label: ADA Table
   type: feature
   description:
+CM-Installed Zoom Cart:
+  label: Zoom Cart
+  type: technology 
+  description:
+ CM-Installed Zoom Box:
+  label: Zoom Box
+  type: technology 
+  description:
