@@ -7,7 +7,6 @@ default:
     Search Buildings and Rooms: /services/campus-media/classrooms/
     Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_6M3gS7xyGFlHEnH
     Campus Media Services: /services/campus-media/
-    Instruction Guide Classroom Equipment (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-room-instructions.pdf
   policies:
     Classroom Media Policies: /services/campus-media/classroom-services/policies/
   buttons:
@@ -36,7 +35,6 @@ default:
     * camera, mic, speakers
     * 25 foot HDMI cable
     
-    [Software list for this classroom](https://library.answers.nyu.edu/faq/234419){: .external }
 236:
   title: Silver Center, Room 401
   subtitle: Floor 4
@@ -66,7 +64,6 @@ default:
   subtitle: Floor 4
   capacity: 108
   links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: silv-405
 260:
   title: 25 West 4th Street, Room C-02
@@ -315,8 +312,6 @@ default:
   title: Silver Center, Room 520
   subtitle: Floor 5
   capacity: 90
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: silv-520
 1307:
   title: Silver Center, Room 620
@@ -336,15 +331,11 @@ default:
   title: Meyer Hall, Room 121
   capacity: 185
   type: Lecture Hall
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: meyr-121
 1356:
   title: Meyer Hall, Room 122
   capacity: 93
   type: Lecture Hall
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: meyr-122
 1362:
   title: Meyer Hall, Room 261
@@ -532,7 +523,6 @@ default:
     * camera, mic, speakers
     * 25 foot HDMI cable
     
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: 194m-304
 20195:
   title: 19 University Place, Room 102
@@ -600,13 +590,10 @@ default:
     * camera, mic, speakers
     * 25 foot HDMI cable
     
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: tisc-lc19
 27999:
   title: Bobst Library, Room LL138
   capacity: 48
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: bobs-ll138
 28000:
   title: Bobst Library, Room LL139
@@ -619,8 +606,6 @@ default:
 28002:
   title: Bobst Library, Room LL141
   capacity: 24
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: bobs-ll141
 28003:
   title: Bobst Library, Room LL142
@@ -629,8 +614,6 @@ default:
 28004:
   title: Bobst Library, Room LL143
   capacity: 24
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: bobs-ll143
 28006:
   title: Bobst Library, Room LL145
@@ -655,8 +638,6 @@ default:
 28011:
   title: Bobst Library, Room LL150
   capacity: 48
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: bobs-ll150
 28022:
   title: Weinstein Residence Hall, Room SB20
@@ -689,32 +670,23 @@ default:
     * camera, mic, speakers
     * 25 foot HDMI cable
     
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
   url: 12wv-l111
 29011:
   title: 12 Waverly Place, Room L113
   capacity: 20
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: 12wv-l113
 29012:
   title: 12 Waverly Place, Room L114
   capacity: 20
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: 12wv-l114
 29013:
   title: 12 Waverly Place, Room L120
   capacity: 69
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: 12wv-l120
 29014:
   title: 12 Waverly Place, Room G08
   capacity: 138
   type: Lecture Hall
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: 12wv-g08
 29365:
   title: Academic Resource Center, Room LL01
@@ -731,8 +703,6 @@ default:
 29370:
   title: Academic Resource Center, Room LL04
   capacity: 25
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: arc-ll04
 29371:
   title: Academic Resource Center, Room LL05
@@ -798,8 +768,6 @@ default:
   title: GCASL, Room C95
   capacity: 257
   type: Lecture Hall
-  links:
-    Specialty Services Guide (PDF): https://s3.amazonaws.com/nyulibraries-www-assets/campus-media/nyu-campus-media-specialty-services-guide.pdf
   url: gcasl-c95
 29686:
   title: GCASL, Room 261
@@ -887,8 +855,7 @@ default:
     * video conferencing system with Zoom installed
     * camera, mic, speakers
     * 25 foot HDMI cable
-    
-    [Software list for this computer lab](https://library.answers.nyu.edu/faq/234463){: .external }
+
   url: gcasl-284
 29773:
   title: GCASL, Room 384
