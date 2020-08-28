@@ -509,7 +509,7 @@ default:
   capacity: 30
   type: Computer Lab
   body: |
-     <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
+    <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
     
     ### All classrooms will have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
 
@@ -576,7 +576,7 @@ default:
   capacity: 36
   type: Computer Lab
   body: |
-     <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
+    <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
     
     ### All classrooms will have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
 
@@ -656,7 +656,7 @@ default:
   capacity: 22
   type: Computer Lab
   body: |
-     <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
+    <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
     
     ### All classrooms will have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
 
