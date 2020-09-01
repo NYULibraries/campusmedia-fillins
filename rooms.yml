@@ -327,6 +327,7 @@ default:
   title: Meyer Hall, Room 102
   capacity: 73
   url: meyr-102
+  published: false
 1354:
   title: Meyer Hall, Room 121
   capacity: 185
