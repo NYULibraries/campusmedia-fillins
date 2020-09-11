@@ -684,6 +684,7 @@ default:
   title: 12 Waverly Place, Room L120
   capacity: 69
   url: 12wv-l120
+  published: false
 29014:
   title: 12 Waverly Place, Room G08
   capacity: 138
