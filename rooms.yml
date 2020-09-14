@@ -151,18 +151,22 @@ default:
   capacity: 330
   type: Theater
   url: educ-176
+  published: false
 1216:
   title: Education Building, Room 303
   capacity: 74
   url: educ-303
+  published: false
 1217:
   title: Education Building, Room 306
   capacity: 25
   url: educ-306
+  published: false
 1219:
   title: Education Building, Room 307
   capacity: 25
   url: educ-307
+  published: false
 1233:
   title: 45 West 4th Street, Room B01
   capacity: 24
@@ -208,6 +212,7 @@ default:
   subtitle: Floor 4
   capacity: 22
   url: silv-406
+  published: false
 1266:
   title: Silver Center, Room 407
   subtitle: Floor 4
@@ -238,6 +243,7 @@ default:
   subtitle: Floor 4
   capacity: 25
   url: silv-412
+  published: false
 1275:
   title: Silver Center, Room 413
   subtitle: Floor 4
@@ -268,6 +274,7 @@ default:
   subtitle: Floor 5
   capacity: 20
   url: silv-506
+  published: false
 1289:
   title: Silver Center, Room 507
   subtitle: Floor 5
@@ -288,6 +295,7 @@ default:
   subtitle: Floor 5
   capacity: 20
   url: silv-510
+  published: false
 1296:
   title: Silver Center, Room 512
   subtitle: Floor 5
@@ -366,58 +374,72 @@ default:
   title: Waverly Hall, Room 366
   capacity: 39
   url: wave-366
+  published: false
 1399:
   title: Waverly Hall, Room 367
   capacity: 35
   url: wave-367
+  published: false
 1401:
   title: Waverly Hall, Room 369
   capacity: 33
   url: wave-369
+  published: false
 1402:
   title: Waverly Hall, Room 370
   capacity: 30
   url: wave-370
+  published: false
 1404:
   title: Waverly Hall, Room 667
   capacity: 37
   url: wave-667
+  published: false
 1406:
   title: Waverly Hall, Room 668
   capacity: 35
   url: wave-668
+  published: false
 1408:
   title: Waverly Hall, Room 669
   capacity: 27
   url: wave-669
+  published: false
 1409:
   title: Waverly Hall, Room 429
   capacity: 26
   url: wave-429
+  published: false
 1412:
   title: Waverly Hall, Room 431
   capacity: 33
   url: wave-431
+  published: false
 1413:
   title: Waverly Hall, Room 433
   capacity: 33
   url: wave-433
+  published: false
 1415:
   title: Waverly Hall, Room 435
   capacity: 33
   url: wave-435
+  published: false
 1417:
   title: Waverly Hall, Room 566B
   capacity: 20
   url: wave-566b
+  published: false
 1419:
   title: Waverly Hall, Room 567
   capacity: 30
   url: wave-567
+  published: false
 1420:
   title: Waverly Hall, Room 569
   capacity: 30
   url: wave-569
+  published: false
 2082:
   title: Bobst Library, Room 836
   capacity: 15
@@ -426,10 +448,12 @@ default:
   title: Waverly Hall, Room 570
   capacity: 24
   url: wave-570
+  published: false
 2094:
   title: Waverly Hall, Room 566A
   capacity: 32
   url: wave-566a
+  published: false
 2822:
   title: Cantor Film Center, Room 101
   capacity: 184
@@ -525,6 +549,7 @@ default:
     * 25 foot HDMI cable
     
   url: 194m-304
+  published: false
 20195:
   title: 19 University Place, Room 102
   capacity: 120
@@ -592,6 +617,7 @@ default:
     * 25 foot HDMI cable
     
   url: tisc-lc19
+  published: false
 27999:
   title: Bobst Library, Room LL138
   capacity: 48
@@ -680,6 +706,7 @@ default:
   title: 12 Waverly Place, Room L114
   capacity: 20
   url: 12wv-l114
+  published: false
 29013:
   title: 12 Waverly Place, Room L120
   capacity: 69
@@ -714,58 +741,72 @@ default:
   title: 7 East 12th Street, Room LL21
   capacity: 28
   url: 7e12-ll21
+  published: false
 29376:
   title: 7 East 12th Street, Room LL23
   capacity: 50
   url: 7e12-ll23
+  published: false
 29377:
   title: 7 East 12th Street, Room LL25
   capacity: 32
   url: 7e12-ll25
+  published: false
 29378:
   title: 7 East 12th Street, Room LL27
   capacity: 30
   url: 7e12-ll27
+  published: false
 29379:
   title: 7 East 12th Street, Room LL31
   capacity: 24
   url: 7e12-ll31
+  published: false
 29380:
   title: 7 East 12th Street, Room LL33
   capacity: 30
   url: 7e12-ll33
+  published: false
 29382:
   title: 7 East 12th Street, Room 121
   capacity: 34
   url: 7e12-121
+  published: false
 29383:
   title: 7 East 12th Street, Room 123
   capacity: 30
   url: 7e12-123
+  published: false
 29384:
   title: 7 East 12th Street, Room 124
   capacity: 28
   url: 7e12-124
+  published: false
 29385:
   title: 7 East 12th Street, Room 125
   capacity: 35
   url: 7e12-125
+  published: false
 29386:
   title: 7 East 12th Street, Room 127
   capacity: 24
   url: 7e12-127
+  published: false
 29387:
   title: 7 East 12th Street, Room 129
   capacity: 30
   url: 7e12-129
+  published: false
 29388:
   title: 7 East 12th Street, Room 131
   capacity: 20
   url: 7e12-131
+  published: false
 29389:
   title: 7 East 12th Street, Room 134
   capacity: 27
   url: 7e12-134
+  published: false
 29685:
   title: GCASL, Room C95
   capacity: 257
@@ -859,6 +900,7 @@ default:
     * 25 foot HDMI cable
 
   url: gcasl-284
+  published: false
 29773:
   title: GCASL, Room 384
   capacity: 22
@@ -867,42 +909,52 @@ default:
   title: Rubin Hall, Room 101
   capacity: 15
   url: rubn-101
+  published: false
 32049:
   title: Rubin Hall, Room 102
   capacity: 15
   url: rubn-102
+  published: false
 32050:
   title: Rubin Hall, Room 103
   capacity: 15
   url: rubn-103
+  published: false
 32051:
   title: Rubin Hall, Room 104
   capacity: 15
   url: rubn-104
+  published: false
 32052:
   title: Rubin Hall, Room 105
   capacity: 15
   url: rubn-105
+  published: false
 32053:
   title: Rubin Hall, Room 106
   capacity: 14
   url: rubn-106
+  published: false
 32054:
   title: Rubin Hall, Room 107
   capacity: 15
   url: rubn-107
+  published: false
 32055:
   title: Rubin Hall, Room 108
   capacity: 15
   url: rubn-108
+  published: false
 32056:
   title: Rubin Hall, Room 109
   capacity: 14
   url: rubn-109
+  published: false
 32057:
   title: Rubin Hall, Room 110
   capacity: 15
   url: rubn-110
+  published: false
 32716:
   title: 60 Fifth Avenue, Room 110
   capacity: 64
@@ -964,7 +1016,6 @@ default:
   title: 194 Mercer Street, Room 202
   capacity: 29
   url: 194m-202
-  published: false
 5552:
   title: 194 Mercer Street, Room 206
   capacity: 26
