@@ -49,6 +49,7 @@ default:
   subtitle: Floor 4
   capacity: 18
   url: silv-402
+  published: false
 257:
   title: Silver Center, Room 403
   subtitle: Floor 4
@@ -59,6 +60,7 @@ default:
   subtitle: Floor 4
   capacity: 27
   url: silv-404
+  published: false
 259:
   title: Silver Center, Room 405
   subtitle: Floor 4
@@ -311,6 +313,7 @@ default:
   subtitle: Floor 5
   capacity: 25
   url: silv-515
+  published: false
 1299:
   title: Silver Center, Room 518
   subtitle: Floor 5
