@@ -157,3 +157,7 @@ CM-Installed Flat Screen 370J (2):
   label: Flat Screen (2)
   type: technology
   description:
+CM-Installed USB Wired Microphone:
+  label: USB Wired Microphone
+  type: technology
+  description:
