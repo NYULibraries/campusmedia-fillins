@@ -161,3 +161,10 @@ CM-Installed USB Wired Microphone:
   label: USB Wired Microphone
   type: technology
   description:
+CM-Installed Computer 2MTC:
+  label: Computer
+  type: technology
+  description:
+CM-Installed Flat Screen:
+  label: Flat Screen
+  type: technology
