@@ -177,3 +177,7 @@ CM-Installed Screen 2MTC:
   label: Screen
   type: technology
   description:
+CM-Installed Data/Video Projection 2MTC:
+  label: Data/Video Projection
+  type: technology
+  description:
