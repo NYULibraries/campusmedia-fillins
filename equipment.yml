@@ -168,3 +168,8 @@ CM-Installed Computer 2MTC:
 CM-Installed Flat Screen:
   label: Flat Screen
   type: technology
+  description:
+CM-Installed Camera 2MTC:
+  label: Camera
+  type: technology
+  description:
