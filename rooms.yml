@@ -677,6 +677,11 @@ default:
   title: Weinstein Residence Hall, Room SB35
   capacity: 16
   url: wein-sb35
+30213:
+  title: Weinstein Residence Hall, Room SB22
+  capacity: 
+  url: wein-sb22
+  published: false
 28111:
   title: Bobst Library, Room LL151
   capacity: 30
