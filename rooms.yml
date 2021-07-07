@@ -916,52 +916,52 @@ default:
   title: Rubin Hall, Room 101
   capacity: 15
   url: rubn-101
-  published: false
+  published:
 32049:
   title: Rubin Hall, Room 102
   capacity: 15
   url: rubn-102
-  published: false
+  published:
 32050:
   title: Rubin Hall, Room 103
   capacity: 15
   url: rubn-103
-  published: false
+  published:
 32051:
   title: Rubin Hall, Room 104
   capacity: 15
   url: rubn-104
-  published: false
+  published:
 32052:
   title: Rubin Hall, Room 105
   capacity: 15
   url: rubn-105
-  published: false
+  published:
 32053:
   title: Rubin Hall, Room 106
   capacity: 14
   url: rubn-106
-  published: false
+  published:
 32054:
   title: Rubin Hall, Room 107
   capacity: 15
   url: rubn-107
-  published: false
+  published:
 32055:
   title: Rubin Hall, Room 108
   capacity: 15
   url: rubn-108
-  published: false
+  published:
 32056:
   title: Rubin Hall, Room 109
   capacity: 14
   url: rubn-109
-  published: false
+  published:
 32057:
   title: Rubin Hall, Room 110
   capacity: 15
   url: rubn-110
-  published: false
+  published:
 32716:
   title: 60 Fifth Avenue, Room 110
   capacity: 64
