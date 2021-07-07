@@ -161,11 +161,11 @@ CM-Installed USB Wired Microphone:
   label: USB Wired Microphone
   type: technology
   description:
-CM-Installed Computer 2MTC:
+CM-Installed Computer COVID:
   label: Computer
   type: technology
   description:
-CM-Installed Flat Screen 2MTC:
+CM-Installed Flat Screen COVID:
   label: Flat Screen
   type: technology
   description:
@@ -180,4 +180,16 @@ CM-Installed Screen 2MTC:
 CM-Installed Data/Video Projection 2MTC:
   label: Data/Video Projection
   type: technology
+  description:
+CM-Installed Blu-Ray Disc Player COVID:
+  label: Blu-Ray Disc Player
+  type: technology
+  description: 
+CM-Installed Wireless Keyboard COVID:
+  label: Wireless Keyboard
+  type: technology
+  description: 
+CM-Installed Wireless Presenter COVID:
+  label: Wireless Presenter
+  type: feature
   description:
