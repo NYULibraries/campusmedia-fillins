@@ -552,7 +552,6 @@ default:
     * 25 foot HDMI cable
     
   url: 194m-304
-  published: false
 20195:
   title: 19 University Place, Room 102
   capacity: 120
@@ -714,7 +713,6 @@ default:
   title: 12 Waverly Place, Room L114
   capacity: 20
   url: 12wv-l114
-  published: false
 29013:
   title: 12 Waverly Place, Room L120
   capacity: 69
