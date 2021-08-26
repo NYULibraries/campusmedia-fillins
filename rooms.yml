@@ -49,7 +49,6 @@ default:
   subtitle: Floor 4
   capacity: 18
   url: silv-402
-  published: false
 257:
   title: Silver Center, Room 403
   subtitle: Floor 4
@@ -60,7 +59,6 @@ default:
   subtitle: Floor 4
   capacity: 27
   url: silv-404
-  published: false
 259:
   title: Silver Center, Room 405
   subtitle: Floor 4
@@ -214,7 +212,6 @@ default:
   subtitle: Floor 4
   capacity: 22
   url: silv-406
-  published: false
 1266:
   title: Silver Center, Room 407
   subtitle: Floor 4
@@ -245,7 +242,6 @@ default:
   subtitle: Floor 4
   capacity: 25
   url: silv-412
-  published: false
 1275:
   title: Silver Center, Room 413
   subtitle: Floor 4
@@ -276,7 +272,6 @@ default:
   subtitle: Floor 5
   capacity: 20
   url: silv-506
-  published: false
 1289:
   title: Silver Center, Room 507
   subtitle: Floor 5
@@ -297,7 +292,6 @@ default:
   subtitle: Floor 5
   capacity: 20
   url: silv-510
-  published: false
 1296:
   title: Silver Center, Room 512
   subtitle: Floor 5
@@ -619,7 +613,6 @@ default:
     * 25 foot HDMI cable
     
   url: tisc-lc19
-  published: false
 27999:
   title: Bobst Library, Room LL138
   capacity: 48
