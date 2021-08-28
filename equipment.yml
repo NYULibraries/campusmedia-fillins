@@ -193,3 +193,7 @@ CM-Installed Wireless Presenter COVID:
   label: Wireless Presenter
   type: feature
   description:
+CM-Installed Podium Mic COVID:
+  label: Installed Podium Mic
+  type: technology
+  description:
