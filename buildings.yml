@@ -262,8 +262,17 @@
   keywords:
     - RUBN
 222:
+  display_location: false
   address: 1 Washington Square North, New York, NY
-  location: 1 Washington Square North
+  location: 1 Washington Square North (1WSN)
+  help:
+    text: |
+      Silver Center Office  
+      100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
+  keywords: 
+    - 1WSN
 2008:
   address: 58 Washington Square South, New York, NY
   location: 58 Washington Square South
