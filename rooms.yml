@@ -141,6 +141,14 @@ default:
   title: 25 West 4th Street, Room C-20
   capacity: 40
   url: 25w4-c-20
+35529:
+  title: Bobst Library, Room 743
+  capacity: 40
+  url: bobs-743
+35529:
+  title: Bobst Library, Room 745
+  capacity: 45
+  url: bobs-745
 1166:
   title: Bobst Library, Room 837
   capacity: 15
