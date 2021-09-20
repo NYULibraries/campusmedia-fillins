@@ -177,7 +177,7 @@ CM-Installed Screen 2MTC:
   label: Screen
   type: technology
   description:
-CM-Installed Data/Video Projection 2MTC:
+CM-Installed Data/Video Projection COVID:
   label: Data/Video Projection
   type: technology
   description:
@@ -197,6 +197,6 @@ CM-Installed Podium Mic COVID:
   label: Podium Mic
   type: technology
   description:
-CM-Temp Install Laptop:
+CM-Installed Laptop COVID:
   label: PC Laptop
   type: technology
