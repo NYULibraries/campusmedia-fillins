@@ -385,4 +385,28 @@
     phone: +1 646 997 0766
     email: campusmedia@nyu.edu
   keywords:
-    - 2MTC
+    - 2MTC  
+3062:
+  display_location: false
+  address: 19 Washington Square North, New York, NY 10011
+  location: 19 Washington Square North (19WSN)
+  help:
+    text: |
+      Silver Center Office  
+      100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
+  keywords:
+    - 19WSN
+3061:
+  display_location: false
+  address: 708 Broadway
+  location: 708 Broadway (708B)
+  help:
+    text: |
+      Silver Center Office  
+      100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
+  keywords:
+    - 708B
