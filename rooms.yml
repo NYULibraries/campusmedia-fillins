@@ -621,6 +621,18 @@ default:
     * 25 foot HDMI cable
     
   url: tisc-lc19
+35531:
+  title: Bobst Library, Room LL112
+  capacity: 22
+  url: bobs-ll112
+35532:
+  title: Bobst Library, Room LL113
+  capacity: 22
+  url: bobs-ll113
+35533:
+  title: Bobst Library, Room LL114
+  capacity: 24
+  url: bobs-ll114
 27999:
   title: Bobst Library, Room LL138
   capacity: 48
