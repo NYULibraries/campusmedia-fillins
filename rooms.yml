@@ -1120,6 +1120,18 @@ default:
   title: 370 Jay Street, Room 413
   capacity: 22
   url: 370J-413
+35534:
+  title: MetroTech Center, Room 800-1
+  capacity: 30
+  url: 2MTC-800-1
+35535:
+  title: MetroTech Center, Room 801
+  capacity: 70
+  url: 2MTC-801
+35536:
+  title: MetroTech Center, Room 810
+  capacity: 24
+  url: 2MTC-810
 34696:
   title: MetroTech Center, Room 802
   capacity: 24 
