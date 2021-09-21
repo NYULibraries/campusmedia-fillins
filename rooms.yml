@@ -601,6 +601,7 @@ default:
   title: University Hall, Room C02A
   capacity: 18
   url: uhal-c02a
+  published: false
 27438:
   title: Tisch Hall, Room LC19
   capacity: 36
@@ -685,10 +686,12 @@ default:
   title: Weinstein Residence Hall, Room SB20
   capacity: 24
   url: wein-sb20
+  published: false
 28023:
   title: Weinstein Residence Hall, Room SB35
   capacity: 16
   url: wein-sb35
+  published: false
 30213:
   title: Weinstein Residence Hall, Room SB22
   capacity: 
