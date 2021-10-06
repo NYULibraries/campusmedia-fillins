@@ -539,13 +539,13 @@ default:
   capacity: 30
   type: Computer Lab
   body: |
-    <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
+    <h2 class="message">Zoom Instruction Equipment in Classrooms</h2>  
     
-    ### All classrooms will have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
+    ### All classrooms have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
 
     Use a personal laptop to connect to the Zoom Box (processor) and the flat panel, or projector, to display content and launch a zoom session. 
 
-    Please do not use the installed AV equipment in classrooms. This equipment is disabled and not functional for fall.
+    Please do not use the installed AV equipment in classrooms. This equipment is disabled.
 
     ### Zoom solutions include:
     * large flat panel monitor or projector
@@ -607,13 +607,13 @@ default:
   capacity: 36
   type: Computer Lab
   body: |
-    <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
+    <h2 class="message">Zoom Instruction Equipment in Classrooms</h2>  
     
-    ### All classrooms will have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
+    ### All classrooms have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
 
     Use a personal laptop to connect to the Zoom Box (processor) and the flat panel, or projector, to display content and launch a zoom session. 
 
-    Please do not use the installed AV equipment in classrooms. This equipment is disabled and not functional for fall.
+    Please do not use the installed AV equipment in classrooms. This equipment is disabled.
 
     ### Zoom solutions include:
     * large flat panel monitor or projector
@@ -706,13 +706,13 @@ default:
   capacity: 22
   type: Computer Lab
   body: |
-    <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
+    <h2 class="message">Zoom Instruction Equipment in Classrooms</h2>  
     
-    ### All classrooms will have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
+    ### All classrooms have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
 
     Use a personal laptop to connect to the Zoom Box (processor) and the flat panel, or projector, to display content and launch a zoom session. 
 
-    Please do not use the installed AV equipment in classrooms. This equipment is disabled and not functional for fall.
+    Please do not use the installed AV equipment in classrooms. This equipment is disabled.
 
     ### Zoom solutions include:
     * large flat panel monitor or projector
@@ -906,13 +906,13 @@ default:
   capacity: 22
   type: Computer Lab
   body: |
-    <h2 class="message">New Zoom Instruction Equipment in Classrooms (Updated 8/27/2020)</h2>  
+    <h2 class="message">Zoom Instruction Equipment in Classrooms</h2>  
     
-    ### All classrooms will have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
+    ### All classrooms have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
 
     Use a personal laptop to connect to the Zoom Box (processor) and the flat panel, or projector, to display content and launch a zoom session. 
 
-    Please do not use the installed AV equipment in classrooms. This equipment is disabled and not functional for fall.
+    Please do not use the installed AV equipment in classrooms. This equipment is disabled.
 
     ### Zoom solutions include:
     * large flat panel monitor or projector
