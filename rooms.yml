@@ -315,7 +315,6 @@ default:
   subtitle: Floor 5
   capacity: 25
   url: silv-515
-  published: false
 1299:
   title: Silver Center, Room 518
   subtitle: Floor 5
@@ -601,7 +600,7 @@ default:
   title: University Hall, Room C02A
   capacity: 18
   url: uhal-c02a
-  published: false
+  published: false  
 27438:
   title: Tisch Hall, Room LC19
   capacity: 36
@@ -704,22 +703,7 @@ default:
 29010:
   title: 12 Waverly Place, Room L111
   capacity: 22
-  type: Computer Lab
-  body: |
-    <h2 class="message">Zoom Instruction Equipment in Classrooms</h2>  
-    
-    ### All classrooms have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
-
-    Use a personal laptop to connect to the Zoom Box (processor) and the flat panel, or projector, to display content and launch a zoom session. 
-
-    Please do not use the installed AV equipment in classrooms. This equipment is disabled.
-
-    ### Zoom solutions include:
-    * large flat panel monitor or projector
-    * video conferencing system with Zoom installed
-    * camera, mic, speakers
-    * 25 foot HDMI cable
-    
+  type: Classroom
   url: 12wv-l111
 29011:
   title: 12 Waverly Place, Room L113
@@ -904,24 +888,8 @@ default:
 29772:
   title: GCASL, Room 284
   capacity: 22
-  type: Computer Lab
-  body: |
-    <h2 class="message">Zoom Instruction Equipment in Classrooms</h2>  
-    
-    ### All classrooms have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
-
-    Use a personal laptop to connect to the Zoom Box (processor) and the flat panel, or projector, to display content and launch a zoom session. 
-
-    Please do not use the installed AV equipment in classrooms. This equipment is disabled.
-
-    ### Zoom solutions include:
-    * large flat panel monitor or projector
-    * video conferencing system with Zoom installed
-    * camera, mic, speakers
-    * 25 foot HDMI cable
-
+  type: Classroom
   url: gcasl-284
-  published: false
 29773:
   title: GCASL, Room 384
   capacity: 22
