@@ -341,6 +341,7 @@
   address:
   location: Warren Weaver Hall
 2559:
+  published: false
   address: 110 East 14th Street, New York, NY 10003
   location: University Hall (UHAL)
   help:
@@ -352,6 +353,7 @@
   keywords:
     - UHAL
 2590:
+  published:false
   address: 11 University Place, New York, NY 10003
   location: Weinstein Residence Hall (WEIN)
   help:
