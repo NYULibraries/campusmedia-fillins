@@ -1152,3 +1152,12 @@ default:
   title: 19 Washington Square North, Room 102
   capacity: 18
   url: 19WSN-102
+35502:
+   title: 708 Broadway, Room 801
+   capacity: 36
+   url: 708B-801
+35503:
+   title: 708 Broadway, Room 1001
+   capacity: 36
+   url: 708B-1001
+   
