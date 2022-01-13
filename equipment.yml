@@ -197,3 +197,7 @@ CM-Installed Podium Mic COVID:
   label: Podium Mic
   type: technology
   description:
+CM-Installed Laptop COVID:
+  label: Laptop
+  type: yechnology
+  description:
