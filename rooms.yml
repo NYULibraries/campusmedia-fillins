@@ -5,12 +5,12 @@ default:
   links:
     NYU Zoom Classrooms Info and Help: http://www.nyu.edu/it/zoom
     Search Buildings and Rooms: /services/campus-media/classrooms/
-    Report Classroom Equipment Issue: https://www.nyu.edu/life/information-technology/computing-support/audio-visual-and-event-services/campus-media-classroom-support.html
+    Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_6M3gS7xyGFlHEnH
     Campus Media Services: https://www.nyu.edu/life/information-technology/computing-support/audio-visual-and-event-services/campus-media-classroom-support.html
   policies:
     Classroom Media Policies: https://www.nyu.edu/life/information-technology/computing-support/audio-visual-and-event-services/campus-media-classroom-support.html
   buttons:
-    Reserve Classroom Equipment: https://www.nyu.edu/life/information-technology/computing-support/audio-visual-and-event-services/campus-media-classroom-support.html
+    Reserve Classroom Equipment: https://nyu.qualtrics.com/jfe/form/SV_3WulcM69ZsPPxdP
   type: Classroom
   help:
     text: |
