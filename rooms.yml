@@ -5,18 +5,18 @@ default:
   links:
     NYU Zoom Classrooms Info and Help: http://www.nyu.edu/it/zoom
     Search Buildings and Rooms: /services/campus-media/classrooms/
-    Report Classroom Equipment Issue: https://nyu.qualtrics.com/jfe/form/SV_6M3gS7xyGFlHEnH
-    Campus Media Services: /services/campus-media/
+    Report Classroom Equipment Issue: https://www.nyu.edu/life/information-technology/computing-support/audio-visual-and-event-services/campus-media-classroom-support.html
+    Campus Media Services: https://www.nyu.edu/life/information-technology/computing-support/audio-visual-and-event-services/campus-media-classroom-support.html
   policies:
     Classroom Media Policies: /services/campus-media/classroom-services/policies/
   buttons:
-    Reserve Classroom Equipment: https://nyu.qualtrics.com/jfe/form/SV_3WulcM69ZsPPxdP
+    Reserve Classroom Equipment: https://www.nyu.edu/life/information-technology/computing-support/audio-visual-and-event-services/campus-media-classroom-support.html
   type: Classroom
   help:
     text: |
       Our main office is located in the Silver Center for Arts and Science at 100 Washington Sq. East, LL7A, New York, NY 10003
     phone: +1 212 998 2655
-    email: campusmedia-help@nyu.edu
+    email: campusmedia@nyu.edu
   libanswers:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
