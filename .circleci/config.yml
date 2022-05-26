@@ -6,9 +6,10 @@ jobs:
     executor: python/default
     steps:
       - checkout
-      - python/install-packages:
-          args: yamllint
-          pkg-manager: pip
+      - run:
+          name: Install yamllint
+          command: |
+            pip install yamllint
       - run:
           name: Test YAML
           command: |
