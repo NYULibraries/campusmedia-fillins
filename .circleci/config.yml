@@ -1,0 +1,19 @@
+version: '2.1'
+orbs:
+  python: circleci/python@2.0.3
+jobs:
+  test:
+    executor: python/default
+    steps:
+      - checkout
+      - python/install-packages:
+          args: yamllint
+          pkg-manager: pip
+      - run:
+          name: Test YAML
+          command: |
+            yamllint -c linter/rules.yml .
+workflows:
+  main:
+    jobs:
+      - test
