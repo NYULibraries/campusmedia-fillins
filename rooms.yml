@@ -342,17 +342,17 @@ default:
   published: false
 1354:
   title: Meyer Hall, Room 121
-  capacity: 185
+  capacity: 186
   type: Lecture Hall
   url: meyr-121
 1356:
   title: Meyer Hall, Room 122
-  capacity: 93
+  capacity: 94
   type: Lecture Hall
   url: meyr-122
 1362:
   title: Meyer Hall, Room 261
-  capacity: 30
+  capacity: 23
   url: meyr-261
 1373:
   title: Tisch Hall, Room LC1
