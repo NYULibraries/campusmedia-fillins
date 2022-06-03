@@ -360,7 +360,7 @@ default:
   url: tisc-lc1
 1374:
   title: Tisch Hall, Room LC2
-  capacity: 20
+  capacity: 18
   url: tisc-lc2
 1375:
   title: Tisch Hall, Room LC3
@@ -368,7 +368,7 @@ default:
   url: tisc-lc3
 1376:
   title: Tisch Hall, Room LC4
-  capacity: 20
+  capacity: 18
   url: tisc-lc4
 1377:
   title: Tisch Hall, Room LC5
@@ -446,7 +446,7 @@ default:
   published: false
 2082:
   title: Bobst Library, Room 836
-  capacity: 15
+  capacity: 12
   url: bobs-836
 2093:
   title: Waverly Hall, Room 570
@@ -472,11 +472,11 @@ default:
   url: cant-102
 5547:
   title: 194 Mercer Street, Room 201
-  capacity: 24
+  capacity: 16
   url: 194m-201
 5549:
   title: 194 Mercer Street, Room 203
-  capacity: 56
+  capacity: 47
   url: 194m-203
 5550:
   title: 194 Mercer Street, Room 204
@@ -494,7 +494,7 @@ default:
   published: false
 5554:
   title: 194 Mercer Street, Room 208
-  capacity: 26
+  capacity: 48
   url: 194m-208
 5555:
   title: 194 Mercer Street, Room 209
@@ -503,39 +503,39 @@ default:
   published: false
 5556:
   title: 194 Mercer Street, Room 210
-  capacity: 25
+  capacity: 17
   url: 194m-210
 5557:
   title: 194 Mercer Street, Room 301
-  capacity: 25
+  capacity: 16
   url: 194m-301
 5558:
   title: 194 Mercer Street, Room 303
-  capacity: 17
+  capacity: 12
   url: 194m-303
 5559:
   title: 194 Mercer Street, Room 305
-  capacity: 47
+  capacity: 36
   url: 194m-305
 35006:
   title: 194 Mercer Street, Room 306A
-  capacity: 38
+  capacity: 35
   url: 194m-306A
 5560:
   title: 194 Mercer Street, Room 306B
-  capacity: 38
+  capacity: 35
   url: 194m-306B
 5561:
   title: 194 Mercer Street, Room 307
-  capacity: 47
+  capacity: 35
   url: 194m-307
 5562:
   title: 194 Mercer Street, Room 308
-  capacity: 25
+  capacity: 16
   url: 194m-308
 6768:
   title: 194 Mercer Street, Room 304
-  capacity: 30
+  capacity: 40
   type: Classroom
   url: 194m-304
 20195:
@@ -550,7 +550,7 @@ default:
   url: 19w4-101
 24527:
   title: 19 West 4th Street, Room 102
-  capacity: 46
+  capacity: 36
   url: 19w4-102
 26004:
   title: 5 Washington Place, Room 101
@@ -559,7 +559,7 @@ default:
   url: 5wp-101
 27380:
   title: Tisch Hall, Room LC6
-  capacity: 20
+  capacity: 18
   url: tisc-lc6
 27381:
   title: Tisch Hall, Room LC7
@@ -567,19 +567,19 @@ default:
   url: tisc-lc7
 27382:
   title: Tisch Hall, Room LC9
-  capacity: 45
+  capacity: 39
   url: tisc-lc9
 27383:
   title: Tisch Hall, Room LC11
-  capacity: 50
+  capacity: 44
   url: tisc-lc11
 27384:
   title: Tisch Hall, Room LC13
-  capacity: 20
+  capacity: 18
   url: tisc-lc13
 27385:
   title: Tisch Hall, Room LC15
-  capacity: 20
+  capacity: 18
   url: tisc-lc15
 27429:
   title: University Hall, Room C02A
@@ -623,11 +623,11 @@ default:
   url: bobs-ll114
 27999:
   title: Bobst Library, Room LL138
-  capacity: 48
+  capacity: 44
   url: bobs-ll138
 28000:
   title: Bobst Library, Room LL139
-  capacity: 30
+  capacity: 25
   url: bobs-ll139
 28001:
   title: Bobst Library, Room LL140
@@ -663,11 +663,11 @@ default:
   url: bobs-ll148
 28010:
   title: Bobst Library, Room LL149
-  capacity: 30
+  capacity: 25
   url: bobs-ll149
 28011:
   title: Bobst Library, Room LL150
-  capacity: 48
+  capacity: 50
   url: bobs-ll150
 28022:
   title: Weinstein Residence Hall, Room SB20
@@ -686,11 +686,11 @@ default:
   published: false
 28111:
   title: Bobst Library, Room LL151
-  capacity: 30
+  capacity: 25
   url: bobs-ll151
 29010:
   title: 12 Waverly Place, Room L111
-  capacity: 22
+  capacity: 21
   type: Classroom
   url: 12wv-l111
 29011:
@@ -703,7 +703,7 @@ default:
   url: 12wv-l114
 29013:
   title: 12 Waverly Place, Room L120
-  capacity: 69
+  capacity: 40
   url: 12wv-l120
 29014:
   title: 12 Waverly Place, Room G08
@@ -712,23 +712,23 @@ default:
   url: 12wv-g08
 29365:
   title: Academic Resource Center, Room LL01
-  capacity: 28
+  capacity: 23
   url: arc-ll01
 29366:
   title: Academic Resource Center, Room LL02
-  capacity: 28
+  capacity: 25
   url: arc-ll02
 29369:
   title: Academic Resource Center, Room LL03
-  capacity: 21
+  capacity: 22
   url: arc-ll03
 29370:
   title: Academic Resource Center, Room LL04
-  capacity: 25
+  capacity: 22
   url: arc-ll04
 29371:
   title: Academic Resource Center, Room LL05
-  capacity: 24
+  capacity: 22
   url: arc-ll05
 29374:
   title: 7 East 12th Street, Room LL21
@@ -807,47 +807,47 @@ default:
   url: gcasl-c95
 29686:
   title: GCASL, Room 261
-  capacity: 36
+  capacity: 46
   url: gcasl-261
 29687:
   title: GCASL, Room 265
-  capacity: 32
+  capacity: 34
   url: gcasl-265
 29688:
   title: GCASL, Room 274
-  capacity: 18
+  capacity: 27
   url: gcasl-274
 29689:
   title: GCASL, Room 275
-  capacity: 40
+  capacity: 46
   url: gcasl-275
 29690:
   title: GCASL, Room 269
-  capacity: 40
+  capacity: 46
   url: gcasl-269
 29691:
   title: GCASL, Room 279
-  capacity: 48
+  capacity: 54
   url: gcasl-279
 29693:
   title: GCASL, Room 361
-  capacity: 36
+  capacity: 46
   url: gcasl-361
 29694:
   title: GCASL, Room 365
-  capacity: 32
+  capacity: 34
   url: gcasl-365
 29695:
   title: GCASL, Room 374
-  capacity: 18
+  capacity: 27
   url: gcasl-374
 29696:
   title: GCASL, Room 375
-  capacity: 32
+  capacity: 30
   url: gcasl-375
 29697:
   title: GCASL, Room 379
-  capacity: 32
+  capacity: 34
   url: gcasl-379
 29698:
   title: GCASL, Room 383
@@ -855,7 +855,7 @@ default:
   url: gcasl-383
 29699:
   title: GCASL, Room 388
-  capacity: 30
+  capacity: 44
   url: gcasl-388
 29700:
   title: GCASL, Room 461
@@ -867,11 +867,11 @@ default:
   url: gcasl-475
 29707:
   title: GCASL, Room 288
-  capacity: 36
+  capacity: 44
   url: gcasl-288
 29708:
   title: GCASL, Room 369
-  capacity: 40
+  capacity: 46
   url: gcasl-369
 29772:
   title: GCASL, Room 284
@@ -904,12 +904,12 @@ default:
   published:
 32052:
   title: Rubin Hall, Room 105
-  capacity: 15
+  capacity: 13
   url: rubn-105
   published:
 32053:
   title: Rubin Hall, Room 106
-  capacity: 14
+  capacity: 15
   url: rubn-106
   published:
 32054:
@@ -924,7 +924,7 @@ default:
   published:
 32056:
   title: Rubin Hall, Room 109
-  capacity: 14
+  capacity: 10
   url: rubn-109
   published:
 32057:
@@ -934,11 +934,11 @@ default:
   published:
 32716:
   title: 60 Fifth Avenue, Room 110
-  capacity: 64
+  capacity: 39
   url: 60fa-110
 32718:
   title: 60 Fifth Avenue, Room 125
-  capacity: 34
+  capacity: 29
   url: 60fa-125
 32719:
   title: 60 Fifth Avenue, Room 150
@@ -947,19 +947,19 @@ default:
   url: 60fa-150
 32720:
   title: 60 Fifth Avenue, Room 161
-  capacity: 31
+  capacity: 17
   url: 60fa-161
 32721:
   title: 60 Fifth Avenue, Room 165
-  capacity: 32
+  capacity: 17
   url: 60fa-165
 32722:
   title: 60 Fifth Avenue, Room 202
-  capacity: 12
+  capacity: 14
   url: 60fa-202
 32723:
   title: 60 Fifth Avenue, Room 250
-  capacity: 16
+  capacity: 19
   url: 60fa-250
 32724:
   title: 60 Fifth Avenue, Room 261
@@ -967,35 +967,35 @@ default:
   url: 60fa-261
 32725:
   title: 60 Fifth Avenue, Room 265
-  capacity: 26
+  capacity: 28
   url: 60fa-265
 32726:
   title: 60 Fifth Avenue, Room C03
-  capacity: 33
+  capacity: 16
   url: 60fa-c03
 32727:
   title: 60 Fifth Avenue, Room C04
-  capacity: 30
+  capacity: 22
   url: 60fa-c04
 32728:
   title: 60 Fifth Avenue, Room C10
-  capacity: 39
+  capacity: 29
   url: 60fa-c10
 32729:
   title: 60 Fifth Avenue, Room C12
-  capacity: 39
+  capacity: 21
   url: 60fa-c12
 32730:
   title: 60 Fifth Avenue, Room C14
-  capacity: 31
+  capacity: 22
   url: 60fa-c14
 5548:
   title: 194 Mercer Street, Room 202
-  capacity: 29
+  capacity: 24
   url: 194m-202
 5552:
   title: 194 Mercer Street, Room 206
-  capacity: 26
+  capacity: 48
   url: 194m-206
 1253:
   published: false
@@ -1094,47 +1094,47 @@ default:
   url: 2MTC-810
 34696:
   title: MetroTech Center, Room 802
-  capacity: 24 
+  capacity: 23 
   url: 2MTC-802
 35380:
   title: MetroTech Center, Room 803
-  capacity: 15
+  capacity: 36
   url: 2MTC-803
 34698:
   title: MetroTech Center, Room 804
-  capacity: 15
+  capacity: 36
   url: 2MTC-804
 34699:
   title: MetroTech Center, Room 805
-  capacity: 24
+  capacity: 19
   url: 2MTC-805
 34700:
   title: MetroTech Center, Room 811
-  capacity: 24
+  capacity: 36
   url: 2MTC-811
 34701:
   title: MetroTech Center, Room 812
-  capacity: 40
+  capacity: 36
   url: 2MTC-812
 34702:
   title: MetroTech Center, Room 816
-  capacity: 24 
+  capacity: 30 
   url: 2MTC-816
 34703:
   title: MetroTech Center, Room 817
-  capacity: 20
+  capacity: 48
   url: 2MTC-817
 34704:
   title: MetroTech Center, Room 820
-  capacity: 50
+  capacity: 36
   url: 2MTC-820
 34705:
   title: MetroTech Center, Room 830
-  capacity: 15
+  capacity: 28
   url: 2MTC-830
 34706:
   title: MetroTech Center, Room 845
-  capacity: 20
+  capacity: 30
   url: 2MTC-845
 34707:
   title: MetroTech Center, Room 9007
@@ -1142,7 +1142,7 @@ default:
   url: 2MTC-9007
 34708:
   title: MetroTech Center, Room 9009
-  capacity: 70
+  capacity: 64
   url: 2MTC-9009
 34709:
   title: MetroTech Center, Room 9011
