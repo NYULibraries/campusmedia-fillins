@@ -44,6 +44,7 @@ default:
   title: 25 West 4th Street, Room C-01
   capacity: 25
   url: 25w4-c-01
+  published: false
 238:
   title: Silver Center, Room 402
   subtitle: Floor 4
@@ -69,26 +70,32 @@ default:
   title: 25 West 4th Street, Room C-02
   capacity: 25
   url: 25w4-c-02
+  published: false
 261:
   title: 25 West 4th Street, Room C-03
   capacity: 24
   url: 25w4-c-03
+  published: false
 262:
   title: 25 West 4th Street, Room C-04
   capacity: 25
   url: 25w4-c-04
+  published: false
 263:
   title: 25 West 4th Street, Room C-05
   capacity: 24
   url: 25w4-c-05
+  published: false
 264:
   title: 25 West 4th Street, Room C-06
   capacity: 25
   url: 25w4-c-06
+  published: false
 265:
   title: 25 West 4th Street, Room C-07
   capacity: 15
   url: 25w4-c-07
+  published: false
 266:
   title: 25 West 4th Street, Room C-08
   capacity: 30
