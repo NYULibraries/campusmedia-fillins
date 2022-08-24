@@ -152,10 +152,12 @@ default:
   title: Bobst Library, Room 743
   capacity: 40
   url: bobs-743
+  published: false
 35530:
   title: Bobst Library, Room 745
   capacity: 45
   url: bobs-745
+  published: false
 1166:
   title: Bobst Library, Room 837
   capacity: 12
