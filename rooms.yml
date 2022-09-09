@@ -1156,17 +1156,17 @@ default:
   capacity: 30
   url: 2MTC-845
 34707:
-  title: MetroTech Center, Room 9007
+  title: MetroTech Center, Room 907
   capacity: 48
-  url: 2MTC-9007
+  url: 2MTC-907
 34708:
-  title: MetroTech Center, Room 9009
+  title: MetroTech Center, Room 909
   capacity: 64
-  url: 2MTC-9009
+  url: 2MTC-909
 34709:
-  title: MetroTech Center, Room 9011
+  title: MetroTech Center, Room 911
   capacity: 68
-  url: 2MTC-9011
+  url: 2MTC-911
 35528:
   title: 19 Washington Square North, Room 102
   capacity: 18
