@@ -402,7 +402,7 @@
     - 19WSN
 3061:
   display_location: false
-  address: 708 Broadway
+  address: 708 Broadway, New York, NY 10003
   location: 708 Broadway (708B)
   help:
     text: |
@@ -412,3 +412,15 @@
     email: campusmedia@nyu.edu
   keywords:
     - 708B
+3078:
+  display_location: false
+  address: 181 Mercer , New York, NY 10012
+  location: 181 Mercer Street
+  help:
+    text: |
+      Silver Center Office
+      100 Washington Square East, Room LL7A
+    phone: +1 212 998 2655
+    email: campusmedia@nyu.edu
+  keywords:
+    - 181M
