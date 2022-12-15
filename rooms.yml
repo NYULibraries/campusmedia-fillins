@@ -1091,30 +1091,37 @@ default:
   title: 370 Jay Street, Room 407
   capacity: 22
   url: 370J-407
+  published: false
 34718:
   title: 370 Jay Street, Room 408
   capacity: 22
   url: 370J-408
+  published: false
 34719:
   title: 370 Jay Street, Room 409
   capacity: 18
   url: 370J-409
+  published: false
 34720:
   title: 370 Jay Street, Room 410
   capacity: 22
   url: 370J-410
+  published: false
 34721:
   title: 370 Jay Street, Room 411
   capacity: 22
   url: 370J-411
+  published: false
 34722:
   title: 370 Jay Street, Room 412
   capacity: 22
   url: 370J-412
+  published: false
 34723:
   title: 370 Jay Street, Room 413
   capacity: 22
   url: 370J-413
+  published: false
 33856:
   title: 370 Jay Street, Room 1201
   capacity: 100
