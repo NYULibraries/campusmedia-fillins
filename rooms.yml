@@ -100,54 +100,67 @@ default:
   title: 25 West 4th Street, Room C-08
   capacity: 30
   url: 25w4-c-08
+  published: false
 267:
   title: 25 West 4th Street, Room C-09
   capacity: 26
   url: 25w4-c-09
+  published: false
 268:
   title: 25 West 4th Street, Room C-10
   capacity: 26
   url: 25w4-c-10
+  published: false
 1145:
   title: 25 West 4th Street, Room C-11
   capacity: 25
   url: 25w4-c-11
+  published: false
 1146:
   title: 25 West 4th Street, Room C-12
   capacity: 23
   url: 25w4-c-12
+  published: false
 1147:
   title: 25 West 4th Street, Room C-13
   capacity: 30
   url: 25w4-c-13
+  published: false
 1149:
   title: 25 West 4th Street, Room C-14
   capacity: 25
   url: 25w4-c-14
+  published: false
 1151:
   title: 25 West 4th Street, Room C-15
   capacity: 25
   url: 25w4-c-15
+  published: false
 1152:
   title: 25 West 4th Street, Room C-16
   capacity: 16
   url: 25w4-c-16
+  published: false
 1153:
   title: 25 West 4th Street, Room C-17
   capacity: 25
   url: 25w4-c-17
+  published: false
 1155:
   title: 25 West 4th Street, Room C-18
   capacity: 19
   url: 25w4-c-18
+  published: false
 1156:
   title: 25 West 4th Street, Room C-19
   capacity: 20
   url: 25w4-c-19
+  published: false
 1157:
   title: 25 West 4th Street, Room C-20
   capacity: 43
   url: 25w4-c-20
+  published: false
 35529:
   title: Bobst Library, Room 743
   capacity: 40
@@ -188,22 +201,27 @@ default:
   title: 45 West 4th Street, Room B01
   capacity: 24
   url: 45w4-b1
+  published: false
 1234:
   title: 45 West 4th Street, Room B02
   capacity: 26
   url: 45w4-b2
+  published: false
 1235:
   title: 45 West 4th Street, Room B04
   capacity: 16
   url: 45w4-b4
+  published: false
 1237:
   title: 45 West 4th Street, Room B06
   capacity: 30
   url: 45w4-b6
+  published: false
 1239:
   title: 45 West 4th Street, Room B07
   capacity: 19
   url: 45w4-b7
+  published: false
 1247:
   title: Silver Center, Room 101A (Jurow Lecture Hall)
   capacity: 80
@@ -895,52 +913,52 @@ default:
   title: Rubin Hall, Room 101
   capacity: 15
   url: rubn-101
-  published:
+  published: false
 32049:
   title: Rubin Hall, Room 102
   capacity: 15
   url: rubn-102
-  published:
+  published: false
 32050:
   title: Rubin Hall, Room 103
   capacity: 15
   url: rubn-103
-  published:
+  published: false
 32051:
   title: Rubin Hall, Room 104
   capacity: 15
   url: rubn-104
-  published:
+  published: false
 32052:
   title: Rubin Hall, Room 105
   capacity: 13
   url: rubn-105
-  published:
+  published: false
 32053:
   title: Rubin Hall, Room 106
   capacity: 15
   url: rubn-106
-  published:
+  published: false
 32054:
   title: Rubin Hall, Room 107
   capacity: 15
   url: rubn-107
-  published:
+  published: false
 32055:
   title: Rubin Hall, Room 108
   capacity: 15
   url: rubn-108
-  published:
+  published: false
 32056:
   title: Rubin Hall, Room 109
   capacity: 10
   url: rubn-109
-  published:
+  published: false
 32057:
   title: Rubin Hall, Room 110
   capacity: 15
   url: rubn-110
-  published:
+  published: false
 32716:
   title: 60 Fifth Avenue, Room 110
   capacity: 39
