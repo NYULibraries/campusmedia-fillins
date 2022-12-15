@@ -1206,4 +1206,7 @@ default:
    title: 708 Broadway, Room 1001
    capacity: 36
    url: 708B-1001
-   
+36054:
+  title: 181 Mercer Street, Room 230
+  capacity: 24
+  url: 181m-230
