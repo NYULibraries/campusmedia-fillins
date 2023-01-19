@@ -21,20 +21,6 @@ default:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
   body: |
-    <h2 class="message">Zoom Instruction Equipment in Classrooms</h2>  
-    
-    ### All classrooms have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
-
-    Use the installed laptop to connect to the Zoom Box (processor) and flat panel, or projector, to display content and launch a zoom session. 
-
-    Please do not use the installed AV equipment in classrooms. This equipment is disabled.
-
-    ### Zoom solutions include:
-    * large flat panel monitor or projector
-    * video conferencing system with Zoom installed
-    * camera, mic, speakers
-    * 25 foot HDMI cable
-    
 236:
   title: Silver Center, Room 401
   subtitle: Floor 4
@@ -617,21 +603,7 @@ default:
   title: Tisch Hall, Room LC19
   capacity: 36
   type: Computer Lab
-  body: |
-    <h2 class="message">Zoom Instruction Equipment in Classrooms</h2>  
-    
-    ### All classrooms have a Zoom solution for use during in-person instruction sessions. Visit the [NYU Zoom page](http://www.nyu.edu/it/zoom){: .external} for Zoom Classrooms instructions and demo video.
-
-    Use the installed laptop to connect to the Zoom Box (processor) and the flat panel, or projector, to display content and launch a zoom session. 
-
-    Please do not use the installed AV equipment in classrooms. This equipment is disabled.
-
-    ### Zoom solutions include:
-    * large flat panel monitor or projector
-    * video conferencing system with Zoom installed
-    * camera, mic, speakers
-    * 25 foot HDMI cable
-    
+  body: | 
   url: tisc-lc19
 35531:
   title: Bobst Library, Room LL112
