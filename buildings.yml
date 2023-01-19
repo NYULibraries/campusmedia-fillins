@@ -44,7 +44,6 @@
     - 19W4
 96:
   published: false
-  display_location: false
   address: 25 West 4th Street, New York, NY 10012
   location: 25 West 4th Street
   help:
@@ -129,7 +128,6 @@
     - GCASL
 214:
   published: false
-  display_location: false
   address: 45 West 4th Street, New York, NY 10012
   location: 45 West 4th Street
   help:
@@ -254,7 +252,6 @@
     - 60FA
 2853:
   published: false
-  display_location: false
   address: 35 Fifth Avenue, New York, NY 10003
   location: Rubin Hall (RUBN)
   help:
