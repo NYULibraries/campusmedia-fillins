@@ -20,7 +20,7 @@ default:
   libanswers:
     topic_ids: 46490
     link: https://library.answers.nyu.edu/search/?t=0&g=369&topics=Campus%20Media&adv=1
-  body: |
+  body: ""
 236:
   title: Silver Center, Room 401
   subtitle: Floor 4
