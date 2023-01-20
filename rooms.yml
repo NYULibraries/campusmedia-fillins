@@ -86,67 +86,54 @@ default:
   title: 25 West 4th Street, Room C-08
   capacity: 30
   url: 25w4-c-08
-  published: false
 267:
   title: 25 West 4th Street, Room C-09
   capacity: 26
   url: 25w4-c-09
-  published: false
 268:
   title: 25 West 4th Street, Room C-10
   capacity: 26
   url: 25w4-c-10
-  published: false
 1145:
   title: 25 West 4th Street, Room C-11
   capacity: 25
   url: 25w4-c-11
-  published: false
 1146:
   title: 25 West 4th Street, Room C-12
   capacity: 23
   url: 25w4-c-12
-  published: false
 1147:
   title: 25 West 4th Street, Room C-13
   capacity: 30
   url: 25w4-c-13
-  published: false
 1149:
   title: 25 West 4th Street, Room C-14
   capacity: 25
   url: 25w4-c-14
-  published: false
 1151:
   title: 25 West 4th Street, Room C-15
   capacity: 25
   url: 25w4-c-15
-  published: false
 1152:
   title: 25 West 4th Street, Room C-16
   capacity: 16
   url: 25w4-c-16
-  published: false
 1153:
   title: 25 West 4th Street, Room C-17
   capacity: 25
   url: 25w4-c-17
-  published: false
 1155:
   title: 25 West 4th Street, Room C-18
   capacity: 19
   url: 25w4-c-18
-  published: false
 1156:
   title: 25 West 4th Street, Room C-19
   capacity: 20
   url: 25w4-c-19
-  published: false
 1157:
   title: 25 West 4th Street, Room C-20
   capacity: 43
   url: 25w4-c-20
-  published: false
 35529:
   title: Bobst Library, Room 743
   capacity: 40
