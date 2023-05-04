@@ -24,7 +24,7 @@
   location: 194 Mercer Street
   help:
     text: |
-      Mercer Street Office  
+      194 Mercer Street Office  
       194 Mercer Street, Room 302
     phone: +1 212 992 8563
     email: campusmedia@nyu.edu
@@ -419,9 +419,9 @@
   location: 181 Mercer Street
   help:
     text: |
-      Silver Center Office
-      100 Washington Square East, Room LL7A
-    phone: +1 212 998 2655
+      181 Mercer Street Office
+      181 Mercer Street, Room 342
+    phone: +1 212 998 2727
     email: campusmedia@nyu.edu
   keywords:
     - 181M
