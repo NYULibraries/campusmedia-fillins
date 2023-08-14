@@ -1133,6 +1133,18 @@ default:
   title: MetroTech Center, Room 820
   capacity: 36
   url: 2MTC-820
+36542:
+  title: MetroTech Center, Room 825
+  capacity: 25
+  url: 2MTC-825
+36546:
+  title: MetroTech Center, Room 827
+  capacity: 20
+  url: 2MTC-827
+36547:
+  title: MetroTech Center, Room 828
+  capacity: 48
+  url: 2MTC-828
 34705:
   title: MetroTech Center, Room 830
   capacity: 28
