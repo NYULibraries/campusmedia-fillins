@@ -1409,6 +1409,9 @@ default:
   title: 181 Mercer Street, Room 444
   capacity: 18
   url: 181m-444
-
+36572:
+  title: Silver Center, Room 104 (Active Learning Classroom)
+  capacity: 96
+  url: silv-104
 
 
