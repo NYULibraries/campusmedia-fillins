@@ -205,7 +205,7 @@ CM-Installed Flat Screen COVID (2):
   label: Flat Screen (2)
   type: technology
   description:
-CM-Installed Zoom Enabled Equipment
+CM-Installed Zoom Enabled Equipment:
   label: Zoom Enabled
   type: feature
   description:
